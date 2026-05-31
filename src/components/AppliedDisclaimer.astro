@@ -1,0 +1,18 @@
+---
+// Single source of truth for the applied-musings note.
+// Rendered by Post.astro whenever collection === 'applied-musings'.
+interface Props {
+  companionSlug?: string;
+}
+const { companionSlug } = Astro.props;
+---
+<p class="applied-disclaimer">
+  An <strong>applied musing</strong> &ndash; written for a general audience.{' '}
+  {
+    companionSlug && (
+      <span>
+        There&rsquo;s a longer companion piece <a href={`/posts/${companionSlug}/`}>here</a>.
+      </span>
+    )
+  }
+</p>

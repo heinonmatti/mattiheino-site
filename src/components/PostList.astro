@@ -1,0 +1,26 @@
+---
+import { cleanSlug } from '../lib/slug';
+import type { Item } from '../lib/collections';
+
+interface Props {
+  items: Item[];
+}
+const { items } = Astro.props;
+
+const fmt = (d: Date) =>
+  d.toLocaleDateString('en-GB', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+<ul class="post-list">
+  {
+    items.map((e) => (
+      <li>
+        <h2>
+          <a href={`/${e.collection}/${cleanSlug(e.id)}/`}>{e.data.title}</a>
+          {e.data.lang === 'fi' && <span class="lang-tag">FI</span>}
+        </h2>
+        <p class="meta">{fmt(e.data.published)}</p>
+        <p>{e.data.description}</p>
+      </li>
+    ))
+  }
+</ul>

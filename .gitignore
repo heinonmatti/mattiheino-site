@@ -1,0 +1,25 @@
+# Node
+node_modules/
+
+# Astro build
+dist/
+.astro/
+
+# Migration sources and intermediates (kept local, never pushed)
+migration/source/
+migration/source/media/
+migration/cache/
+
+# Editor / OS
+.DS_Store
+*.log
+.vscode/
+.idea/
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Pagefind output
+public/pagefind/

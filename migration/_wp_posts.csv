@@ -1,0 +1,131 @@
+type,status,date,slug,title,chars,link
+page,private,2012-09-17,tervetuloa,Tervetuloa,820,https://mattiheino.com/tervetuloa/
+page,private,2012-11-03,reflektiota-oppimisesta-pohdintaa-lahtotilanteesta,Reflektiota oppimisesta: pohdintaa lähtötilanteesta,1598,https://mattiheino.com/johdatus-kayttaytymisarkkitehtuuriin/reflektiota-oppimisesta-pohdintaa-lahtotilanteesta/
+post,publish,2012-11-04,millaiset-asiat-ovat-sinulle-helppoja,Millaiset asiat ovat sinulle helppoja? Johdatus käyttäytymisarkkitehtuuriin,3198,https://mattiheino.com/2012/11/04/millaiset-asiat-ovat-sinulle-helppoja/
+page,private,2012-12-01,sisallysluettelo,Sisällysluettelo,202,https://mattiheino.com/sisallysluettelo/
+page,publish,2012-12-01,johdatus-kayttaytymisarkkitehtuuriin,Johdatus käyttäytymisarkkitehtuuriin,2604,https://mattiheino.com/johdatus-kayttaytymisarkkitehtuuriin/
+page,private,2012-12-02,yhteistyon-manifesti,Yhteistyön manifesti,7635,https://mattiheino.com/johdatus-kayttaytymisarkkitehtuuriin/yhteistyon-manifesti/
+post,publish,2012-12-02,yhteistyon-manifesti,Yhteistyön manifesti,6236,https://mattiheino.com/2012/12/02/yhteistyon-manifesti/
+page,publish,2012-12-08,10-taitoa,Työmarkkinoiden uudet vaateet,8104,https://mattiheino.com/10-taitoa/
+post,publish,2012-12-21,harjoitukset-alkavat,Harjoitukset alkavat,2964,https://mattiheino.com/2012/12/21/harjoitukset-alkavat/
+post,draft,2012-12-29,uusi-vuosi-vanha-tyo,Evoluutiopsykologian neuvot työolojen parantamiseksi,1514,https://mattiheino.com/?p=222
+post,publish,2013-01-29,mita-jai-kertomatta,"Muistatko, mitä sinulle ei kerrottu?",3903,https://mattiheino.com/2013/01/29/mita-jai-kertomatta/
+page,private,2013-01-30,parempaa-ajattelua-rakentamassa,Parempaa ajattelua rakentamassa,33,https://mattiheino.com/johdatus-kayttaytymisarkkitehtuuriin/parempaa-ajattelua-rakentamassa/
+post,publish,2013-02-17,tavallista-vai-taikaa,Tavallista vai taikaa,4079,https://mattiheino.com/2013/02/17/tavallista-vai-taikaa/
+post,publish,2013-04-24,aloita-ennen-kuin-lopetat,Aloita ennen kuin lopetat,4340,https://mattiheino.com/2013/04/24/aloita-ennen-kuin-lopetat/
+post,publish,2013-05-26,tunnista-muumiosi,Neljä tapaa tunnistaa sisäinen muumiosi,2985,https://mattiheino.com/2013/05/26/tunnista-muumiosi/
+post,publish,2013-10-01,honkays-hengentiedetta-ebp,Hönkäys Hengentiedettä: Miksei näyttö vakuuta?,4497,https://mattiheino.com/2013/10/01/honkays-hengentiedetta-ebp/
+post,publish,2013-10-13,kolme-edellytysta-kehitykselle,Kaksi edellytystä kehitykselle,4032,https://mattiheino.com/2013/10/13/kolme-edellytysta-kehitykselle/
+post,publish,2013-11-16,epailys-vai-avomielisyys,"Milloin valitsen epäilyksen, milloin avomielisyyden?",3081,https://mattiheino.com/2013/11/16/epailys-vai-avomielisyys/
+post,publish,2013-12-18,honkays-hengentiedetta-kaytosmuutos,Hönkäys Hengentiedettä: Mikä toimii käyttäytymistä muutettaessa?,4092,https://mattiheino.com/2013/12/18/honkays-hengentiedetta-kaytosmuutos/
+post,publish,2014-02-04,menneisyyden_polvasti,"Menneisyyden minä, tuo ikuinen pölvästi?",3670,https://mattiheino.com/2014/02/04/menneisyyden_polvasti/
+post,publish,2014-03-11,saikayttamalla-savuttomaksi,Pelkoa ja inhoa käyttäytymisen muutoksessa,5200,https://mattiheino.com/2014/03/11/saikayttamalla-savuttomaksi/
+post,publish,2014-03-16,lohdullinen-epavarmuus,Lohdullinen epävarmuus,7018,https://mattiheino.com/2014/03/16/lohdullinen-epavarmuus/
+post,publish,2014-05-29,aivovoimaa-purkista,Tutkimusten käyttö Onnen Oikoteiden markkinoinnissa: Case AlphaBRAIN™,7035,https://mattiheino.com/2014/05/29/aivovoimaa-purkista/
+post,publish,2014-06-01,plasebojoiku,Suunnistusta lumeen ja riskien näreikössä,6467,https://mattiheino.com/2014/06/01/plasebojoiku/
+post,publish,2014-06-09,5x-parempaa-tyota,Viisi kysymystä parempien päätösten tuunaukseen,4643,https://mattiheino.com/2014/06/09/5x-parempaa-tyota/
+post,publish,2014-07-14,unilateraalisen-sekasortoaltruismin-ohjelmajulistus,Unilateraalisen sekasortoaltruismin ohjelmajulistus,8329,https://mattiheino.com/2014/07/14/unilateraalisen-sekasortoaltruismin-ohjelmajulistus/
+post,publish,2014-09-21,adaptiivinenmaisema,Kolme tärppiä muuttuvassa ympäristössä selviytymiseen,5163,https://mattiheino.com/2014/09/21/adaptiivinenmaisema/
+post,publish,2014-10-01,meditaatiomyytit,Meditaatiomyytit: mitä terveyslehdet jättivät kertomatta,8587,https://mattiheino.com/2014/10/01/meditaatiomyytit/
+post,publish,2014-11-30,muutoskartta,Käyttäytymisen muutos: kartalta käytäntöön,10096,https://mattiheino.com/2014/11/30/muutoskartta/
+post,draft,2015-01-05,,Kuinka lukea populaaripsykologista kirjallisuutta,241,https://mattiheino.com/?p=808
+post,publish,2015-01-11,pospsy-tiede-toive,Positiivinen psykologia – tiedettä ja toiveikkuutta,10650,https://mattiheino.com/2015/01/11/pospsy-tiede-toive/
+post,draft,2015-01-13,,Omien silmien uskomisesta,3724,https://mattiheino.com/?p=797
+post,publish,2015-01-17,onnellisuus-nautinto-merkitys,"Onnellisuus, nautinto ja merkitys",9005,https://mattiheino.com/2015/01/17/onnellisuus-nautinto-merkitys/
+post,publish,2015-01-31,hyva-luoja,Oletko tietämättäsi luova?,12657,https://mattiheino.com/2015/01/31/hyva-luoja/
+post,draft,2015-02-04,,Onnistujan on epäonnistuttava,144,https://mattiheino.com/?p=915
+post,draft,2015-02-18,,Tutkimuksen kehittäminen / Tiede päätöksenteon hauraana tukena,5583,https://mattiheino.com/?p=918
+post,draft,2015-03-20,,Informaatiouhka,291,https://mattiheino.com/?p=925
+post,publish,2015-04-18,ratkaisu-eriarvoistumiseen,Hönkäys hengentiedettä: Ratkaisu eriarvoistumiseen (?!),11431,https://mattiheino.com/2015/04/18/ratkaisu-eriarvoistumiseen/
+post,draft,2015-05-01,,"P-arvon tulkinta, tiedelukutaidon surma",11141,https://mattiheino.com/?p=941
+post,draft,2015-05-08,,Tuhoutumattomuuden tiellä: Kukistumaton mieli,1552,https://mattiheino.com/?p=977
+post,publish,2015-05-27,henkinen-kriisinkestavyys,Tuhoutumattomuuden tiellä: henkinen kriisinkestävyys,16897,https://mattiheino.com/2015/05/27/henkinen-kriisinkestavyys/
+page,draft,2015-09-23,research-the-academic-stuff,Research (some academic stuff),1585,https://mattiheino.com/?page_id=1051
+post,publish,2015-09-23,tyomarkkinoiden-uudet-vaateet,Työmarkkinoiden uudet vaateet,8103,https://mattiheino.com/2015/09/23/tyomarkkinoiden-uudet-vaateet/
+post,publish,2015-10-10,defeating-the-crisis-of-confidence-in-science-3-3-ideas,Defeating the crisis of confidence in science: 3 + 3 ideas,16562,https://mattiheino.com/2015/10/10/defeating-the-crisis-of-confidence-in-science-3-3-ideas/
+post,publish,2015-10-10,taking-back-the-power-in-cluster-randomization,Taking back the power (in cluster randomization),6304,https://mattiheino.com/2015/10/10/taking-back-the-power-in-cluster-randomization/
+page,draft,2015-12-05,,Welcome / Tervetuloa,19,https://mattiheino.com/?page_id=1145
+post,publish,2016-01-30,bias-meditation-clarity,"Bias, meditation and the pursuit of clarity",6754,https://mattiheino.com/2016/01/30/bias-meditation-clarity/
+post,publish,2016-02-28,welcome-tervetuloa,Welcome / Tervetuloa!,16974,https://mattiheino.com/2016/02/28/welcome-tervetuloa/
+post,publish,2016-04-26,analyse-your-design,"Analyse your research design, before someone else does",6112,https://mattiheino.com/2016/04/26/analyse-your-design/
+post,publish,2016-05-03,myth-of-the-magical-because,The myth of the magical &#8220;Because&#8221;,5744,https://mattiheino.com/2016/05/03/myth-of-the-magical-because/
+post,publish,2016-08-05,introducing-raistlin-laplace,Introducing Raistlin Laplace,6894,https://mattiheino.com/2016/08/05/introducing-raistlin-laplace/
+post,publish,2016-08-05,esittelyssa-raistlin-laplace,Esittelyssä Raistlin Laplace,6801,https://mattiheino.com/2016/08/05/esittelyssa-raistlin-laplace/
+post,publish,2016-08-19,short-intro-to-whats-up,A short intro to what's up,783,https://mattiheino.com/2016/08/19/short-intro-to-whats-up/
+post,publish,2016-08-26,getting-started-with-bayes,Getting Started With Bayes,2400,https://mattiheino.com/2016/08/26/getting-started-with-bayes/
+post,publish,2016-11-01,feed-the-beast,How lack of transparency feeds the beast,1505,https://mattiheino.com/2016/11/01/feed-the-beast/
+post,publish,2016-11-13,legacy-of-psychology,The legacy of social psychology,11285,https://mattiheino.com/2016/11/13/legacy-of-psychology/
+post,publish,2016-12-02,p-walks-into-a-bar-chart,The art of expecting p-values,14233,https://mattiheino.com/2016/12/02/p-walks-into-a-bar-chart/
+post,publish,2016-12-27,deterministic-not-predictable,Deterministic doesn't mean predictable,9215,https://mattiheino.com/2016/12/27/deterministic-not-predictable/
+post,publish,2017-02-13,death-doesnt-kill-you-and-other-reasons-to-study-behaviour-change,Death doesn't kill you (and other reasons to study behaviour change),339,https://mattiheino.com/2017/02/13/death-doesnt-kill-you-and-other-reasons-to-study-behaviour-change/
+post,publish,2017-03-23,preprints-short-and-sweet,"Preprints, short and sweet",1408,https://mattiheino.com/2017/03/23/preprints-short-and-sweet/
+post,publish,2017-05-01,evaluating-intervention-program-theories,Evaluating intervention program theories – as theories,946,https://mattiheino.com/2017/05/01/evaluating-intervention-program-theories/
+post,publish,2017-06-02,replication-is-impossible,"Replication is impossible, falsification unnecessary and truth lies in published articles (?)",13127,https://mattiheino.com/2017/06/02/replication-is-impossible/
+post,publish,2017-06-11,missing-data-the-ninja-of-biases,"Missing data, the inferential assassin",2855,https://mattiheino.com/2017/06/11/missing-data-the-ninja-of-biases/
+post,publish,2017-08-18,scientific-evaluation,The scientific foundation of intervention evaluation,12891,https://mattiheino.com/2017/08/18/scientific-evaluation/
+post,publish,2017-08-25,mechanisms-under-complexity,Is it possible to unveil intervention mechanisms under complexity?,12992,https://mattiheino.com/2017/08/25/mechanisms-under-complexity/
+post,publish,2017-08-30,replicability-of-mechanisms-in-health-psychology,Replicability of mechanisms in health psychology,485,https://mattiheino.com/2017/08/30/replicability-of-mechanisms-in-health-psychology/
+post,publish,2017-09-09,intro-data-management,Introduction to data management best practices,13582,https://mattiheino.com/2017/09/09/intro-data-management/
+post,draft,2017-09-23,,Can there be reproducibility in intervention research?,8066,https://mattiheino.com/?p=2542
+post,draft,2017-10-13,,Determining the importance of predictors for health psychology questions,2610,https://mattiheino.com/?p=3400
+post,draft,2017-11-03,,Covariates and causality,375,https://mattiheino.com/?p=3423
+post,publish,2018-01-23,crises-and-reforms,Crises of confidence and publishing reforms: State of affairs in 2018 (slides),1939,https://mattiheino.com/2018/01/23/crises-and-reforms/
+post,draft,2018-01-24,,Should we regulate tone in scientific debates?,693,https://mattiheino.com/?p=3445
+post,publish,2018-02-25,open-technical-reports,Open technical reports for the technically-minded,4960,https://mattiheino.com/2018/02/25/open-technical-reports/
+post,publish,2018-03-25,dynamic-habits,The secret life of (complex dynamical) habits,9032,https://mattiheino.com/2018/03/25/dynamic-habits/
+post,publish,2018-05-06,visualising-ordinal-data,Visualising ordinal data with Flaming Pillars of Hell,3714,https://mattiheino.com/2018/05/06/visualising-ordinal-data/
+post,publish,2018-05-14,assumptions-schmassumptions,"Assumptions, Schmassumptions; Did my intervention work or not?!",560,https://mattiheino.com/2018/05/14/assumptions-schmassumptions/
+post,publish,2018-05-19,averagerianism,Their mean doesn't work for you,8767,https://mattiheino.com/2018/05/19/averagerianism/
+post,publish,2018-09-04,tools-for-communicating,Modern tools to enhance reproducibility and comprehension of research findings (VIDEO WALKTHROUGH 14min),3911,https://mattiheino.com/2018/09/04/tools-for-communicating/
+post,publish,2018-10-25,naming-assumptions,Misleading simplifications and where to find them (Slides &amp; Mini-MOOC 11min),1557,https://mattiheino.com/2018/10/25/naming-assumptions/
+post,publish,2019-02-04,complex-processes,Complexity considerations for intervention (process) evaluation,1606,https://mattiheino.com/2019/02/04/complex-processes/
+post,publish,2019-02-20,statistical-testing,Statistical tests for social science,2078,https://mattiheino.com/2019/02/20/statistical-testing/
+post,draft,2019-04-10,,N=1 dataset with Stroop etc.,1680,https://mattiheino.com/?p=3554
+post,publish,2019-05-10,correlation,Correlation pitfalls – Happier times with mutual information?,10544,https://mattiheino.com/2019/05/10/correlation/
+post,publish,2019-05-11,idiography-illustrated,Idiography illustrated: Things you miss when averaging people,7415,https://mattiheino.com/2019/05/11/idiography-illustrated/
+post,publish,2019-07-20,informing-policy,Randomised experiments (mis?)informing social policy in complex systems,13642,https://mattiheino.com/2019/07/20/informing-policy/
+post,publish,2019-07-28,shitty-tables,Why you should share Data Nudes instead of just Shitty Tables,19575,https://mattiheino.com/2019/07/28/shitty-tables/
+post,publish,2019-08-12,pathways-and-complexity,Pathways and complexity in behaviour change research,2467,https://mattiheino.com/2019/08/12/pathways-and-complexity/
+post,publish,2019-08-27,networks-in-social-and-other-sciences,Networks in social and other sciences,217,https://mattiheino.com/2019/08/27/networks-in-social-and-other-sciences/
+post,publish,2019-09-04,carma,CARMA: Critical Appraisal of Research Methods and Analysis,18622,https://mattiheino.com/2019/09/04/carma/
+post,publish,2020-03-01,shadow-mean,"Coronavirus, lifestyle diseases and the Shadow Mean",17109,https://mattiheino.com/2020/03/01/shadow-mean/
+post,publish,2020-03-24,koronavirus-suomeksi,"Suomenkielisiä työkaluja COVID-19 taisteluun; yksilöille, yrityksille ja päätöksentekijöille",13671,https://mattiheino.com/2020/03/24/koronavirus-suomeksi/
+post,publish,2020-03-31,complexity-channel,Complexity methods for behavioural sciences: YouTube channel and resources,16740,https://mattiheino.com/2020/03/31/complexity-channel/
+post,draft,2020-04-05,,Apologeia of a linear thinker,8042,https://mattiheino.com/?p=3728
+post,publish,2020-04-12,inflexibility,The Power of Inflexibility in Improving Science and Fighting COVID-19,11206,https://mattiheino.com/2020/04/12/inflexibility/
+post,publish,2020-05-04,bar-yam,Suomen tie ulos kriisistä,8588,https://mattiheino.com/2020/05/04/bar-yam/
+post,publish,2020-08-17,itseohjautuvuus,"Itseohjautuvat kansalaiset, kriisinkestävä yhteiskunta",15785,https://mattiheino.com/2020/08/17/itseohjautuvuus/
+post,publish,2020-10-19,besp,Complexity perspectives on behaviour change interventions,10856,https://mattiheino.com/2020/10/19/besp/
+post,publish,2020-11-29,interaction-not-interaction,Interaction is not interaction: An interview with Fred Hasselman,5129,https://mattiheino.com/2020/11/29/interaction-not-interaction/
+post,publish,2020-12-17,complexity-matters,The Complexity Matters Vodcast,5164,https://mattiheino.com/2020/12/17/complexity-matters/
+post,publish,2021-03-07,valmius,Pandemia haastaa ajattelumme: Neljä kompastuskiveä torjuntapolulla,11562,https://mattiheino.com/2021/03/07/valmius/
+post,publish,2021-06-17,arjen-resilienssi,Self-determined and self-organised: Fighting pandemics on the appropriate scales,11861,https://mattiheino.com/2021/06/17/arjen-resilienssi/
+post,publish,2021-06-28,irtikytkeytymiskyvykkyys,"Pandemia, irtikytkeytymiskyvykkyys ja mitä sitten?",14475,https://mattiheino.com/2021/06/28/irtikytkeytymiskyvykkyys/
+post,publish,2021-10-17,sissisota,Koronataistelu muuttuu sissisodaksi,8819,https://mattiheino.com/2021/10/17/sissisota/
+post,publish,2021-12-11,intro-complexity-bc,"What Does ""Behaviour Change Science"" Study?",4901,https://mattiheino.com/2021/12/11/intro-complexity-bc/
+post,publish,2022-02-21,let-me-be-your-deja-vu,When Finland Decided to Open Up: A Behavioural Scientist's Perspective,15541,https://mattiheino.com/2022/02/21/let-me-be-your-deja-vu/
+post,draft,2022-06-05,,Statistical illusions to hinder public understanding of pandemic casualties,407,https://mattiheino.com/?p=4201
+post,publish,2023-01-13,attractors,"At-tractor what-tractor? Tipping points in behaviour change science, with applications to risk management",9109,https://mattiheino.com/2023/01/13/attractors/
+post,publish,2023-01-16,tartuntojen-torjunta,Tartuntojen torjunta ja unohtunut ennakointi,18784,https://mattiheino.com/2023/01/16/tartuntojen-torjunta/
+post,publish,2023-05-30,dissertation-trailer,The Shape of Change to Come,8099,https://mattiheino.com/2023/05/30/dissertation-trailer/
+post,publish,2023-06-05,kayttaytymisen-muutosjohtaminen,Käyttäytymisen muutosjohtaminen,15781,https://mattiheino.com/2023/06/05/kayttaytymisen-muutosjohtaminen/
+post,publish,2023-08-08,training,Improving organisational capacity to operate under uncertainty: Start with training?,15851,https://mattiheino.com/2023/08/08/training/
+post,publish,2023-08-25,osallistaminen,Osallistaminen on riskien hallintaa,10162,https://mattiheino.com/2023/08/25/osallistaminen/
+post,publish,2023-12-02,crafting-policies,Crafting Policies for an Interconnected World,21543,https://mattiheino.com/2023/12/02/crafting-policies/
+post,publish,2024-02-21,palvelupolut,Äkillisesti vammautuneet haastavat terveydenhuollon palvelupolut,19091,https://mattiheino.com/2024/02/21/palvelupolut/
+post,publish,2024-04-15,varautumismuotoilu,Riskinhallinta epävarmuuden aikoina: Väestön osallistaminen varautumis- ja ennakointimuotoiluun,2810,https://mattiheino.com/2024/04/15/varautumismuotoilu/
+post,publish,2024-04-25,behaviour-change-via-negativa,What Behaviour Change Science is Not,8600,https://mattiheino.com/2024/04/25/behaviour-change-via-negativa/
+post,publish,2024-05-29,turvallisuustapahtuma,“Mistä tässä tilanteessa on kyse?”: Henkisestä kriisinkestävyydestä yhteisölliseen kriisitoimijuuteen,17381,https://mattiheino.com/2024/05/29/turvallisuustapahtuma/
+post,publish,2024-05-30,sense-of-safety,New paper: From a False Sense of Safety to Resilience Under Uncertainty,10857,https://mattiheino.com/2024/05/30/sense-of-safety/
+post,draft,2024-08-05,,Miksi ilmanvaihto ja -puhdistus? Terveempää arkea pienillä teoilla,400,https://mattiheino.com/?p=4624
+post,draft,2024-08-05,,,11295,https://mattiheino.com/?p=4681
+post,publish,2024-08-05,ilmahygienia-aloitus,Opi torjumaan viruksia ja parantamaan sisäilman laatua!,3861,https://mattiheino.com/2024/08/05/ilmahygienia-aloitus/
+post,publish,2024-08-05,ilmahygienia-miksi,Miksi ilmanvaihto ja -puhdistus? Terveempää arkea pienillä teoilla,15989,https://mattiheino.com/2024/08/05/ilmahygienia-miksi/
+post,publish,2024-08-05,ilmahygienia-ilmanvaihto,Työkalut pandemiaturvalliseen ilmanvaihtoon,14696,https://mattiheino.com/2024/08/05/ilmahygienia-ilmanvaihto/
+post,publish,2024-08-05,ilmahygienia-keinot,4 + 1 keinoa parantaa ilmanvaihtoa - jokaiselle!,10909,https://mattiheino.com/2024/08/05/ilmahygienia-keinot/
+post,publish,2024-08-05,ilmahygienia-asiakkaat,Ilmanvaihto kunnossa? Kerro siitä asiakkaille!,4858,https://mattiheino.com/2024/08/05/ilmahygienia-asiakkaat/
+post,publish,2024-08-05,ilmahygienia-testaa-tietosi,Testaa tietosi!,12271,https://mattiheino.com/2024/08/05/ilmahygienia-testaa-tietosi/
+post,publish,2024-08-28,childrens-party,Affordance Mapping to Manage Complex Systems: Planning a Children's Party,5764,https://mattiheino.com/2024/08/28/childrens-party/
+post,publish,2025-05-17,fruit-salad,From Fruit Salad to Baked Bread: Understanding Complex Systems for Behaviour Change,20420,https://mattiheino.com/2025/05/17/fruit-salad/
+post,publish,2025-11-10,tail-events,"Evidence is in the Past, Risk is in the Future: On Tail Events and Foresight",21551,https://mattiheino.com/2025/11/10/tail-events/
+post,publish,2025-12-13,infection-spread,From Droplets to Fine Particles: How the pandemic changed our understanding of infection spread,16927,https://mattiheino.com/2025/12/13/infection-spread/

@@ -1,0 +1,20 @@
+---
+import Base from '../../layouts/Base.astro';
+import PostList from '../../components/PostList.astro';
+import { liveMusings } from '../../lib/collections';
+
+const items = (await liveMusings()).sort(
+  (a, b) => b.data.published.getTime() - a.data.published.getTime(),
+);
+---
+<Base
+  title="Applied musings – Matti T.J. Heino"
+  description="Lighter, practical pieces."
+>
+  <h1>Applied musings</h1>
+  <p>
+    Lighter, practical pieces. Some have a longer
+    companion under <a href="/posts/">Research pieces</a>.
+  </p>
+  <PostList items={items} />
+</Base>

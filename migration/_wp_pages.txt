@@ -1,0 +1,277 @@
+### [page] Tervetuloa | slug=tervetuloa | private | 2012-09-17 | 820 chars
+
+Näiden sivujen tarkoituksena on lisätä tietoa inhimilliseen toimintaan vaikuttamisesta yhteisen hyvinvoinnin lisäämiseksi. Tavoitteena on löytää näkökulmia niin omaan kuin muidenkin käyttäytymiseen.
+
+Toivottavasti löydät jotain kiinnostavaa.
+
+Ystävällisesti,
+
+Heinon Matti
+
+ps. jos etsit Muutoskartta-työkalua, löydät sen tästä <a title="Muutoskartta" href="https://mattiheino.com/wp-content/uploads/2014/11/muutoskartta_fin_2-sivuinen_upd.doc">linkistä</a> (<a title="Käyttäytymisen muutos: kartalta käytäntöön" href="http://mattiheino.com/2014/11/30/muutoskartta/" target="_blank">ohjeet</a>)
+
+<a href="http://www.linkedin.com/pub/matti-heino/10/b3b/176">Tietoa ylläpitäjästä.</a>
+
+<a href="https://www.facebook.com/pages/K%C3%A4ytt%C3%A4ytymisarkkitehtuuri/307159826064031">Käyttäytymisarkkitehtuuri Facebookissa</a>.
+
+==========================================================================================
+
+### [page] Reflektiota oppimisesta: pohdintaa lähtötilanteesta | slug=reflektiota-oppimisesta-pohdintaa-lahtotilanteesta | private | 2012-11-03 | 1598 chars
+
+Lähtötilanteeni eroaa mielestäni melko paljon muista ensimmäisen vuoden opiskelijoista. Olen kirjoitushetkellä käyttänyt aktiivisesti noin viisi vuotta pitkän tähtäimen tavoitteideni, halujeni ja voimavarojeni selvittämiseen, minkä perusteella tulevaisuuden suunnitelmani eivät ovat aivan niin sumuisia kuin useimpien muiden.
+
+Minulla on taustalla liiketalouden tutkinto, jonka uskon auttavan ymmärtämään työelämän haasteita. Olen myös ollut työelämässä sen aikaa, että olen tietyillä aloilla jo "ansainnut kannukseni", ja haluaisin yhdistää nämä tiedot sosiaalipsykologiseen tutkimukseen, tätä kautta suuntautuen inhimillisen hyvinvoinnin edistämiseen.
+
+Tällä hetkellä suhtautumiseni kvalitatiiviseen tutkimukseen on hieman ristiriitainen. Jostain syystä pidän kokeellista tutkimusta huomattavasti suuremmassa arvossa, kuin korrelaatioiden ja kvalitatiivisten oivallusten etsimistä. Toivon, että opiskeluaikanani oppisin kehittämään tietokäsitystäni ja ymmärtämään kokeellisen tutkimuksen heikkouksia - esimerkiksi vihan kokemuksen kokeellista tutkimustahan on paljolti kritisoitu, ja kokeiden ekologinen validiteetti on usein kyseenalainen.
+
+Viime vuosina minuun on vaikuttanut valtavasti Nassim Nicholas Talebin tuotanto (esim. Black Swan) ja olen viime aikoina kehittänyt valtavan kiinnostuksen tilastollisten menetelmien oikeaoppista käyttöä kohtaan - pitkään karsastamani SPSS on myös tullut työn kautta välttämättömäksi työvälineeksi.
+
+Olen erittäin innoissani eteeni aukeavista mahdollisuuksista, uuden oppiminen on ollut minulle vasta vajaa kymmenen vuotta uskomattoman palkitseva kokemus.
+
+==========================================================================================
+
+### [page] Sisällysluettelo | slug=sisallysluettelo | private | 2012-12-01 | 202 chars
+
+<a href="http://blogs.helsinki.fi/hema/2012/11/04/millaiset-asiat-ovat-sinulle-helppoja/">Millaiset asiat ovat sinulle helppoja? Johdatus käyttäytymisarkkitehtuuriin.</a>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+==========================================================================================
+
+### [page] Johdatus käyttäytymisarkkitehtuuriin | slug=johdatus-kayttaytymisarkkitehtuuriin | publish | 2012-12-01 | 2604 chars
+
+Viime vuosina neurotieteet ovat edenneet suurin harppauksin eteenpäin ja aivojen toiminnasta tiedetään valtavasti enemmän, kuin vielä lyhyt hetki sitten. Yksi tärkeistä löydöksistä koskee aivojen rakennetta: niissä tapahtuu muutoksia - fyysisiä, kokemuksen luomia muutoksia - läpi elämän.
+
+Yksi tapa havainnollistaa asiaa on ajatella, kuinka aivot ovat kuin metsä, jonka paljon kuljetuille alueille muodostuu polkuja, joita pitkin kulkeminen helpottuu. Mitä enemmän jotain asiaa tekee, sitä helpommaksi se tulee - esimerkiksi mitä enemmän kiukuttelee, sitä paremmaksi tulee kiukuttelussa. Moni lienee kuullut myös tutkimuksista, joissa huomattiin lontoolaisten taksikuskien tilan hahmottamista käsittelevien aivoalueiden olevan <a href="http://www.sciencedaily.com/releases/2011/12/111208125720.htm">fyysisesti erilaiset</a> kuin tavallisilla tallaajilla, tai siitä, miten <a href="http://www.sciencedaily.com/releases/2012/10/121008082953.htm">kielten oppiminen kasvattaa aivoja</a>.
+
+Toistaiseksi aivoja voi käyttää vain yksi henkilö, niiden omistaja. Teemme päivittäisessä elämässämme valintoja, joista muovautuu polkuja aivojemme metsään. Toimimme siis paitsi kulkijoina, myös muovaajina - arkkitehteina. Siinä, missä rakennusarkkitehdit muokkaavat fyysistä ympäristöä ja sitä kautta<a href="http://www.hs.fi/ulkomaat/Tutkimus+Avarat+koulurakennukset+ehk%C3%A4isev%C3%A4t+v%C3%A4kivaltaa/a1305560579167"> jopa käyttäytymistä</a>, käyttäytymisarkkitehdit muuttavat käyttäytymistä mielensisäisten rakenteiden avulla. Kun tulet tietoiseksi omasta käyttäytymisestäsi ja pyrit aktiivisesti muuttamaan sitä haluamaasi suuntaan, muutut satunnaisesta kulkijasta käyttäytymisarkkitehdiksi.
+
+Käyttäytymisarkkitehtuurilla tässä blogissa viitataan sellaisten mielensisäisten käyttäytymismallien luomiseen, jotka tilannetekijöihin yhdistettynä saavat yksilöt, tiimit ja yhteisöt voimaan ja toimimaan paremmin niin suorituskyvyn, kuin hyvinvoinninkin kannalta.
+
+Käyttäytymisarkkitehtuurin taustatieteinä voi nähdä psykologian ja erityisesti sosiaalipsykologian, mutta se ei rajaa itseään yksittäiseen tieteenalaan. Sen tuntemuksesta voi hyötyä niin oman itsensä hallitsemisessa kuin muiden käyttäytymisen ymmärtämisessä, ennustamisessa ja muuttamisessa.
+
+Mitä teet, siksi muutut. Mitä aiot tehdä huomenna?
+
+&nbsp;
+
+Kirjallisuutta:
+<ul>
+	<li>John B. Arden - Rewire Your Brain: Think Your Way to a Better Life</li>
+	<li>Richard H. Thaler &amp; Cass R. Sunstein - Nudge: Improving Decisions About Health, Wealth, and Happiness</li>
+	<li>Bruce Hood - The Self Illusion: How the Social Brain Creates Identity</li>
+</ul>
+
+==========================================================================================
+
+### [page] Yhteistyön manifesti | slug=yhteistyon-manifesti | private | 2012-12-02 | 7635 chars
+
+<h1>Kolme harhaa hyvinvoinnista ja ehdotus paremmasta arkkitehtuurista</h1>
+Niin opiskelijat, tutkijat kuin yritysmaailman tietotyöläisetkin joutuvat tekemään päivittäin valintoja: ottaen huomioon rajalliset resurssini, autanko muita vai keskitynkö itseeni? Tässä tekstissä käsittelen sitä, miten yhteistyö nivoutuu menestykseen ja onnellisuuteen ja kuinka tämä tietäen voidaan edistää niin yhteisön kuin yksilöidenkin hyvinvointia.
+<h2><strong>1. Harha: "Voin nauttia, kun ensin olen menestynyt"</strong></h2>
+Ihmisellä on perustavanlaatuinen tarve pyrkiä kohti sitä, minkä hän kokee vievän lähemmäksi onnellisuutta. Tätä voi havainnollistaa kysymällä itseltään, miksi jotain tiettyä asiaa tekee ja esittämällä vastaukseen uuden kysymyksen ”mitä saan siitä?”. Lähes aina jälkimmäistä kysymystä toistamalla jossain vaiheessa vastaukseksi tulee onnellisuuden lisääminen ja pahan olon vähentäminen – onnellisuus määriteltäköön tässä yhteydessä Peterson, Park ja Seligmanin (2005) mukaan positiivisiksi tunteiksi, merkityksellisyyden kokemukseksi ja flow-tilan yleisyydeksi.
+
+Länsimaisessa kulttuurissa menestys nähdään usein onnellisuuden edellytyksenä. Ajattelemme, että ihmiset ensin menestyvät ja tavoitteensa saavutettuaan alkavat viimein voida hyvin ja onnellisesti. Tämä johtaa siihen, että lähetämme lapsemme jo nuorina propagandaleirille eksoottiselle Josvain Sitkun saarelle. Siellä lapsi oppii ajattelemaan, kuinka <em>jos vain</em> hän olisi laihempi tai lihavampi tai tavallisempi tai erikoisempi, hän voisi olla onnellinen. Siellä lapsi oppii Sitkun rukouksen: <em>sit ku</em> pääsen yläasteelle / lukioon / yliopistoon / työelämään / eläkkeelle, voin olla onnellinen. Siellä lapsi oppii toimimaan, kuten häneltä odotetaan.
+
+<img src="http://www.daringtodo.com/wp-content/uploads/2010/07/800px-Montecristo_islet.jpg" alt="http://www.daringtodo.com/wp-content/uploads/2010/07/800px-Montecristo_islet.jpg" />
+
+<span style="color:#000000;"><em><span style="color:#000000;">Josvain Sitku, zombien kansoittama saari Tyynellämerellä </span></em><a href="http://farm4.static.flickr.com/3630/3365509189_258fab8409.jpg"><span style="color:#000000;">(</span></a><span style="text-decoration:underline;"><a href="http://www.daringtodo.com/wp-content/uploads/2010/07/800px-Montecristo_islet.jpg"><span style="color:#000000;text-decoration:underline;">Kuvalähde</span></a></span></span>)
+<h2><strong>2. Harha: "Onnellisuus on yksinpeli, jossa eniten kerännyt </strong><strong><strong>voittaa</strong>"
+</strong></h2>
+Yllä mainittu ajatusmaailma vaikuttaa tottelevaisen ja kyseenalaistamattoman työläisen ihanteelta; sellaiselta, joka vastasi aikanaan teollisuusyhteiskunnan tarpeisiin. Haluaisin esitellä vaihtoehtoisen ajattelutavan. Entä jos pyrkisimmekin etsimään myönteisiä asioita juuri tästä elämäntilanteestamme (positiiviset tuntemukset), asettaen tärkeäksi kokemiamme pidemmän tähtäimen tavoitteita (merkityksen tunne) ja tehdessämme jotain, keskittyisimme vain ja ainoastaan siihen (flow-kokemusten lisääminen)?
+
+Ensinnäkin, onnellisuus ei ole sidottu ulkoisiin olosuhteisiimme ja niin lottovoittajat kuin neliraajahalvauspotilaat palaavat - uskomatonta kyllä - melko nopeasti onnellisuutensa perustasolle. Toisekseen, menestyksen ja onnellisuuden kausaalisuhde ei ole selkeästi yksisuuntainen: Sonja Lyubomirskyn ja kumppaneiden meta-analyysien (2005) perusteella vaikuttaa siltä, että onnelliset aivot toimivat paremmin kuin onnettomat, mikä johtaa lisääntyneeseen suorituskykyyn. Kolmanneksi, muiden ihmisten auttaminen näyttää lisäävän auttajan omaa onnellisuutta: esimerkiksi saman rahamäärän käyttäminen toisen hyväksi lisää hyvänolontunnetta enemmän kuin sen käyttäminen itseen (esim. Aknin, Dunn &amp; Norton, 2011). Tämän kaiken huomioon ottaen voimme alkaa hahmottaa, miksi kannattaisi mieluummin käyttää aikansa jonkun muun auttamiseen kuin ulkoisten (esim. rahallisten) palkintojen individualistiseen tavoitteluun.
+<h2><strong>3. Harha: "Resurssin jakaminen puolittaa sen"</strong></h2>
+Peliteoriassa kutsutaan nollasummapeliksi sellaista tilannetta, jossa yhden henkilön voitto tarkoittaa toisen häviötä: jos jaamme kakkua ja minä saan enemmän, silloin sinä saat vähemmän. Tosielämässähän tällaiset tilanteet ovat harvinaisia – voin periaatteessa aina leikata herkkuhimoiselle itselleni enemmän ja leipoa sinulle kokonaisen kakun myöhemmin, jolloin voitamme molemmat. Silti varsinkin yritysmaailmassa kaikesta kaunopuheisuudesta huolimatta jaotellaan kaupantekotilanteiden osapuolet voittajiin ja häviäjiin.
+
+On helppo ymmärtää, miksi tällaisesta näkökulmasta tuntuu luonnottomalta pyrkiä auttamaan toista, joka näyttää kilpailevan siitä palkankorotuksesta tai kaupasta, niistä hyvistä arvosanoista tai siitä apurahasta. Hieman katsantokantaa laajentamalla saattaa kuitenkin huomata, ettei pelaa nollasummapeliä, vaan onkin samanaikaisesti mahdollista edistää molempien osapuolten tavoitteita. Elämä on monimutkaisempaa kuin yksittäinen kakunleikkaustilanne ja tämä aiheuttaa äärettömän määrän polkuja äärettömään määrään lopputuloksia.
+<h2><strong>Yhteistyön ja menestyksen arkkitehtuuri</strong></h2>
+Haluaisin haastaa sinut – niin, juuri sinut, joka luet tätä juuri nyt – pieneen ajatusleikkiin. Haluaisin, että pohdit jotakin, mitä vain, kilpailuasetelmaa ja miettisit, miltä asetelma näyttäisi maailmassa, jossa seuraava virke olisi totta:
+
+<em>Siedettävä elämä vaatii yhteistyötä, joka synnyttää menestystä ja onnellisuutta, joka edistää sekä menestystä että elämän siedettävyyttä.</em>
+
+Mutustele asiaa hetki; mitä tapahtuu joko-tai-tilanteille? Voisitko auttaa läheistäsi projektissaan ja edistää omia tavoitteitasi? Voisitko tavata ystäviäsi säännöllisesti ja pitää opintojesi tasoa yllä? Voisitko lisätä menestystäsi pyrkimällä lisäämään elämääsi aiemmin mainittuja onnellisuuden komponentteja juuri nyt?
+
+<em>(Julkaistu osin Status-lehden numerossa 3/2012 otsikolla "Onnellisuudesta, menestyksestä ja yhteistyön kulttuurista".)</em>
+
+&nbsp;
+<h1>Lukemistoa hyvinvoinnin tieteestä</h1>
+&nbsp;
+
+<em>Rahankäytöstä</em>
+
+Blogiteksti: <a href="http://www.psychologytoday.com/blog/the-mindful-self-express/201209/is-money-the-secret-happiness">Is Money the Secret to Happiness?</a>
+
+Artikkeliviite: Aknin, L. B., Dunn, E. W., &amp; Norton, M. I. (2011). Happiness runs in a circular motion: Evidence for a positive feedback loop between prosocial spending and happiness. Journal of Happiness Studies, 13(2), 347-355.
+
+<em>Järkevästä onnellisuuden tavoittelusta (mikään ei ole hyväksi aina ja kaikkialla)</em>
+
+Uutisartikkeli: <a href="http://news.yale.edu/2011/05/26/exploring-dark-side-happiness">Exploring the dark side of happiness</a>
+
+Artikkeliviite: Gruber, J., Mauss, I.B., &amp; Tamir, M. (2011). A dark side of happiness? How, when and why happiness is not always good. Perspectives on Psychological Science, 6(3), 222-233.
+
+<em>Positiivisten tunnetilojen hyödyistä</em>
+
+Tutkimustulokset tiivistettynä: <a href="http://www.centreforconfidence.co.uk/pp/evidence.php?p=c2lkPTImdGlkPTImaWQ9OA==">The Benefits of Frequent Positive Affect: Does Happiness Lead to Success?</a>
+
+Artikkeliviite: Lyubomirsky, S., King, L. A., &amp; Diener, E. (2005). The benefits of frequent positive affect. Psychological Bulletin, 131, 803-855.
+
+<em>Onnellisuuden komponenteista</em>
+
+Blogiteksti: <a href="http://www.thehappinessinstitute.com/blog/article.aspx?c=3&amp;a=2977">The many paths to happiness</a>
+
+Artikkeliviite: Peterson, C., Park, N., &amp; Seligman, M. E. (2005). Orientations to happiness and life satisfaction: The full life versus the empty life. Journal of Happiness Studies, 6, 25–41.
+
+&nbsp;
+
+&nbsp;
+
+==========================================================================================
+
+### [page] Työmarkkinoiden uudet vaateet | slug=10-taitoa | publish | 2012-12-08 | 8104 chars
+
+
+Arvioiden mukaan Euroopan alueella palvelutyöpaikkojen - koskivat ne sitten B2B-konsultointia tai vanhustyötä - suhteellinen osuus on jatkuvassa kasvussa. Tämän kasvun myötä myös työntekijöiltä vaaditut taidot ovat muutoksessa; ongelmien ratkaisuprosessia harvemmin enää voidaan pilkkoa tarkasti määritellyiksi, ennalta tiedossa oleviksi askeliksi. Tarvitaan siis yhä enemmän sellaisia taitoja, jotka auttavat luovimaan epävarmuuden keskellä.
+
+EU:n raportissa "The top 10 European skills for competitiveness" tunnistettiin kymmenen kriittistä taitoa tulevaisuuden työelämässä menestymiselle. Lista on pitkä ja voi kuulostaa sanahelinältä, joten olen ajatusviivan jälkeen pyrkinyt avaamaan jokaista kohtaa oman näkemykseni mukaan. Jos sinua kiinnostaa pelkästään asian ydin, löydät kirjoituksen lopusta oman kolmen kohdan tiivistelmäni.
+<ol>
+	<li><strong>Kommunikaatio</strong>
+<ul>
+	<li><em>Ole avoin palautteelle ilman ennakkoluuloja</em> – kovankaan kritiikin kohde ei ole "sinä" kokonaisuutena, vaan jokin toimintatapa tai jopa (kehitettävä) taito.</li>
+	<li><em>Kunnioita muiden asenteita ja mielipiteitä</em> – niin kauan kuin niistä ei koidu vahinkoa toisille.</li>
+	<li><em>Anna muille palautetta</em> – mutta älä tavalla, josta et itse pitäisi.</li>
+	<li><em>Ole suvaitsevainen vieraita tapoja ja kulttuureja kohtaan</em> – älä kuitenkaan suvaitse ihmisarvoa alentavaa käytöstä.</li>
+	<li><em>Tarjoa omia ajatuksiasi, harjoittele selkeää ulosantia</em> – ei kukaan muukaan tiedä täsmälleen oikeaa vastausta tosimaailman ongelmaan (tai sitten he eivät vain tiedä, etteivät tiedä).</li>
+</ul>
+</li>
+	<li><strong>Suunnittelu</strong>
+<ul>
+	<li><em>Ennakoi toimintojen etenemistä ja vaadittavia resursseja</em> – suojaa suunnitelmasi täystuhon varalta, mutta älä ylisuunnittele (ks. <a href="http://mattiheino.com/2014/03/16/lohdullinen-epavarmuus/" target="_blank">tämä teksti </a>varautumiseen liittyen)</li>
+	<li><em>Määrittele asioiden tärkeysjärjestys</em> – mutta huomioi, ettei käytännön elämässä voi tietää varmuudella järjestyksen oikeellisuutta.</li>
+	<li><em>Jaa ja levitä eteenpäin tehtäviä ja resursseja</em> – päästä irti, äläkä yritä tehdä kaikkea itse.</li>
+</ul>
+</li>
+	<li><strong>Ristiriitatilanteiden hallitseminen</strong>
+<ul>
+	<li><em>Toimi välittäjänä konfliktitilanteissa</em> – tällöin ainakin yhdellä osapuolella on järkeä päässä.</li>
+	<li><em>Ole reilu ja objektiivinen ristiriitoja selvitettäessä</em> – älä ajaudu välienselvittelyyn ilman hyväntahtoista asennetta.</li>
+	<li><em>Opi hallitsemaan stressiä ristiriitatilanteissa</em> – niin omaasi kuin toistenkin.</li>
+</ul>
+</li>
+	<li><strong>Avoimuus muutokselle</strong>
+<ul>
+	<li><em>Aloita muutostyö itse, kun se on tarpeen</em> – muutos on jatkuvaa ja vain sitä ohjaamalla teet maailmasta vähän enemmän itsesi näköisen.</li>
+	<li><em>Sopeudu muuttuvaan ympäristöön sekä ulkoisesti että sisäisesti –</em> sopeutuminen voi olla myös uuden muutosprosessin käynnistämistä. Pahin virhe on passiivisuus; ympäristö ei spontaanisti noudata toiveitasi!</li>
+	<li><em>Kannata uusia lähestymistapoja, aloitteita, menetelmiä ja teknologioita –</em> muista kuitenkin myös se, että vanhat toimintatavat yleensä elävät uusia pidempään.</li>
+</ul>
+</li>
+	<li><strong>Päätöksenteko</strong>
+<ul>
+	<li><em>Arvioi päätösten seurauksia ja riskejä, sekä odotettuja hyötyjä ja kustannuksia</em> – mutta muista, että tulevaisuus yllättää aina ja täsmälliset arviot aliarvioivat tilanteen sisältämän epävarmuuden.</li>
+	<li><em>Tee hyviä päätöksiä monimutkaisissa tilanteissa</em> – helpommin sanottu kuin tehty? Apua saattaa löytyä näistä <a href="http://mattiheino.com/category/parempaan-ajatteluun/" target="_blank">teksteistä</a>.</li>
+	<li><em>Esitä loogisia, perusteltuja ja rakentavia kriittisiä kommentteja – </em>kyseenalaista siis, mutta tee se fiksusti.</li>
+	<li><em>Huomioi luovien päätösten merkitys epätavallisissa tilanteissa</em> – ja muista, että suurin osa tilanteista on nykyään "epätavallisia".
+
+[caption id="" align="alignnone" width="500"]<img class="border instance_large_img" style="margin:10px 0 0;" src="http://cdn.meme.am/instances/500x/57546405.jpg" alt="" width="500" height="375" /> Koita kestää – vielä viisi kohtaa jäljellä![/caption]</li>
+</ul>
+</li>
+	<li><strong>Yhteistyö</strong>
+<ul>
+	<li><em>Vaali sitoutumista ja ryhmähenkeä –</em> toimi kaikissa tilanteissa esimerkkinä; niin, kuin haluaisit muiden toimivan.</li>
+	<li><em>Kannusta ja helpota yhteistyötä ryhmätyöskentelyssä</em> – ole aktiivinen toisten auttamisessa.</li>
+	<li><em>Työskentele muiden kanssa saavuttaaksesi tavoitteita</em> – edes renessanssin nerot eivät toimineet täysin omissa oloissaan.</li>
+</ul>
+</li>
+	<li><strong>Joustavuus</strong>
+<ul>
+	<li><em>Ota huomioon toisten asenteet ja näkökulmat</em> – ja tee se selväksi.</li>
+	<li><em>Ymmärrä toisten asemaa ja asetu siihen</em> – kukaan ei ole tahallaan paskiainen.</li>
+</ul>
+</li>
+	<li><strong>Strateginen ajattelu</strong>
+<ul>
+	<li><em>Pidä mielessäsi selkeä kuva tulevaisuudesta –</em> edes siinä määrin, millaisten arvojen haluaisit nähdä toteutuvan käytännössä.</li>
+	<li><em>Määrittele tavoitteet selkeästi</em> – on avuksi, jos ihmiset tietävät, mitä pyritään saamaan aikaiseksi...</li>
+	<li><em>Punnitse yhteisöäsi tai yritystäsi suhteessa sen ulkoiseen ympäristöön</em> – et koskaan toimi tyhjiössä.</li>
+</ul>
+</li>
+	<li><strong>Aloitekyky</strong>
+<ul>
+	<li><em>Etsi oma-alotteisesti uusia haasteita ja aktiviteetteja –</em> näin laajennat toimintarepertuaariasi, ja taidoistasi jokin saattaa (usein tuurin kautta) osoittautua uskomattoman hyödylliseksi.</li>
+	<li><em>Etsi ja tunnista aktiivisesti mahdollisuuksia tavoitteiden saavuttamiseksi</em> – älä vain jumiudu siihen, mitä sinulle on kerrottu.</li>
+	<li><em>Etsi aktiivisesti uutta informaatiota/ennakkotapauksia –</em> uusia ratkaisumahdollisuuksia syntyy joka päivä.</li>
+	<li><em>Suhtaudu työhön energisesti ja päättäväisesti</em> – tämä todellisuus on sinulle mieluisempi kuin se, jossa et tee työtäsi (ja siten esim. olet rahaton). Se on siis oma valintasi. Käytä tilanne parhaalla tavalla hyödyksesi.</li>
+</ul>
+</li>
+	<li><strong>Oppimisen edistäminen</strong>
+<ul>
+	<li><em>Paranna jatkuvasti käyttäytymismallejasi</em> – kokeile vaikka <a href="http://mattiheino.com/2014/07/14/unilateraalisen-sekasortoaltruismin-ohjelmajulistus/" target="_blank">unilateraalista sekasortoaltruismia </a>päivän verran.</li>
+	<li><em>Paranna jatkuvasti ammatillista tietotaitoasi –</em> tällöin itsellesi mieleisen muutoksen johtamisesta tulee helpompaa.</li>
+	<li><em>Pyri oppimaan enemmän kuin kukin tilanne vaatii</em> – älä tyydy selviytymiseen.</li>
+	<li><em>Opi omasta kokemuksesta</em>si – epäonnistuminen on vain palautetta: löydä tilanteen opetus.</li>
+</ul>
+</li>
+</ol>
+Siinäpä nuo. Monet kieltämättä voivat kuulostaa konsulttilöpinältä, mutta peukalosääntöinä nämä kymmenen työelämätaitoa sovellusehdotuksineen toiminevat tyhjää paremmin.
+
+Tässä vielä lupaamani kolmen kohdan tiivistelmä (tärkeysjärjestyksessä):
+<ol>
+	<li><strong>Älä ole paskiainen.</strong>
+<ul>
+	<li>Jos ajattelet, että joku saattaa pitää sinua paskiaisena, mieti hyvin tarkasti, voisiko kyseessä olla ylpeytesi luoma harha (jolloin saatat todellisuudessa olla paskiainen). Voit myös käyttää tätä <a href="http://mattiheino.com/2013/05/26/tunnista-muumiosi/" target="_blank">muumiontunnistustaktiikkaa</a>.</li>
+</ul>
+</li>
+	<li><strong>Tiedosta, ettet oikeastaan voi olla varma mistään.</strong>
+<ul>
+	<li>Jos et ole jumala, on aika hyväksyä maailman ennustamattomuus.</li>
+	<li>Kun laajennat vaihtoehtopalettiasi (esim. kehittämällä raportissa mainittuja taitoja), lisäät selviytymismahdollisuuksiasi (ks. <a href="http://mattiheino.com/2014/09/21/adaptiivinenmaisema/" target="_blank">tämä teksti</a> adaptoitumisesta).</li>
+</ul>
+</li>
+	<li><strong>Toimi.</strong>
+<ul>
+	<li>Jos kohdat 1. ja 2. ovat kunnossa, sinun tarvitsee enää pitää huoli siitä, että maailma muuttuu paremmaksi paikaksi. Tee <em><a href="http://mattiheino.com/2015/01/31/hyva-luoja/" target="_blank">jotain</a>.</em> Luotan sinuun.</li>
+</ul>
+</li>
+</ol>
+
+==========================================================================================
+
+### [page] Parempaa ajattelua rakentamassa | slug=parempaa-ajattelua-rakentamassa | private | 2013-01-30 | 33 chars
+
+- osiolta löytyi rakennustyömaa -
+
+==========================================================================================
+
+### [page] Research (some academic stuff) | slug=research-the-academic-stuff | draft | 2015-09-23 | 1585 chars
+
+(for the non-academic stuff, see <a href="https://linkedin.com/in/heinonmatti" target="_blank">LinkedIn profile</a>)
+
+<h2>Ongoing involvements:</h2>
+
+Hankonen, N., Heino, M., Hynynen, S., Laine, H., Araujo-Soares, V., Sniehotta, F., Sund, R., Vasankari, T., Lintunen, T., Haukkala, A. (in preparation). <em>Randomised controlled feasibility study of a school-based multi-level intervention to increase physical activity and decrease sedentary behaviour among older adolescents.</em>
+
+<a href="http://blogs.helsinki.fi/nhankone/description/" target="_blank">Physical activity and sedentary lifestyle among adolescents in vocational schools: a behaviour change intervention trial.</a>
+
+<h2>Conference presentations:</h2>
+
+Heino, M., Vasankari, T., Sniehotta, F., Araújo-Soares, V., Haukkala, A., Sund, R., Hankonen, N.
+
+Matti Heino, Tommi Vasankari, Falko Sniehotta, Vera Araujo Soares, Ari Haukkala, Reijo Sund, Nelli Hankonen
+
+Heino, M., Knittle, K., Vasankari, T., Haukkala, A., Hankonen, N. (2015, September). <em>SMS reminders to increase accelerometer wear-time: A within-trial RCT comparing persuasive messages [Reg. no: DRKS00007721]</em>. Oral presentation at The 29th Conference of the European Health Psychology Society:  Principles of Behaviour Change in Health and Illness, Larnaca, Cyprus.
+
+Heino, M. (2014, 21 November).<em> Muutoskartta – esimerkki suunnitteluintervention soveltamisesta käytännön elämään [Change map – an example of applying a planning intervention to everyday life]. </em>Oral presentation at The Annual Social Psychology Conference, Helsinki, Finland.
+
+==========================================================================================
+
+### [page] Welcome / Tervetuloa | slug= | draft | 2015-12-05 | 19 chars
+
+Choose your poison:
+
+==========================================================================================
+

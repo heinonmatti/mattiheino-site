@@ -1,0 +1,26 @@
+---
+interface Props {
+  published: Date;
+  vetted_on?: Date;
+  vetting_status?: 'pending' | 'done';
+}
+const { published, vetted_on, vetting_status } = Astro.props;
+
+const fmt = (d: Date) =>
+  d.toLocaleDateString('en-GB', { year: 'numeric', month: 'long', day: 'numeric' });
+
+// Re-vetted legacy post: original date earlier than the relevance-confirmed date.
+const isRevet =
+  !!vetted_on &&
+  vetting_status === 'done' &&
+  vetted_on.getTime() > published.getTime();
+---
+{
+  isRevet ? (
+    <p class="date-stamp">
+      Originally published {fmt(published)} &middot; Ongoing relevance confirmed {fmt(vetted_on!)}
+    </p>
+  ) : (
+    <p class="date-stamp">Published {fmt(published)}</p>
+  )
+}

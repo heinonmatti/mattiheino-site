@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>mattiheino.com – Letterhead (Direction C)</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Inter:wght@400;500;600;700&display=swap" />
+  <style>
+    html, body {
+      margin: 0;
+      background: #faf5ec;
+      color: #211d18;
+      font-family: 'Inter', system-ui, sans-serif;
+      min-height: 100vh;
+    }
+    #root { width: 100%; min-height: 100vh; }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+
+  <script src="https://unpkg.com/react@18.3.1/umd/react.development.js" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" crossorigin="anonymous"></script>
+
+  <script type="text/babel" src="shared.jsx"></script>
+  <script type="text/babel" src="home-letterhead.jsx"></script>
+
+  <script type="text/babel">
+    function LetterheadStandalone() {
+      // Locked values from README "Final settings".
+      const tweaks = {
+        creamPair: ['#faf5ec', '#f1e8d7'],
+        redPair:   ['#9c2b21', '#7d2018'],
+        bandHeight: 149,
+        bodySize:   17,
+        measure:    64,
+        ornament:   'as-designed',
+        expandStyle: 'inline',
+      };
+      return (
+        <div style={{ ...tokenStyle(tweaks), background: 'var(--cream)' }}>
+          <HomeLetterhead tweaks={tweaks} />
+        </div>
+      );
+    }
+    ReactDOM.createRoot(document.getElementById('root')).render(<LetterheadStandalone />);
+  </script>
+</body>
+</html>

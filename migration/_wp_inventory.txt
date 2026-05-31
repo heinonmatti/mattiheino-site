@@ -1,0 +1,69 @@
+=== WP EXPORT INVENTORY: mattiheino.com ===
+total <item> entries: 413
+
+-- counts by post_type --
+  attachment: 262
+  post: 121
+  nav_menu_item: 19
+  page: 9
+  wp_global_styles: 1
+  wp_navigation: 1
+
+-- posts/pages by (type, status) --
+  page / draft: 2
+  page / private: 5
+  page / publish: 2
+  post / draft: 17
+  post / publish: 104
+
+-- post/page date range: 2012-09-17 .. 2025-12-13 --
+
+-- attachments: 262 total --
+  mattiheino.com: 262
+
+-- categories used (8) --
+  º Data punk (English): 68
+  Käyttäytymisarkkitehtuuri: 21
+  Ajattelu ja päätöksenteko: 14
+  Työskentelytavat: 8
+  Sekalaista: 7
+  Terveyspsykologia: 7
+  Meditaatio ja mindfulness: 1
+  Uncategorized: 1
+
+-- tags used (213) (top 30) --
+  complexity: 22
+  complex systems: 12
+  behaviour change: 11
+  covid-19: 11
+  päätöksenteko: 10
+  varautuminen: 10
+  interventions: 10
+  tools: 7
+  health psychology: 7
+  Käyttäytymisen muutos: 6
+  psychology: 6
+  slides: 6
+  health behavior: 5
+  scientific methodology: 5
+  transparency: 5
+  R: 5
+  ilmahygienia: 5
+  tietoisuustaidot: 4
+  terveyspsykologia: 4
+  antihauras: 4
+  tuhoutumattomuuden tiellä: 4
+  vaikuttavuus: 4
+  Oikotiet onneen: 4
+  Tiede ja Raivo: 4
+  science: 4
+  philosophy of science: 4
+  video: 4
+  peukalosäännöt: 3
+  tutkimus vs. käytäntö: 3
+  työteho: 3
+
+Files written:
+  C:\Users\qn353\Documents\git-projects\mattiheino-site\migration\_wp_posts.csv
+  C:\Users\qn353\Documents\git-projects\mattiheino-site\migration\_wp_attachments.txt
+  C:\Users\qn353\Documents\git-projects\mattiheino-site\migration\_wp_inventory.txt

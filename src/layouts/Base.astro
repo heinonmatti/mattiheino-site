@@ -1,0 +1,59 @@
+---
+import '../styles/global.css';
+import Letterhead from '../components/Letterhead.astro';
+import LetterheadFoot from '../components/LetterheadFoot.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+  ogType?: string;
+  noindex?: boolean;
+  /** Set true on the home page so it can opt out of the standard main padding. */
+  bare?: boolean;
+}
+const {
+  title,
+  description = 'Behaviour-change science and complex systems for preparedness, health and well-being.',
+  ogType = 'website',
+  noindex = false,
+  bare = false,
+} = Astro.props;
+
+// Cloudflare Web Analytics token is injected at deploy via env; blank locally.
+const CF_ANALYTICS_TOKEN = import.meta.env.PUBLIC_CF_ANALYTICS_TOKEN ?? '';
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" href="/favicon.ico" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    {noindex && <meta name="robots" content="noindex,nofollow" />}
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content={ogType} />
+    <link rel="alternate" type="application/rss+xml" title="All writing" href="/all.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Writing" href="/posts.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Applied musings" href="/applied-musings.xml" />
+    {
+      CF_ANALYTICS_TOKEN && (
+        <script
+          is:inline
+          defer
+          src="https://static.cloudflareinsights.com/beacon.min.js"
+          data-cf-beacon={`{"token": "${CF_ANALYTICS_TOKEN}"}`}
+        />
+      )
+    }
+  </head>
+  <body>
+    <Letterhead />
+    <main class={bare ? 'site-main site-main--bare' : 'site-main'}>
+      <slot />
+    </main>
+    <LetterheadFoot />
+  </body>
+</html>

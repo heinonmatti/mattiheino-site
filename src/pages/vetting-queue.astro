@@ -1,0 +1,30 @@
+---
+import Base from '../layouts/Base.astro';
+import { pendingAll } from '../lib/collections';
+
+const pending = await pendingAll();
+const fmt = (d: Date) =>
+  d.toLocaleDateString('en-GB', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+<Base title="Vetting queue (internal)" noindex={true}>
+  <h1>Vetting queue</h1>
+  <p>
+    Internal backlog &ndash; not linked publicly, excluded from the sitemap and
+    from search engines. Oldest first.
+  </p>
+  <ul class="post-list">
+    {
+      pending.map((e) => (
+        <li>
+          <strong>{e.data.title}</strong>
+          {e.data.lang === 'fi' && <span class="lang-tag">FI</span>}
+          {e.data.draft && <span class="lang-tag">DRAFT</span>}
+          <p class="meta">
+            {e.collection} &middot; published {fmt(e.data.published)} &middot; source{' '}
+            {e.data.migration_source}
+          </p>
+        </li>
+      ))
+    }
+  </ul>
+</Base>

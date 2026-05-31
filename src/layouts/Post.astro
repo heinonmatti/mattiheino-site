@@ -1,0 +1,59 @@
+---
+import Base from './Base.astro';
+import DateStamp from '../components/DateStamp.astro';
+import AppliedDisclaimer from '../components/AppliedDisclaimer.astro';
+import NewsletterCTA from '../components/NewsletterCTA.astro';
+import { Image } from 'astro:assets';
+
+interface Props {
+  data: any;
+  collection: 'posts' | 'applied-musings';
+}
+const { data, collection } = Astro.props;
+const isApplied = collection === 'applied-musings';
+
+// Cross-link the other register if a companion is named.
+const companionSlug = isApplied ? data.rigorous_companion : data.applied_companion;
+---
+<Base title={data.title} description={data.description} ogType="article">
+  <article class="post">
+    {isApplied && <AppliedDisclaimer companionSlug={data.rigorous_companion} />}
+
+    <header class="post-header">
+      <h1>{data.title}</h1>
+      <DateStamp
+        published={data.published}
+        vetted_on={data.vetted_on}
+        vetting_status={data.vetting_status}
+      />
+    </header>
+
+    {
+      data.infographic && (
+        <figure class="post-infographic">
+          <Image
+            src={data.infographic.src}
+            alt={data.infographic.alt}
+            widths={[480, 800, 1200]}
+            sizes="(max-width: 800px) 100vw, 800px"
+          />
+        </figure>
+      )
+    }
+
+    <div class="post-body">
+      <slot />
+    </div>
+
+    {
+      !isApplied && companionSlug && (
+        <p class="companion-link">
+          There&rsquo;s an applied musing on this{' '}
+          <a href={`/applied-musings/${companionSlug}/`}>here</a>.
+        </p>
+      )
+    }
+
+    <NewsletterCTA />
+  </article>
+</Base>

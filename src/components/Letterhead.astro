@@ -1,0 +1,35 @@
+---
+/**
+ * Letterhead.astro — the sky band that sits at the top of every page.
+ *
+ * Brand contract: locked in BRAND.md §4. Logo dissolves into --sky,
+ * wordmark sets the visual hierarchy, bylines carry the bilingual identity.
+ * Only "Browse posts" lives in the nav slot; section navigation (Research
+ * pieces / Applied musings) lives in the home page filter row.
+ */
+import { Image } from 'astro:assets';
+import logo from '../assets/ajatuspaa.jpg';
+---
+<header class="lh-band">
+  <a class="lh-brand" href="/">
+    <Image
+      src={logo}
+      alt=""
+      class="lh-logo"
+      widths={[200, 400, 600]}
+      sizes="(max-width: 640px) 200px, 325px"
+    />
+    <span class="lh-marks">
+      <span class="wm">Matti T.J. Heino</span>
+      <span class="bylines">
+        <span class="en">… And Out Come the Systems</span>
+        <span class="sep">·</span>
+        <span class="fi">Käyttäytymisarkkitehtuuri</span>
+      </span>
+    </span>
+  </a>
+  <nav class="lh-nav" aria-label="Site">
+    <a href="/archive/">Browse posts</a>
+    <a href="/search/">Search</a>
+  </nav>
+</header>

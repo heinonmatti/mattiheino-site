@@ -1,0 +1,247 @@
+---
+import Base from '../layouts/Base.astro';
+import { allLive } from '../lib/collections';
+import { cleanSlug } from '../lib/slug';
+
+const items = await allLive();
+
+// Topic chips from tags present in live content. At real import we may switch
+// this to the ~8 WP categories instead of the long-tail of 213 tags.
+const tagCounts = new Map<string, number>();
+for (const e of items) for (const t of e.data.tags ?? []) tagCounts.set(t, (tagCounts.get(t) ?? 0) + 1);
+const tags = [...tagCounts.entries()].sort((a, b) => b[1] - a[1]).map(([t]) => t);
+
+// Pre-compute the date stack for each row (server-rendered; no JS for dates).
+const rows = items.map((e) => {
+  const d = e.data.published;
+  return {
+    id: e.id,
+    href: `/${e.collection}/${cleanSlug(e.id)}/`,
+    title: e.data.title,
+    summary: e.data.description,
+    lang: e.data.lang as 'en' | 'fi',
+    kind: e.collection === 'posts' ? 'research' : 'applied',
+    tags: e.data.tags ?? [],
+    day: String(d.getDate()).padStart(2, '0'),
+    mo: d.toLocaleDateString('en-GB', { month: 'short' }),
+    yr: d.getFullYear(),
+  };
+});
+---
+<Base title="Matti T.J. Heino – … And Out Come the Systems" bare>
+  <div class="lh-hero-head">
+    <h1>Welcome <span class="slash">/</span> Tervetuloa</h1>
+  </div>
+
+  <div class="lh-diptych">
+    <div class="lh-pane" data-intro="en" data-dim="0">
+      <span class="lbl">English</span>
+      <p>
+        This is a blog about behaviour change science and complex systems in
+        preparedness, health and well-being.
+      </p>
+      <p>
+        For research articles, see my
+        <a href="https://scholar.google.fi/citations?hl=en&user=jrDugIgAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar profile</a>.
+        To email me about anything, write to matti.tj.heino @ this domain
+        (i.e. mattiheino.com). Find me
+        <a href="https://www.linkedin.com/in/heinonmatti">on LinkedIn</a>, and check out <a href="https://preparedness.fi">preparedness.fi</a>, too.
+      </p>
+      <p>
+        <em>Nota bene:</em> Be the first to know about developments (posts, courses, etc.) via email; sign up 
+        <a href="https://news.mattiheino.com">here</a>.
+      </p>
+    </div>
+    <div class="rule"></div>
+    <div class="lh-pane" data-intro="fi" data-dim="0">
+      <span class="lbl">Suomeksi</span>
+      <p>
+        Tämä on blogi käyttäytymismuutoksen tieteestä ja kompleksisista
+        järjestelmistä – varautumisessa, terveydessä ja hyvinvoinnissa.
+      </p>
+      <p>
+        Tutkimusartikkelit löytyvät
+        <a href="https://scholar.google.fi/citations?hl=en&user=jrDugIgAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar -profiilistani</a>.
+        Jos haluat lähettää minulle sähköpostia mistä tahansa, kirjoita
+        osoitteeseen matti.tj.heino @ tämä domain (eli mattiheino.com).
+        Löydät minut
+        <a href="https://www.linkedin.com/in/heinonmatti">LinkedInistä</a>,
+        ja tutustu myös <a href="https://preparedness.fi">preparedness.fi</a>-sivustoon.
+      </p>
+      <p>
+        <em>Nota bene:</em> Saat ensimmäisten joukossa tiedon uusista
+        kuulumisista (kirjoituksista, kursseista jne.) sähköpostitse; tilaa
+        uutiskirje <a href="https://news.mattiheino.com">tästä</a>.
+      </p>
+    </div>
+  </div>
+
+  <div class="lh-filters" id="filters">
+    <div class="lh-filter-row">
+      <span class="lh-filter-lbl">Read</span>
+      <div class="lh-lang" role="group" aria-label="Language">
+        <button type="button" class="lh-pill" data-lang="all" data-on="1">All</button>
+        <button type="button" class="lh-pill" data-lang="en" data-on="0">English</button>
+        <button type="button" class="lh-pill" data-lang="fi" data-on="0">Suomeksi</button>
+      </div>
+    </div>
+    <div class="lh-filter-row">
+      <span class="lh-filter-lbl">Kind</span>
+      <div class="lh-lang" role="group" aria-label="Kind">
+        <button type="button" class="lh-pill" data-kind="all" data-on="1">All</button>
+        <button type="button" class="lh-pill" data-kind="research" data-on="0">Research pieces</button>
+        <button type="button" class="lh-pill" data-kind="applied" data-on="0">Applied musings</button>
+      </div>
+    </div>
+    <button type="button" class="lh-fold" id="topicFold" aria-expanded="false">
+      <span class="lh-fold-chev" aria-hidden="true">›</span>
+      Browse by topic
+    </button>
+    <button type="button" class="lh-random" id="randomBtn" aria-label="Open a random entry">
+      <span class="lh-random-dice" aria-hidden="true">⚄</span>
+      Random
+    </button>
+    {
+      tags.length > 0 && (
+        <div class="lh-chips" id="topicChips" hidden>
+          {tags.map((t) => (
+            <button type="button" class="lh-chip" data-tag={t} data-on="0">{t}</button>
+          ))}
+        </div>
+      )
+    }
+  </div>
+
+  <p class="lh-section-lbl">writing · newest first</p>
+
+  <ul class="lh-list" id="postlist">
+    {
+      rows.map((r) => (
+        <li
+          class="lh-item"
+          data-lang={r.lang}
+          data-kind={r.kind}
+          data-tags={r.tags.join('|')}
+          data-href={r.href}
+        >
+          <div class="lh-row">
+            <span class="lh-dt">{r.day} {r.mo}<span class="yr">{r.yr}</span></span>
+            <div class="lh-ttl-wrap">
+              <a class="lh-ttl" href={r.href}>{r.title}</a>
+              <span class="lh-meta">
+                {r.kind === 'research' ? 'Research piece' : 'Applied musing'}
+                {r.lang === 'fi' && <><span class="dot">·</span><span class="fi">Suomeksi</span></>}
+              </span>
+            </div>
+            <button type="button" class="lh-x" data-open="0"
+                    aria-expanded="false" aria-label="Show summary">+</button>
+            <p class="lh-sum-inline" hidden>{r.summary}</p>
+          </div>
+        </li>
+      ))
+    }
+  </ul>
+  <p class="lh-empty" id="empty" hidden>Nothing matches those filters.</p>
+</Base>
+
+<script is:inline>
+  (() => {
+    const filters = document.getElementById('filters');
+    const list = document.getElementById('postlist');
+    const empty = document.getElementById('empty');
+    if (!filters || !list) return;
+
+    const items = [...list.querySelectorAll('.lh-item')];
+    const enPane = document.querySelector('[data-intro="en"]');
+    const fiPane = document.querySelector('[data-intro="fi"]');
+
+    let lang = 'all';
+    let kind = 'all';
+    const activeTags = new Set();
+
+    function setPanes() {
+      if (!enPane || !fiPane) return;
+      enPane.dataset.dim = lang === 'fi' ? '1' : '0';
+      fiPane.dataset.dim = lang === 'en' ? '1' : '0';
+    }
+
+    function apply() {
+      let visible = 0;
+      for (const it of items) {
+        const okLang = lang === 'all' || it.dataset.lang === lang;
+        const okKind = kind === 'all' || it.dataset.kind === kind;
+        const tags = (it.dataset.tags || '').split('|').filter(Boolean);
+        const okTag = activeTags.size === 0 || tags.some((t) => activeTags.has(t));
+        const show = okLang && okKind && okTag;
+        it.hidden = !show;
+        if (show) visible++;
+      }
+      if (empty) empty.hidden = visible !== 0;
+    }
+
+    filters.querySelectorAll('[data-lang]').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        lang = btn.dataset.lang;
+        filters.querySelectorAll('[data-lang]').forEach((b) => {
+          b.dataset.on = b === btn ? '1' : '0';
+        });
+        setPanes();
+        apply();
+      });
+    });
+
+    filters.querySelectorAll('[data-kind]').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        kind = btn.dataset.kind;
+        filters.querySelectorAll('[data-kind]').forEach((b) => {
+          b.dataset.on = b === btn ? '1' : '0';
+        });
+        apply();
+      });
+    });
+
+    const fold = document.getElementById('topicFold');
+    const chips = document.getElementById('topicChips');
+    if (fold && chips) {
+      fold.addEventListener('click', () => {
+        const open = fold.getAttribute('aria-expanded') === 'true';
+        fold.setAttribute('aria-expanded', open ? 'false' : 'true');
+        chips.hidden = open;
+      });
+    }
+
+    if (chips) {
+      chips.querySelectorAll('.lh-chip').forEach((chip) => {
+        chip.addEventListener('click', () => {
+          const t = chip.dataset.tag;
+          const on = chip.dataset.on === '1';
+          if (on) { activeTags.delete(t); chip.dataset.on = '0'; }
+          else    { activeTags.add(t);     chip.dataset.on = '1'; }
+          apply();
+        });
+      });
+    }
+
+    list.querySelectorAll('.lh-x').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const open = btn.dataset.open === '1';
+        btn.dataset.open = open ? '0' : '1';
+        btn.setAttribute('aria-expanded', open ? 'false' : 'true');
+        btn.textContent = open ? '+' : '–';
+        const sum = btn.parentElement.querySelector('.lh-sum-inline');
+        if (sum) sum.hidden = open;
+      });
+    });
+
+    const random = document.getElementById('randomBtn');
+    if (random) {
+      random.addEventListener('click', (e) => {
+        e.preventDefault();
+        const visible = items.filter((it) => !it.hidden);
+        const pool = visible.length ? visible : items;
+        const pick = pool[Math.floor(Math.random() * pool.length)];
+        if (pick && pick.dataset.href) window.location.href = pick.dataset.href;
+      });
+    }
+  })();
+</script>

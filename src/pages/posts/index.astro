@@ -1,0 +1,17 @@
+---
+import Base from '../../layouts/Base.astro';
+import PostList from '../../components/PostList.astro';
+import { livePosts } from '../../lib/collections';
+
+const items = (await livePosts()).sort(
+  (a, b) => b.data.published.getTime() - a.data.published.getTime(),
+);
+---
+<Base
+  title="Research pieces – Matti T.J. Heino"
+  description="Longer and more thoughtful pieces on complex systems, behaviour change, and preparedness."
+>
+  <h1>Research pieces</h1>
+  <p>Longer and more thoughtful pieces on complex systems, behaviour change, and preparedness.</p>
+  <PostList items={items} />
+</Base>
