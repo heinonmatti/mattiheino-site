@@ -14,6 +14,20 @@ def normalise_slug(slug: str) -> str:
     return "".join(out).strip("-")
 
 
+def slug_from_title(title: str, fallback: str) -> str:
+    """Derive a routable slug from a title.
+
+    WP drafts often have empty <wp:post_name>; the title is the only signal
+    we have. If the title also normalises to nothing, fall back (e.g. to the
+    date) so we never emit empty-slug paths like /posts// or ./images//.
+    """
+    s = normalise_slug(title)
+    if s:
+        # Astro file routing breaks on very long slugs; cap to a generous bound.
+        return s[:80].rstrip("-")
+    return fallback
+
+
 def redirect_lines_for(
     wp_slug: str,
     new_slug: str,

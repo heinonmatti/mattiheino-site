@@ -11,7 +11,7 @@ import re
 import shutil
 from dataclasses import dataclass
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import unquote, urlparse
 
 
 MEDIA_ROOT = Path("migration/source/media")
@@ -66,13 +66,15 @@ def build_media_index(root: Path) -> dict[str, Path]:
 def build_gdrive_index(root: Path) -> dict[str, Path]:
     """Index the GDrive folder by normalised basename.
 
-    Returns an empty dict if the folder does not exist (GDrive not mounted).
+    Walks recursively so images organised into per-year/per-post subdirectories
+    (Matti's GDrive layout) are discovered. Returns an empty dict if the folder
+    does not exist (GDrive not mounted).
     """
     idx: dict[str, Path] = {}
     if not root.exists():
         print(f"  [warn] GDrive folder not found, external images will be lost: {root}")
         return idx
-    for p in root.iterdir():
+    for p in root.rglob("*"):
         if p.is_file() and p.suffix.lower() in {".jpg", ".jpeg", ".png", ".gif", ".webp"}:
             idx[_normalise_basename(p.name)] = p
     return idx
@@ -113,7 +115,9 @@ def rehost(
         return RehostResult(status="lost", source=None, local_path=None)
 
     # external
-    basename = Path(urlparse(src).path).name
+    # URL-decode the path so basenames like 'm%C3%B6kkiheppu%20copy.jpg'
+    # match the on-disk 'mökkiheppu copy.jpg' in the GDrive index.
+    basename = unquote(Path(urlparse(src).path).name)
     key = _normalise_basename(basename)
     if key in gdrive_index:
         srcpath = gdrive_index[key]

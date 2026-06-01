@@ -33,7 +33,7 @@ from lib.images import (
 )
 from lib.lang import infer_lang
 from lib.pages import disposition_for
-from lib.slug import normalise_slug, redirect_lines_for
+from lib.slug import normalise_slug, redirect_lines_for, slug_from_title
 from lib.wp_xml import WPItem, iter_items
 
 
@@ -99,6 +99,12 @@ def _process_item(item: WPItem, collection: str, draft: bool,
                   counts: dict[str, int] | None = None) -> list[str]:
     """Return the list of _redirects lines emitted for this item."""
     new_slug = normalise_slug(item.slug)
+    if not new_slug:
+        # WP drafts often have no wp:post_name. Derive from title; if the title
+        # also yields nothing, fall back to the publication date so paths stay
+        # routable (no ./images// or /posts// double-slashes).
+        date_fallback = f"untitled-{item.published.date().isoformat()}"
+        new_slug = slug_from_title(item.title, fallback=date_fallback)
     out_path = CONTENT_ROOT / collection / f"{item.published.date().isoformat()}-{new_slug}.md"
     images_dir = CONTENT_ROOT / collection / "images" / new_slug
 
