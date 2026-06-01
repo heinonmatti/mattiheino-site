@@ -1,6 +1,7 @@
 import rss from '@astrojs/rss';
 import { allLive } from '../lib/collections';
 import { cleanSlug } from '../lib/slug';
+import { wpGuidCustomData } from '../lib/rss-guid';
 import type { APIContext } from 'astro';
 
 export async function GET(context: APIContext) {
@@ -11,13 +12,12 @@ export async function GET(context: APIContext) {
     site: context.site!,
     items: items.map((e) => {
       const link = `/${e.collection}/${cleanSlug(e.id)}/`;
-      const guid = e.data.wp_guid ?? new URL(link, context.site!).toString();
       return {
         title: e.data.title,
         description: e.data.description,
         pubDate: e.data.published,
         link,
-        customData: `<guid isPermaLink="false">${guid}</guid>`,
+        customData: wpGuidCustomData(e.data.wp_guid, link, context.site!),
       };
     }),
   });

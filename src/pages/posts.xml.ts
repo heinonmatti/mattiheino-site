@@ -1,6 +1,7 @@
 import rss from '@astrojs/rss';
 import { getCollection } from 'astro:content';
 import { cleanSlug } from '../lib/slug';
+import { wpGuidCustomData } from '../lib/rss-guid';
 import type { APIContext } from 'astro';
 
 export async function GET(context: APIContext) {
@@ -13,18 +14,13 @@ export async function GET(context: APIContext) {
     site: context.site!,
     items: posts.map((e) => {
       const link = `/posts/${cleanSlug(e.id)}/`;
-      // Use the original WP <guid> when available so existing RSS subscribers
-      // (Feedly, Inoreader, etc.) do not re-receive the entire archive after
-      // the Phase 3 DNS cutover. Falls back to canonical URL for placeholder
-      // and native posts (which have no wp_guid set).
-      // customData Object.assign-overwrites item.guid set from link — no duplicates.
-      const guid = e.data.wp_guid ?? new URL(link, context.site!).toString();
+      // See src/lib/rss-guid.ts for subscriber-continuity rationale.
       return {
         title: e.data.title,
         description: e.data.description,
         pubDate: e.data.published,
         link,
-        customData: `<guid isPermaLink="false">${guid}</guid>`,
+        customData: wpGuidCustomData(e.data.wp_guid, link, context.site!),
       };
     }),
   });
