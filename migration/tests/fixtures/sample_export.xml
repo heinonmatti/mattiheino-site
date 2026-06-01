@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:wp="http://wordpress.org/export/1.2/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/">
+  <channel>
+    <title>Sample blog</title>
+    <link>https://example.test/</link>
+    <wp:base_blog_url>https://example.test</wp:base_blog_url>
+    <item>
+      <title>First post</title>
+      <link>https://example.test/2014/11/first-post/</link>
+      <pubDate>Sat, 15 Nov 2014 10:00:00 +0000</pubDate>
+      <dc:creator>matti</dc:creator>
+      <guid isPermaLink="false">https://example.test/?p=1</guid>
+      <wp:post_id>1</wp:post_id>
+      <wp:post_date>2014-11-15 10:00:00</wp:post_date>
+      <wp:post_name>first-post</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <category domain="category" nicename="complex-systems"><![CDATA[Complex systems]]></category>
+      <content:encoded><![CDATA[<p>Hello, <strong>world</strong>.</p><p>An image: <img src="https://mattiheino.files.wordpress.com/wp-content/uploads/2014/11/foo.jpg" alt="" /></p>]]></content:encoded>
+      <excerpt:encoded><![CDATA[Intro paragraph.]]></excerpt:encoded>
+    </item>
+    <item>
+      <title>Draft post</title>
+      <link>https://example.test/?p=2</link>
+      <pubDate>Sun, 16 Nov 2014 10:00:00 +0000</pubDate>
+      <dc:creator>matti</dc:creator>
+      <guid isPermaLink="false">https://example.test/?p=2</guid>
+      <wp:post_id>2</wp:post_id>
+      <wp:post_date>2014-11-16 10:00:00</wp:post_date>
+      <wp:post_name>draft-post</wp:post_name>
+      <wp:status>draft</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <category domain="category" nicename="kayttaytymismuutos"><![CDATA[Käyttäytymismuutos]]></category>
+      <content:encoded><![CDATA[<p>Tämä on luonnos.</p>]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    </item>
+    <item>
+      <title>Welcome page</title>
+      <link>https://example.test/tervetuloa/</link>
+      <pubDate>Mon, 17 Sep 2012 10:00:00 +0000</pubDate>
+      <dc:creator>matti</dc:creator>
+      <guid isPermaLink="false">https://example.test/?p=3</guid>
+      <wp:post_id>3</wp:post_id>
+      <wp:post_date>2012-09-17 10:00:00</wp:post_date>
+      <wp:post_name>tervetuloa</wp:post_name>
+      <wp:status>private</wp:status>
+      <wp:post_type>page</wp:post_type>
+      <content:encoded><![CDATA[<p>Tervetuloa.</p>]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    </item>
+  </channel>
+</rss>
