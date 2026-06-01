@@ -9,11 +9,12 @@ draft: false
 tags: ['kayttaytymisarkkitehtuuri']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=406"
 ---
-*English summary: In this post I ponder about what leads to growth. I argue that one ought to learn by basing the learning on a solid foundation, without taking knowledge too seriously. I also posit, that if the doing leads to many potentially useful paths, being wrong about any single thing is not too consequential. Finally, to hedge against total ruin, "one should not spend their life eating the menu".* 
+*English summary: In this post I ponder about what leads to growth. I argue that one ought to learn by basing the learning on a solid foundation, without taking knowledge too seriously. I also posit, that if the doing leads to many potentially useful paths, being wrong about any single thing is not too consequential. Finally, to hedge against total ruin, "one should not spend their life eating the menu".*
 
 # Mikä johtaa kasvuun?
 
 Kun ihminen haluaa kehittyä jollain elämänalueella, hän tavallaan rakentaa muurahaispesää: perusasioihin kuuluu, että allaoleva maa pystyy kannattelemaan pesän painon, sisäosat eivät mätäne (tai jos mätänevät, niin se huomataan ajoissa ja pahentunut materiaali voidaan korvata) ja jos joku potkaisee pesää, se voidaan joustavasti rakentaa uudelleen edellisestä oppineena - kolonian tulevaisuuden kannalta kriittisten osien sijaitessa koskemattomissa maan alla.
+
 Erään [kyseenalaisen](http://healthland.time.com/2013/05/20/10000-hours-may-not-make-a-master-after-all/) teorian mukaan 10 000 tuntia harjoittelua [tekisi mestarin](http://www.wisdomgroup.com/blog/10000-hours-of-practice/). Olen jo lähtökohtaisesti eri mieltä väitteen kanssa mm. siksi, että jos harjoittelu ei kasaa tietoa/taitoa, niin mikään tuntimäärä ei aiheuta kehitystä. Olen kuitenkin käyttänyt suurin piirtein tuon määrän aikaa kehittymisasioiden parissa, joten mainitsen alla muutamia havaintoja, joiden takana seison, kunnes muutan mieleni vastakkaisen todistusaineiston edessä:
 
 1. Jotta kehitystä voi tapahtua tiedossa tai taidossa, sitä on **voitava latoa kerroksittain olemassaolevan pohjan päälle** - vain näin se kasautuu. Tästä voimme johtaa, että pohjan on oltava *luotettava* (se kuvaa todellista ilmiötä) ja *merkityksellinen* (ei esim. välittömästi vanhenevaan tietoon kuten netin uutisartikkeleihin pohjaava) opeteltavaan asiaan nähden. Jos alamme kehittää osaamistamme maailman toimintaperiaatteista sille oletukselle, että aurinko kiertää maata tai lotto on työntekoon verrattavissa oleva tapa rikastua, pohjaoletuksen kumoutuessa kaikki siitä riippuvainen tieto happanee hetkessä.

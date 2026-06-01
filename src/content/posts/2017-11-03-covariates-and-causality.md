@@ -10,5 +10,7 @@ tags: ['o-data-punk-english']
 wp_guid: "http://mattiheino.com/?p=3423"
 ---
 ![why not add everything mcelreath.PNG](./images/covariates-and-causality/why-not-add-everything-mcelreath.png)
+
 [Pic is screencap from McElreath's Statistical Rethinking YouTube lecture 6]
+
 https://errorstatistics.com/2013/07/14/stephen-senn-indefinite-irrelevance-2/

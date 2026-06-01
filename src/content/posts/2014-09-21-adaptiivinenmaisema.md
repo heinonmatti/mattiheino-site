@@ -10,15 +10,25 @@ tags: ['kayttaytymisarkkitehtuuri']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=709"
 ---
 Toisistaan näennäisesti riippumattomien osaamisalueiden yhdistelyn hengessä vietin toissaviikonlopun biologien kestitsemänä Lammilla. Aika biologisella asemalla vinksautti ajatusmaailmaani mukavasti, ja haluaisinkin kirjoittaa hieman henkilökohtaisesta kasvusta [adaptiivisen maiseman](http://fi.wikipedia.org/wiki/Adaptiivinen_maisema "Wikipedia: Adaptiivinen maisema") (fitness landscape) käsite löyhästi lähtökohtanani.
+
 Kuvitellaan aluksi, että asut tyytyväisenä vinopiippuisessa mökissäsi. Tähän tapaan:
+
 ![](./images/adaptiivinenmaisema/mökkiheppu copy.jpg)
+
 Ajatellaan seuraavaksi, että haluat (esimerkiksi nälän, kyllästymisen tai uteliaisuuden ajamana) kiivetä läheiselle huipulle. Oletetaan lisäksi, että mitä korkeammalle maastossa pääset, sitä paremmassa asemassa olet ympäristöön nähden. Toisin sanoen, elämäsi on sitä mukavampaa ja turvallisempaa, mitä korkeammalle pääset. Kiipeät siis kukkulalle:
+
 ![](./images/adaptiivinenmaisema/kiipeys copy.jpg)
+
 Tavoitteesi on täyttynyt ja olet parantanut olosuhteitasi roimasti. Olet saavuttanut niin sanotun *paikallisen maksimin*; mikä tahansa muutos (ainakin lyhyellä tähtäimellä) heikentää asemiasi, ja vaikuttaa siten hölmöltä liikkeeltä. Oletetaan kuitenkin seuraavaksi, että jokin sattumasta aiheutuva vastoinkäyminen, kuten Adam Smithin [näkymättömän käden](http://dictionary.reference.com/browse/invisible+hand) rystysten isku paukauttaa sinut mukavuusalueeltasi.
+
 ![](./images/adaptiivinenmaisema/putous copy.jpg)
+
 Olet jälleen lähtötasollasi, mutta nyt huomaat edessäsi olevan entistä korkeamman huipun. Sinulla on nyt kolme vaihtoehtoa: jää makaamaan kuoppaan, palaa aiemmalle huipulle (jonka maksimikorkeuden jo kokemuksesta tiedät) tai lähde kiipeämään uudelle huipulle. Mikäli sinulla on kanttia ja resursseja, selkeä valinta on tuntematon huippu, jonka oletat olevan vähintään yhtä korkea kuin entinen.
+
 Ajatellaan, että pääset seuraavalle huipulle ja prosessi toistuu; joskus saatat vastoinkäymisen sijaan omasta uteliaisuudestasi johtuen vieriä tarkoituksella alas huipulta, mutta koskaan et etukäteen tiedä varmuudella, onko seuraava huippu yhtä korkea kuin edellinen, tai jaksatko edes kavuta sille. Oletetaan nyt koko paikallinen maisema tällaiseksi (kokonaiskuva on luonnollisesti itsellesi tuntematon missä tahansa yksittäisessä maaston kohdassa):
+
 [![](https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/adaptiivinen%20maisema_akseleineen_ukkoineen.jpg)](./images/adaptiivinenmaisema/adaptiivinen maisema_akseleineen_ukkoineen.jpg)
+
 Ajatus selviytymismaastosta yhdistettynä tosimaailmaan sallii meidän tekevän muutaman käyttäytymisarkkitehtonisen johtopäätöksen:
 
 ## 1. Ei kannata pysyä paikallaan.
@@ -32,4 +42,5 @@ Mitä enemmän sinulla (tai vaikka organisaatiollasi) on erilaisia tapoja vastat
 ## 3. Jos sinun on mahdollista varautua, varaudu.
 
 Aavikkoa ei voi ylittää, ellei joko ole todella taitava löytämään vettä tai kanna mukanaan ylimääräisiä vesileilejä. Ja aavikon ylittäminen tulee harvemmin ajankohtaiseksi ennalta tiedossa olevan aikataulun mukaisesti.
+
 Lopuksi vielä hyvä kysymys säännöllisesti itseltä kysyttäväksi: *olenko jumiutunut paikalliseen maksimiin*?

@@ -10,6 +10,7 @@ tags: ['o-data-punk-english']
 wp_guid: "http://mattiheino.com/?p=3789"
 ---
 *In 2019 I attended an exciting summer school; [Complexity Methods for Behavioural Science: A Toolbox for Studying Change](https://www.ru.nl/radboudsummerschool/courses/2020/complexity-methods-behavioural-science-toolbox/). Later, we – that is, the University of Helsinki [Behaviour Change and Wellbeing Group](https://www.helsinki.fi/en/researchgroups/behaviour-change-and-wellbeing) – had the opportunity to invite Fred Hasselman, who devised the course, to Finland. He gave an overview talk as well as a 3-day workshop, which I recorded with varying success. This page collates resources regarding the course.*
+
 For all the recordings, see our [YouTube channel](https://www.youtube.com/channel/UCR9nYEjzOCzQLjxDgKo0EZA). There are two playlists; one for short snippets and another one for full-length lectures. [Here are some tweets](https://twitter.com/Heinonmatti/status/1221904607133216768) on the course, with links to further resources. For additional slides, see [here](https://github.com/FredHasselman/The-Complex-Systems-Approach-Book/tree/master/slides). See the end of the post for literature!
 
 - **Lecture 0 ([video](https://www.youtube.com/watch?v=BXJN_KhGtrs), [slides](https://complexity-methods.github.io/slides/Helsinki2020/HELSINKI2020_Talk.pdf))** – **Overview of complexity science and its applications in behavioural sciences**. Also see shorter snippets on [**ergodicity**](https://www.youtube.com/watch?v=dwu-1ahai8Q), **[interaction- vs. component-dominant dynamics](https://www.youtube.com/watch?v=T_lN5y2HcVU)**, and **[my interview with Fred](https://youtu.be/fVakcirn2-g)**.
@@ -26,13 +27,21 @@ For all the recordings, see our [YouTube channel](https://www.youtube.com/channe
 - **Lecture 11 (****[video](https://youtu.be/rDxJZTBxAxM)****,** **[slides](https://complexity-methods.github.io/slides/Helsinki2020/Helsinki_Day3_ComplexNetworks.pdf)** [38-80]**) – Multiplex recurrence networks for non-linear multivariate time series analysis:** Recurrence networks, change profiles of ecological momentary assessments as an alternative to raw scores. Also see [this paper](https://www.frontiersin.org/articles/10.3389/fams.2020.00009/abstract)!
 
 ![Matti spiral](./images/complexity-channel/matti-spiral.png)
+
 **Literature:**
+
 *Three recent papers directly related to the course's topics:*
+
 Hasselman, F., & Bosman, A. M. T. (2020). Studying Complex Adaptive Systems with Internal States: A Recurrence Network Approach to the Analysis of Multivariate Time Series Data Representing Self-Reports of Human Experience. *Frontiers in Applied Mathematics and Statistics*, *6*. <https://doi.org/10.3389/fams.2020.00009>
+
 Heino, M. T. J., Knittle, K. P., Noone, C., Hasselman, F., & Hankonen, N. (2020). *Studying behaviour change mechanisms under complexity* [Preprint]. PsyArXiv. <https://doi.org/10.31234/osf.io/fxgw4>
+
 Olthof, M., Hasselman, F., & Lichtwarck-Aschoff, A. (2020). *Complexity In Psychological Self-Ratings: Implications for research and practice* [Preprint]. PsyArXiv. <https://doi.org/10.31234/osf.io/fbta8>
+
 *An important complementary perspective to complexity basics:*
+
 Siegenfeld, A. F., & Bar-Yam, Y. (2020). An Introduction to Complex Systems Science and Its Applications. *Complexity*, *2020*, 6105872. <https://doi.org/10.1155/2020/6105872>
+
 *More resources on complexity:*
 
 1. Mathews, K. M., White, M. C., & Long, R. G. (1999). Why Study the Complexity Sciences in the Social Sciences? *Human Relations, 52(4)*, 439–462. <https://doi.org/10.1023/A:1016957424329> [**INTRO COMPLEXITY SCIENCE**]

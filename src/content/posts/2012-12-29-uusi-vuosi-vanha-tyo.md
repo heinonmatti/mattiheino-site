@@ -12,6 +12,7 @@ wp_guid: "http://blogs.helsinki.fi/hema/?p=222"
 # Uusi vuosi, vanha työ?
 
 Työpaikan käyttäytymisarkkitehtuurin muutoksilla voidaan lisätä hyvinvointia ja tuottavuutta, kertovat evoluutiopsykologit [tuoreessa artikkelissa](http://www.epjournal.net/wp-content/uploads/EP10770781.pdf). Kirjoittajien mukaan työolojen järjestäminen vastaamaan paremmin olosuhteita, joihin olemme kehittyneet, tuo mukanaan monia etuja.
+
 Joitain huomioita artikkelin esittelemistä tutkimustuloksista:
 
 - Ikkunat ja niistä tuleva auringonvalo lisäävät hyvinvointia, keinovalo ei.
@@ -21,5 +22,7 @@ Joitain huomioita artikkelin esittelemistä tutkimustuloksista:
 - Koiran läsnäolo työpaikalla voi parantaa ihmisten sosiaalisia suhteita ja ryhmätyön tuloksellisuutta.
 
 Listan voi kiikuttaa pomolleen.
+
 Hyvinvoivaa alkanutta vuotta!
+
 Lähde: **Evolution in the Office: How Evolutionary Psychology Can Increase Employee Health, Happiness, and Productivity**. (<http://www.epjournal.net/wp-content/uploads/EP10770781.pdf>)

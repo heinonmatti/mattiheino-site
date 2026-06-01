@@ -14,7 +14,9 @@ Yllätyin iloisesti huomatessani, kuinka paljon käyttökelpoisia ajatuksia sain
 ## Riko putkinäkö
 
 Kun huomaamme vaihtoehtojemme olevan vähissä, monesti syyllinen on mentaalinen putkinäkö. Oman kokemukseni mukaan se toimii samoin kuin fyysinenkin; vauhdin ja stressin lisääntyessä näkökenttä alkaa kaventua.
+
 Ratkaisevat kysymykset:
+
 *1. Kuinka voisin saada molemmat?*
 
 - Kohtaamme jatkuvasti elämässämme (myös [hölmöläisen valinnoiksi](http://sourcesofinsight.com/refuse-the-suckers-choice-4/ "Sources of insight: Refuse the Sucker’s Choice") kutsuttuja) "joko-tai"-kysymyksiä. Elämä ei kuitenkaan ole peli, jossa olisi selkeät, yksinkertaiset säännöt, ja siksi toimintamahdollisuuksiakin on aina enemmän kuin kaksi! Jos esimerkiksi koet, että voisit *joko* nähdä ystäviäsi useammin *tai* alkaa harrastaa enemmän, ei kannata jättää tätä kysymystä kysymättä.
@@ -26,7 +28,9 @@ Ratkaisevat kysymykset:
 ## Ota etäisyyttä
 
 Kun elokuvissa etsivän hyvä ystävä murhataan, etsivää usein kielletään osallistumasta murhatutkimukseen, koska hän on liian läheinen uhrin kanssa. Axel Foleyn opetuksista poiketen ulkopuolelle jättäytyminen on hyvä idea. Kun huomaat olevasi tunnekuohussa, käytä 10/10/10-taktiikkaa tai päätöksen ulkoistusta:
+
 Ratkaisevat kysymykset:
+
 *3. Jos teen tämän päätöksen, miltä minusta tuntuu 10 minuutin, 10 päivän ja 10 vuoden kuluttua?*
 
 - Joskus, kun meidän olisi esimerkiksi soitettava *se* tärkeä puhelu, kokemamme epämukavuus aiheuttaa yhä uudelleen toiminnan myöhemmäksi lykkäämistä. Tällöin rohkeutta antaa pikainen aikamatka tulevaisuuteen. Temppu toimii myös, kun olemme juuri antamassa huutomerkein ja kirosanoin siloteltua rakentavaa palautetta sähköpostitse.
@@ -38,7 +42,9 @@ Ratkaisevat kysymykset:
 ## Valmistaudu olemaan väärässä
 
 Helpoin tapa tehdä elämänsä aikana ainakin yksi hyvä päätös on päättää valmistautua huonojen päätösten varalle. Sen lisäksi, että voimme valmistautua [HAL-taktiikan](http://blogs.helsinki.fi/hema/lohdullinen-epavarmuus/ "Käyttäytymisarkkitehtuuri: Lohdullinen epävarmuus") ennustamaan epävarmuuden määrään, voimme automatisoida "ansalangan", joka hälyttää kun päätöksemme osoittautuukin pettäväksi.
+
 Ratkaiseva kysymys:
+
 *5. Mitä pitäisi tapahtua, jotta voimme päätellä tehdyn päätöksen olleen virheellinen ja ryhtyä korjausliikkeisiin?*
 
 - Päätöksillä on tapana jäädä voimaan, ja niitä ei monesti kyseenalaisteta, koska ympäristö on muuttunut salakavalan hitaasti. Myös touhuun jo [uponneet kustannukset](http://www.lifehack.org/articles/communication/how-the-sunk-cost-fallacy-makes-you-act-stupid.html "How the Sunk Cost Fallacy Makes You Act Stupid") voivat saada vetäytymisen näyttämään tampioiden touhulta. Tällaisessa tilanteessa on hyvä, jos olemme jo etukäteen määritelleet, mistä tiedämme ettei projekti ollutkaan niin hieno idea kuin aluksi kuvittelimme. Kysy tämä kysymys myös silloin, kun työpaikan urakiipijä saa palaverissa enemmistön vakuuttuneeksi (omasta näkövinkkelistäsi) pähkähullusta ideastaan!

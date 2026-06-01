@@ -10,8 +10,8 @@ tags: ['o-data-punk-english']
 wp_guid: "http://mattiheino.com/?p=3728"
 ---
 *This post consists of autobiographical snippets of the development of my mental landscape; things I've been struggling with in an uncertain, complex world. I'm posting these right before attending the [Real World Risk Institute](https://realworldrisk.com/) training, which I expect to be the antonym of a linear, predictable, optimisable and rationalisable world view.*
-![matti 9v png.png](./images/apologeia-of-a-linear-thinker/matti-9v-png.png)
 
+![matti 9v png.png](./images/apologeia-of-a-linear-thinker/matti-9v-png.png)
 
 ---
 
@@ -40,7 +40,6 @@ When I was very young, I realised I can use logic and reasoning to run circles a
 
 ---
 
- 
 Fred W. Taylor was the pioneer in making factories more efficient. His ideas worked great in an environment where tasks could be chopped down to easily articulable optimal sub-behaviours. There's a story about him, that as a child, he would try to figure out the optimal step length to cover most distance with least energy expenditure. We would've been kindred spirits; after I realised I know things the adults don't, I figured I could hack walking, too. Two decades later, I still ran funny.
 
 ---
@@ -70,6 +69,7 @@ I've always been maximising, as opposed to satisficing, realising I don't get th
 ---
 
 I've always been finishing, as opposed to exploring. Yes I know Buddha said finishing that project won't give you lasting satisfaction, and I promise I'll stop and re-think my approach once I just finish everything first!
+
 [note: turns out everything is very, very much]
 
 ---

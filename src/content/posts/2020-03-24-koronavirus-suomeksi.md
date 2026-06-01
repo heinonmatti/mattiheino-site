@@ -10,9 +10,13 @@ tags: ['o-data-punk-english']
 wp_guid: "http://mattiheino.com/?p=3795"
 ---
 *This post curates Finnish translations (mostly [NECSI guidelines](https://necsi.edu/corona-virus-pandemic)) for stopping the Coronavirus pandemic. Tälle sivulle olen koonnut hyvinä pitämiäni suomenkielisiä tekstejä. Suomentajana [Thomas Brand](https://medium.com/@thlbr), ellei toisin mainita. Katso myös pandemioita pitkään tutkineen kompleksisuustieteilijä Yaneer Bar-Yamin [haastattelu Suomen tilanteeseen liittyen](http://mattiheino.com/2020/05/04/bar-yam/).*
+
 Marraskuussa 2019 sain stipendin turvin mahdollisuuden osallistua Nassim Talebin [riskinhallintaryhmän](http://realworldrisk.com) koulutukseen New Yorkissa. Siellä käsittelimme pandemiankaltaisia riskejä ja toimintaa niiden välttämiseksi. Muutamaa kuukautta myöhemmin pääsinkin elämään painajaista nähdessäni, että käytännössä kaikki länsimaat toimivat täysin vastoin varovaisuusperiaatetta (ts. joukkotuhon uhka on aina vältettävä agressiivisin toimin), luottaen "parhaaseen nykytietoon" viiveellä ilmenevän riskin torjumisen sijaan.
+
 ![scientific_briefing](./images/koronavirus-suomeksi/scientific_briefing.png) Kokous, joka käytiin vuoden 2020 alussa jokaisessa maailman maassa. Lähde: [xkcd](https://xkcd.com/2278/)
+
 Alla hyviä kirjoituksia, jotka ovat pääosin alunperin [NECSI-instituutin](https://necsi.edu/corona-virus-pandemic) tuottamia.  NECSI:lla on pitkä historia hallitusten ja järjestöjen kuten WHO:n konsultoinnissa mm. Ebola ja Zikavirus-epidemioita nitistettäessä, mutta myös muissa kompleksisissa ongelmissa, joihin perinteinen matemaattinen mallinnus ei pure. Koronavirus-pandemiaan liittyvään vapaaehtoisten globaaliin verkostoon voi liittyä [täältä](http://endcoronavirus.org/); tekemistä on käännöksistä some-aktiviteettiin, maskien ompeluun, hengityslaitteiden suunnitteluun, verkkosivujen ja mobiilisovellusten luomiseen ym.!
+
 **Lyhyitä perusohjeistuksia:**
 
 - **[Kaikkien pitäisi käyttää maskeja: Yhteenveto tieteellisistä tutkimuksista](https://medium.com/brandin-kirjasto/kaikkien-pit%C3%A4isi-k%C3%A4ytt%C3%A4%C3%A4-maskeja-9a4a8546f7f9)**

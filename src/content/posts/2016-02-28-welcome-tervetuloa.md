@@ -10,7 +10,9 @@ tags: ['uncategorised']
 wp_guid: "http://mattiheino.com/?p=1210"
 ---
 This is a blog about behaviour change science and complex systems in preparedness, health and well-being.
+
 For research articles, see my [Google Scholar profile](https://scholar.google.fi/citations?hl=en&user=jrDugIgAAAAJ&view_op=list_works&sortby=pubdate). If you'd like to e-mail me about anything, please email matti.tj.heino @ this domain (i.e. mattiheino.com). Find me [in LinkedIn](https://www.linkedin.com/in/heinonmatti).
+
 Nota bene: I instruct an[online course for the New England Complex Systems Institute](https://necsi.edu/complex-social-psychological-systems), and am happy to respond to questions. Do reach out!
 
 ## Latest posts

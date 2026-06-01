@@ -13,6 +13,22 @@ _GUTENBERG_RE = re.compile(r"<!--\s*/?wp:[^>]*-->")
 _MORE_RE = re.compile(r"<!--\s*more\s*-->", re.IGNORECASE)
 _GALLERY_RE = re.compile(r"\[gallery[^\]]*\]", re.IGNORECASE)
 
+# Block-level HTML elements. wpautop() does NOT wrap a chunk that already
+# starts with one of these in a synthetic <p>. The list mirrors the
+# defaults used by WordPress's wpautop() plus the elements we know turn up
+# in Matti's WP export (figure, table, pre, blockquote, etc.).
+_BLOCK_TAGS_RE = re.compile(
+    r"^\s*</?(?:"
+    r"h[1-6]|p|div|blockquote|ul|ol|li|dl|dt|dd|"
+    r"pre|table|thead|tbody|tfoot|tr|th|td|"
+    r"hr|figure|figcaption|"
+    r"form|fieldset|"
+    r"article|section|aside|nav|header|footer|main|"
+    r"iframe|video|audio"
+    r")[\s>/]",
+    re.IGNORECASE,
+)
+
 
 def sweep_shortcodes(html: str) -> str:
     """Strip / replace WP shortcodes + Gutenberg block comments.
@@ -29,9 +45,31 @@ def sweep_shortcodes(html: str) -> str:
     return html
 
 
+def wpautop(html: str) -> str:
+    """Wrap blank-line-separated chunks in <p> tags (mirrors WP's wpautop).
+
+    WordPress stores post bodies with `\\n\\n` between paragraphs and lets the
+    rendering layer turn those into <p>...</p>. The WXR export preserves
+    that raw form. Without wpautop, markdownify treats the whole body as
+    inline text and collapses paragraph breaks.
+    """
+    chunks = re.split(r"\n\n+", html.strip())
+    out: list[str] = []
+    for c in chunks:
+        c = c.strip()
+        if not c:
+            continue
+        if _BLOCK_TAGS_RE.match(c):
+            out.append(c)
+        else:
+            out.append(f"<p>{c}</p>")
+    return "\n\n".join(out)
+
+
 def to_markdown(html: str) -> str:
     """Convert sanitised HTML to Markdown via markdownify.
 
-    Run sweep_shortcodes() first to clear WP-specific cruft, then convert.
+    Run sweep_shortcodes() first to clear WP-specific cruft. Then apply
+    wpautop() so paragraph breaks survive into the Markdown output.
     """
-    return _md(html, heading_style="ATX", bullets="-")
+    return _md(wpautop(html), heading_style="ATX", bullets="-")
