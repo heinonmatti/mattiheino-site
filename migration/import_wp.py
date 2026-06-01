@@ -94,7 +94,8 @@ def _first_paragraph(html: str) -> str:
 
 def _process_item(item: WPItem, collection: str, draft: bool,
                   media_index, gdrive_index, dead_rows: list[DeadImageRow],
-                  category_map: dict[str, str], dry_run: bool) -> list[str]:
+                  category_map: dict[str, str], dry_run: bool,
+                  counts: dict[str, int] | None = None) -> list[str]:
     """Return the list of _redirects lines emitted for this item."""
     new_slug = normalise_slug(item.slug)
     out_path = CONTENT_ROOT / collection / f"{item.published.date().isoformat()}-{new_slug}.md"
@@ -112,6 +113,8 @@ def _process_item(item: WPItem, collection: str, draft: bool,
         if result.status == "ok":
             new_src = f"./images/{new_slug}/{result.local_path.name}"
             body_html = body_html.replace(src, new_src, 1)
+            if counts is not None:
+                counts["images_ok"] += 1
         else:
             placeholder = "<!-- IMAGE LOST: src=" + src + " -->"
             body_html = body_html.replace(m.group(0), placeholder, 1)
@@ -119,6 +122,8 @@ def _process_item(item: WPItem, collection: str, draft: bool,
                 collection=collection, slug=new_slug, paragraph=i,
                 original=src, alt="",
             ))
+            if counts is not None:
+                counts["images_lost"] += 1
 
     body_md = to_markdown(body_html)
     fm = _frontmatter(item, lang, tags, collection, draft)
@@ -165,7 +170,7 @@ def main() -> int:
                 item, collection=d.collection, draft=d.draft,
                 media_index=media_index, gdrive_index=gdrive_index,
                 dead_rows=dead_rows, category_map=category_map,
-                dry_run=args.dry_run,
+                dry_run=args.dry_run, counts=counts,
             ))
             continue
 
@@ -186,10 +191,8 @@ def main() -> int:
             item, collection=collection, draft=draft,
             media_index=media_index, gdrive_index=gdrive_index,
             dead_rows=dead_rows, category_map=category_map,
-            dry_run=args.dry_run,
+            dry_run=args.dry_run, counts=counts,
         ))
-
-    counts["images_lost"] = len(dead_rows)
 
     if not args.dry_run:
         WORKSHEET_PATH.parent.mkdir(parents=True, exist_ok=True)
