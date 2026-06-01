@@ -28,7 +28,7 @@ def categories_to_tags(categories: list[str], mapping: dict[str, str]) -> list[s
     for c in categories:
         key = c.lower()
         tag = mapping.get(key, slugify(key))
-        if tag not in seen:
+        if tag and tag not in seen:
             seen.add(tag)
             out.append(tag)
-    return out
+    return out or ["uncategorised"]

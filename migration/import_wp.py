@@ -65,7 +65,8 @@ def _pick_collection(item: WPItem, overrides: set[str]) -> str:
 
 def _frontmatter(item: WPItem, lang: str, tags: list[str], collection: str, draft: bool) -> str:
     description = (item.excerpt.strip()
-                   or _first_paragraph(item.content_html)[:160].strip())
+                   or _first_paragraph(item.content_html)[:160].strip()
+                   or item.title.strip())
     description = description.replace('"', "'")
     parts = [
         "---",

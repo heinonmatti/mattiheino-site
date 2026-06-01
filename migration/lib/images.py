@@ -37,6 +37,10 @@ def classify_src(src: str) -> str:
     path = u.path
     if host.endswith("mattiheino.files.wordpress.com"):
         return "wp-cdn"
+    if host == "mattiheino.com" and "/wp-content/uploads/" in path:
+        return "wp-cdn"
+    if host == "mattiheino.wordpress.com" and "/wp-content/uploads/" in path:
+        return "wp-cdn"
     if not host and "/wp-content/uploads/" in path:
         return "wp-cdn"
     return "external"
