@@ -1,0 +1,3 @@
+# WP post slugs that should land in applied-musings/ instead of posts/.
+# One slug per line. Lines starting with # are comments.
+# Edit by hand before/after the first import_wp.py run.

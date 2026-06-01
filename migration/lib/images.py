@@ -15,7 +15,8 @@ from urllib.parse import urlparse
 
 
 MEDIA_ROOT = Path("migration/source/media")
-GDRIVE_FOLDER = Path("/c/LocalData/hema/Google Drive/Wordpress")
+# Windows path; the POSIX /c/... form only works under MSYS2/Git Bash
+GDRIVE_FOLDER = Path(r"C:\LocalData\hema\Google Drive\Wordpress")
 
 # WP resize suffix pattern e.g. foo-300x200.jpg, bar-1024x768.png
 _RESIZE_RE = re.compile(r"-\d+x\d+(?=\.[a-z]+$)", re.IGNORECASE)
@@ -59,8 +60,14 @@ def build_media_index(root: Path) -> dict[str, Path]:
 
 
 def build_gdrive_index(root: Path) -> dict[str, Path]:
-    """Index the GDrive folder by normalised basename."""
+    """Index the GDrive folder by normalised basename.
+
+    Returns an empty dict if the folder does not exist (GDrive not mounted).
+    """
     idx: dict[str, Path] = {}
+    if not root.exists():
+        print(f"  [warn] GDrive folder not found, external images will be lost: {root}")
+        return idx
     for p in root.iterdir():
         if p.is_file() and p.suffix.lower() in {".jpg", ".jpeg", ".png", ".gif", ".webp"}:
             idx[_normalise_basename(p.name)] = p
