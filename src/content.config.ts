@@ -50,6 +50,12 @@ const postSchema = ({ image }: { image: () => any }) =>
 
     // Per-post record of images lost in migration, etc.
     migration_notes: z.string().optional(),
+    // Original WordPress <guid> — preserves RSS item identity at Phase 3 DNS
+    // cutover so Feedly/Inoreader subscribers don't see the archive as new.
+    wp_guid: z.string().optional(),
+    // Original motivationselfmanagement.com slug — used by sync-msm-redirects.mjs
+    // to emit per-URL _redirects rules as MSM posts are vetted and published.
+    msm_slug: z.string().optional(),
 
     // true only for un-vetted motivationselfmanagement.com imports.
     draft: z.boolean().default(false),
