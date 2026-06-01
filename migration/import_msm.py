@@ -97,13 +97,18 @@ def _frontmatter(post: MSMPost) -> str:
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument(
+        "--overwrite", action="store_true",
+        help="Re-fetch even posts whose output file already exists (default: skip).",
+    )
     args = parser.parse_args()
 
     cdx = CDX_PATH.read_text(encoding="utf-8").splitlines()
     media_index = build_media_index(REPO_ROOT / MEDIA_ROOT)
     gdrive_index = build_gdrive_index(GDRIVE_FOLDER)
 
-    counts = {"ok": 0, "skipped": 0, "failed": 0, "images_ok": 0, "images_lost": 0}
+    counts = {"ok": 0, "skipped": 0, "failed": 0, "images_ok": 0, "images_lost": 0,
+              "already_written": 0}
 
     for post in INVENTORY:
         if post.slug == "aloittaminen":
@@ -117,6 +122,13 @@ def main() -> int:
                     encoding="utf-8",
                 )
             print(f"  skip  {post.slug}  (no individual Wayback snapshot)")
+            continue
+
+        new_slug = normalise_slug(post.slug)
+        out_path = CONTENT_ROOT / f"{post.published.isoformat()}-{new_slug}.md"
+        if out_path.exists() and not args.overwrite:
+            counts["already_written"] += 1
+            print(f"  have  {post.slug}  (output exists; --overwrite to refetch)")
             continue
 
         match = _best_snapshot(cdx, post.slug)
@@ -136,8 +148,6 @@ def main() -> int:
             print(f"  fail  {post.slug}  ({e})")
             continue
 
-        new_slug = normalise_slug(post.slug)
-        out_path = CONTENT_ROOT / f"{post.published.isoformat()}-{new_slug}.md"
         images_dir = CONTENT_ROOT / "images" / new_slug
 
         body_html = sweep_shortcodes(article_html)

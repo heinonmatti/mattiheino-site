@@ -1,20 +1,82 @@
 ---
-title: 'Antihauras elämä'
-description: Mitä arjen valinnat voisivat oppia siitä, miten jotkin järjestelmät vahvistuvat häiriöistä.
-lang: fi
+title: "Antihauras elämä"
+description: "Antihauras elämä"
 published: 2020-02-11
-vetted_on: 2026-05-20
-vetting_status: done
+lang: fi
+vetting_status: pending
 migration_source: motivationselfmanagement
-draft: false
-tags: [antihauraus, kompleksisuus, elämäntapa]
+draft: true
+msm_slug: "antihauras"
+tags: []
 ---
+[February 11, 2020February 12, 2020](https://web.archive.org/web/20200214130736/https://www.motivationselfmanagement.com/2020/02/11/antihauras/) [Suomeksi](https://web.archive.org/web/20200214130736/https://www.motivationselfmanagement.com/category/suomeksi/)
+[Leave a comment](#respond)
+[antihauras](https://web.archive.org/web/20200214130736/https://www.motivationselfmanagement.com/tag/antihauras/)[kylmäaltistus](https://web.archive.org/web/20200214130736/https://www.motivationselfmanagement.com/tag/kylmaaltistus/)[liikunta](https://web.archive.org/web/20200214130736/https://www.motivationselfmanagement.com/tag/liikunta/)[motivaatio](https://web.archive.org/web/20200214130736/https://www.motivationselfmanagement.com/tag/motivaatio/)[syöminen](https://web.archive.org/web/20200214130736/https://www.motivationselfmanagement.com/tag/syominen/)
 
-Jotkin asiat hajoavat, kun niitä kolhitaan. Toiset kestävät. Mutta on myös
-kolmas luokka: asiat, jotka **vahvistuvat** häiriöstä.
+# Antihauras elämä
 
-Lihas, jota rasitetaan sopivasti, kasvaa. Immuunijärjestelmä, joka kohtaa
-pieniä haasteita, oppii. Liiallinen suojelu tekee hauraaksi.
+*Tässä kirjoituksessa ihmettelen erilaisia outoja asioita, jotka “prosessitavoitteiden” kautta muuttuvat uudeksi normaaliksi.*
 
-Tämä on sovellettu pohdinta &ndash; ei tieteellinen teksti &ndash; siitä, miten
-antihauraus voisi näkyä tavallisessa arjessa.
+Olin hiljattain vieraana Joni Jaakkolan Väkevä Elämä-podcastissa ([Spotify](https://web.archive.org/web/20200214130736/https://buff.ly/2vIG3Hu), [Google](https://web.archive.org/web/20200214130736/https://buff.ly/2SenlPH), [Apple](https://web.archive.org/web/20200214130736/https://buff.ly/2GXtMkJ)), ja vaikka ehkä piti pääasiassa puhua itsesäätelytekniikoista (ks. postaus kehittämästämme [listauksesta](https://web.archive.org/web/20200214130736/https://www.motivationselfmanagement.com/2020/01/07/tekniikkalistaus/)), tulimme siinä tulimme sivunneeksi [antihaurauden](https://web.archive.org/web/20200214130736/https://en.wikipedia.org/wiki/Antifragility) käsitettä. Aihe on minulle sydäntä lähellä, sillä sain viime syksynä stipendin sen sovelluksia koskevaan [koulutukseen](https://web.archive.org/web/20200214130736/http://realworldrisk.com/) New Yorkissa, joten ajattelin avata sitä hieman lisää.
+
+Perusajatuksena on, että kaikki järjestelmät (esineet, eliöt, yhteiskunnat, jne) voidaan jakaa kolmeen ryhmään:
+
+1. Hauraat järjestelmät hyötyvät mahdollisimman rauhallisesta menosta, sillä ne eivät kestä epäjärjestystä tai shokkeja. Esimerkkejä: samppanjalasit ovat hauraita iskuille, puhelimet vedelle, ja äärimmilleen optimoidut aikataulut yllätyksille.
+2. Vahvat järjestelmät kestävät höykytystä, ainakin tiettyyn pisteeseen asti. Esimerkkejä: nyrkkeilysäkit kestävät iskuja, laivat vettä, ja varasuunnitelmat odottamattomia käänteitä.
+3. Antihauraat järjestelmät hyötyvät myllerryksestä – jälleen, tiettyyn pisteeseen asti. Esimerkkejä: polvet vahvistuvat juoksun tai kävelyn tuomista iskuista, keho ja luut ylipäänsä painavien asioiden nostelemisesta.
+
+Elävät olennot ovat kehittyneet kukoistamaan olosuhteissa, joissa turbulenssi on tavallista; akuutin myllerryksen evääminen ja kroonisen tasaisuuden keinotekoinen tuottaminen aiheuttaa vahinkoa. Tilanne on päinvastainen epäorgaanisissa otuksissa kuten pesukoneissa tai autoissa, jotka kaipaavat monotonista vakautta, eivätkä esimerkiksi kehon tavoin kykene korjaamaan itseään. Tästä voimme johtaa antihauraan elämän ensimmäisen säännön: **Perussääntö 1.** ***Hissit kuluvat käytössä, ihmiset käytön puutteessa*****.** Muista tämä kun seuraavan kerran olet jättämässä portaat valitsematta.
+
+Muutokset elämäntilanteissa usein vaikuttavat liikuntaan, syömiseen, nukkumiseen, työhön ja/tai ihmissuhteisiin. Antihauraiden järjestelmien kanssa toimimisessa on tärkeää huomata, että emme pyri suojelemaan niiden kaikkia osia, vaan päästämme irti toimimattomista palasista. Näitä ovat hyvin toimivissa valtioissa haitallisiksi osoittautuneet poliittiset päätökset ja korruptoituneet päätöksentekijät; yrityksissä tekohengitettävät tuotelinjat ja toimimattomat tuotteet; omassa elämässä aikansa eläneet tavat, ajatukset, ihmissuhteet ja minäkuvan osat. Johdamme siis toisen säännön: **Perussääntö 2.** ***Elämäntilanteen muututtua ei ole syytä pyrkiä palauttamaan aiempaa (esim. liikuntatottumusten) asiantilaa, vaan kokeilemalla löytää uusi tila, joka on [vielä] paremmin yhteensopiva kokonaistilanteen kanssa.***
+
+Tätä tarkoitetaan, kun sanotaan, että muutokset ovat mahdollisuuksia – ajan kulkiessa vääjäämättömästi eteenpäin, kehomme ja toimintaympäristömme muuttuvat, ja muutos (lapsen saaminen, työpaikan menettäminen/vaihtaminen, uudelle paikkakunnalle muuttaminen…) antaa mahdollisuuden olla takertumatta aiemmissa elämänvaiheissamme hyvin palvelleisiin toimintatapoihin.
+
+alt="" class="wp-image-247" width="356" height="267" srcset="https://web.archive.org/web/20200214130736im\_/https://www.motivationselfmanagement.com/wp-content/uploads/2020/02/image-1-1024x768.png 1024w, https://web.archive.org/web/20200214130736im\_/https://www.motivationselfmanagement.com/wp-content/uploads/2020/02/image-1-300x225.png 300w, https://web.archive.org/web/20200214130736im\_/https://www.motivationselfmanagement.com/wp-content/uploads/2020/02/image-1-768x576.png 768w, https://web.archive.org/web/20200214130736im\_/https://www.motivationselfmanagement.com/wp-content/uploads/2020/02/image-1-1536x1152.png 1536w, https://web.archive.org/web/20200214130736im\_/https://www.motivationselfmanagement.com/wp-content/uploads/2020/02/image-1-2048x1536.png 2048w, https://web.archive.org/web/20200214130736im\_/https://www.motivationselfmanagement.com/wp-content/uploads/2020/02/image-1-480x360.png 480w, https://web.archive.org/web/20200214130736im\_/https://www.motivationselfmanagement.com/wp-content/uploads/2020/02/image-1-1216x912.png 1216w, https://web.archive.org/web/20200214130736im\_/https://www.motivationselfmanagement.com/wp-content/uploads/2020/02/image-1-333x250.png 333w" sizes="(max-width: 356px) 100vw, 356px">
+
+Kuvassa kauhuskenaario, jonka tuottama shokki voi aiheuttaa mielen järkkymistä, ennallaan pysymistä, tai vahvemmaksi kasvamista.
+
+*[Varoitus: tulen alla käyttämään överejä esimerkkejä omasta elämästäni näyttääkseni, millaisiin asioihin ihmiskeho voi sopeutua, kun antihauraan järjestelmän rasitusta lisää vähitellen. Kyseessä on vuosien mittaisten pienimuotoisten tapojen jatkuminen, ei “itseään niskasta kiinni ottamisen” mukanaan tuoma elintapamuutosprojekti.]*
+
+#### Antihauraat liikuntatottumukset
+
+Kehosi on itseorganisoituva järjestelmä; sinun ei tarvitse käskeä sitä parantamaan haavoja tai hengittämään ilmaa, mutta se käyttää kaikkea mitä teet, signaalina tarpeista, joihin sen tulee sopeutua. Tästä jäi itselleni pysyvä muisto, kun kerran häissä tapasin (törkeän ennakkoluuloisesti hippi-kategoriaan luokittelemani) henkilön, joka tuli kertoi hiustensa lakanneen rasvottumasta samppoon käytön lopettamisen seurauksena. Ääriskeptisenä ja noin 30 vuotta lähes päivittäin samppoota ja hoitoainetta käyttäneenä henkilönä päätin testata tätä: kuinka ollakaan, parin viikon jälkeen päänahka alkoikin voimaan paljon paremmin. Olen siitä asti pärjännyt vesipesulla ja kiinnostuneena havainnoinut, ettei kukaan tarinan kuullut ajattele ko. mekanismin pätevän heidän kallonpinnoissaan.
+
+Liikunta, sauna ja avanto toimivat kuitenkin samalla periaatteella: keho tietyllä tapaa ottaa shokin merkkinä siitä, millaiseen rasitukseen sen tulee tulevaisuudessa vastata. Nelikymppisyyden kynnyksellä olen havainnut painonpudotustavoitteita tai voiman maksimointia paremmaksi tähdätä terveyden maksimointiin. Tätä voi harrastaa *prosessitavoitteita* päämäärätavoitteiden (“haluan nostaa maastavedolla 150 kiloa”) sijaan asettamalla. On tutkittu, että insuliinivaste paranee, jos liikkuu ennen ruokailua; esimerkki tähän pohjaavasta prosessitavoitteesta olisi “teen yhden lihaskuntoliikesetin ennen kuin syön”. Huomaa, että mikäli kyseinen tutkimus joskus osoittautuu puutteelliseksi tai jopa vääräksi tiedoksi, et ole menettänyt mitään, sillä liikunnasta on ollut joka tapauksessa hyötyä. Aloittamiseen tarvitaan vain tietoa siitä, millasia lihaskuntoliikkeitä voi ylipäänsä tehdä, ja kokeilunhalua (lopussa joitain lähdevinkkejä; vaihtoehtoja on tuhansia ja jos jokin tuntuu typerältä, voi aina kokeilla seuraavaa).
+
+Eräs toinen prosessitavoitteeni on ollut säästää rahaa työmatkoilla ja saada mahdollisimman vähän aikaa vievää liikuntaa, siispä lähes aina hölkkään / sprinttaan / kävelen toimistolle. Tätä viitisen vuotta tehtyäni, joudun käyttämään suunnitteluenergiaa jos haluan poiketa aiemmasta ja ottaa bussin – siitä on tullut pienimmän vastuksen reitti. Aloittamiseen ei tarvita mitään, mutta jos kokeilet tätä (vaikka vain muutaman pysäkinvälin kävellen) ja haluat vastusta hommaan, voit lisätä painoja reppuun. Vinkki: vesipulloja paljon vähemmän tilaa selkärepusta vie 20kg käsipainosta irrotettavat levyt.
+
+#### Antihauraat ruokailutottumukset
+
+En henkilökohtaisesti usko “5 säännöllistä ateriaa päivässä” -dogmaan, ellei sillä tarkoiteta ensimmäistä askelta poispäin 20-välipalaa-päivässä-moodista. Noin vuonna 2013 katsoin BBC-dokkarin [Eat, Fast and Live Longer](https://web.archive.org/web/20200214130736/https://www.dailymotion.com/video/x54p8ri), ja kiinnostuin kokeilemaan satunnaista paastoilua. Ideana on, että keho aloittaa ns. “autofagiset” kierrätys- ja korjausmekanisminsa ruokailun tauottua 12-36 tunniksi. Itselleni se soveltui, ja vuonna 2019 [kokeilin](https://web.archive.org/web/20200214130736/https://threadreaderapp.com/thread/1143576369823137792.html), miltä tuntuisi olla viisi päivää syömättä. [Jos tämä kuulostaa mielipuoliselta, saatat yllättyä kuullessasi, että on olemassa klinikoita joissa tarjotaan viikon vesipaastoja ihmisille, jotka eivät ole koskaan paastonneet – yksi tarina [täällä](https://web.archive.org/web/20200214130736/https://www.gq.com/story/six-day-water-fast-diet).] Tämän johdosta enää harvemmin panikoin, jos ruokaa ei olekaan jonain päivänä kätevästi tai esim. heti treenin jälkeen saatavilla – ja kun tätä on tehnyt monta vuotta, ei ole enää kummoinenkaan juttu treenata syömättä (itse asiassa on hyviä syitä, kuten lihasmassan säilyttäminen, treenata paaston aikana). Hedoniaa rakastavana ihmisenä nautin toki täysin rinnoin paastonlopettajaisateriasta (“break-fast”).
+
+Tämänkään aloittamiseen ei tarvita mitään, mutta suosittelen kiinnittämään huomiota janon tunteeseen: ruoasta saa huomattavasti nesteitä, ja sen pois jättämällä voi keho vähän kuivahtaa, mikä itselläni näkyy huulten korppuuntumisena. Vesi auttaa myös nälän tunteeseen, ja hengitys saattaa alkaa haisemaan kamalalle, jos unohtaa silloin tällöin hörppiä. Älä silti vedä överiksi, vaan seuraa luonnollista janon tunnetta – se on kehosi signaali siitä, että jotain kaivattaisiin. Suosittelen muuten ruokakaupassa käyntiä ennen paaston aloittamista, koska sieltä tarttuu helposti paastoavan käteen kaikenlaista aivan järjetöntä. Paaston päättämiseen liittyen: kun aloittelin paastohommia, huomasin nopeasti, että sokerisipläjäyksestä tulee aivan kamala olo, kun taas wokkivihannekset maistuvat taivaallisilta. Voit itse tutkia, miten tämä sinulla toimii.
+
+#### Antihauras mieli
+
+Yksi asia, mitä sivusimme podcastissa, oli motivaation heilahtelujen luonnollisuus; on tärkeää huomata että terve, hyvin toimiva mieli kokee ja tarvitsee vaihtelevia tiloja. Kukaan ei ole hetkeäkään herpaantumatta iloinen, rakastunut, vihainen tai motivoitunut. Eri mielentilat on syytä huomata ja sopeuttaa toimintansa siihen, mihin kullakin hetkellä on parhaiten kykenevä: jos jokin asia ei toimi sinulle elämäntilanteessa x, tilanne voi olla hyvin erilainen elämäntilanteessa y. Tästä esimerkkinä, noin kymmenen vuotta sitten luin kylmäaltistuksen, ja tarkemmin ottaen, kylmien suihkujen, hyödystä. Kokeiltuani, miltä huoneenlämpöinen vesi tuntuu suihkussa päälle kaadettuna, totesin sen olevan hullujen hommaa. Noin kuusi vuotta sitten kokeilin monen asian summana, pärjäisinkö Helsingin talven läpi hupparilla ilman toppatakkia. Tämä kiinnosti, koska huomasin ketutuksen määrän puolittuvan, kun otin rentoutuneen ja hyväksyvän asenteen kylmää kohtaan. Kokeilun onnistuttua siirryin t-paitaan, ja nyt, kuudentena vuonna, hölkkään työmatkat shortseissa – myös kylmät suihkut, tai ehkä tarkemmin ottaen niiden jälkeiset euforiafiilikset, ovat miellyttäviä muutaman kerran viikossa. Kuitenkin saatan repaleisen yön jälkeen ottaa lämpimän suihkun, ja kävellä toimistolle huppari ja farkut päällä, mielessäni rentoutunutta hyväksyntää kiroten. Joni kutsuu tätä armollisuudeksi, itse puhun tilanteeseen sopeutumisesta.
+
+Kylmäaltistuksenkaan aloittamiseen ei tarvitse välineitä. Oma strategiani kylmiin suihkuihin on ennen aloitusta jännityksen ja epäröinnin tunteiden tunnustelu kehossa. Liika jahkailu saattaa kuitenkin aiheuttaa päättäväisyyden lopahtamista. Sen jälkeen hivuttaudun *hitaasti* maksimikylmän veden alle käsi edellä niin, että ensin kastuvat sormet, sitten kyynärvarsi, olkapää & kainalo ja tämän jälkeen rintakehä. Olen huomannut tuskan lisääntyvän ainakin seuraavissa tapauksissa:
+
+- Mitä enemmän tarkkaavaisesti suoriutumisen sijaan yrittää suoriutua nopeasti
+- Mitä enemmän rentoutumisen sijaan jännittää lihaksia
+- Mitä enemmän rauhallisen hengityksen sijaan hengittää huohottaen
+- Mitä enemmän miettii, kuinka kamalaa tämä nyt onkaan, kehon tuntemuksiin hyväksyvästi suhtautumisen sijaan
+- Mitä enemmän haluaa homman loppuvan jo sen sijaan, että pysähtyy huomaamaan, että alku oli paljon pahempaa kuin tämä hetki
+
+Oma kokemuksesi saattaa olla erilainen 🙂 Jotkut tykkäävät lopettaa lämpimän veden alla, mutta kun itse olen ollut noin kaksi minuuttia kylmässä vedessä, suihkun loppumisen jälkeiset kihelmöivät tuntemukset iholla ovat paljon lämmintä vettä miellyttävämpiä.
+
+[Tätä kirjoittaessani olen ollut noin 26 tuntia syömättä. Tiedän sen aiheuttavan itselleni detaljien (kuten kirjoitusvirheiden) vähäiselle huomiolle joutumista, mutta toisaalta myös sosiaalista käytöstä, joka inspiroi kirjoittamiseen ja tuottaa sitä ajatuksen virtaa, jota olet yllä tulkinnut.]
+
+*Summa summarum:* hauras motivaatio rikkoutuu vastoinkäymisten edessä, ja vahva motivaatio pysyy muuttumattomana, vaikkakin sellaiseen harvoin tosielämässä törmää. Kestävä motivaatio on antihaurasta, ja vahvistuu ihmisen oppiessa koettelemuksista. Keho ja mieli nääntyvät, jos jokainen päivä on samanlainen – oli kyse sitten levosta tai rasituksesta.
+
+**Lukemistoa**
+
+- Antihauraudesta: [Antihauras – asioita, jotka hyötyvät epäjärjestyksestä](https://web.archive.org/web/20200214130736/http://www.terracognita.fi/tc/product/antihauras/)
+- Myllerryksen puutteen haitoista: [The Black Swan of Cairo](https://web.archive.org/web/20200214130736/https://fooledbyrandomness.com/ForeignAffairs.pdf)
+- Yksilön antihauraudesta: [Adaptation mechanics](https://web.archive.org/web/20200214130736/https://threadreaderapp.com/thread/1208797456751845376.html) (threadi)
+- Kehon kierrätysprosesseista ja paastoamisesta: [Fasting with Mark Baker](https://web.archive.org/web/20200214130736/https://beautyandwellbeing.com/well-being/interview-well-being/meet-mark-baker/) (ks. myös kirja [Anaerobics: Destruction & Reconstruction](https://web.archive.org/web/20200214130736/https://gumroad.com/l/obrlK), tai sen [ilmainen esikatseluversio](https://web.archive.org/web/20200214130736/http://online.anyflip.com/metj/xbjo/mobile/index.html)*)*
+- Luonnollisesta liikunnasta: [The Practice of Natural Movement](https://web.archive.org/web/20200214130736/https://www.movnat.com/shop/the-practice-of-natural-movement-book/)
+- Ideoita kotiliikuntaan: [Jerry Texeira’s progression playlists](https://web.archive.org/web/20200214130736/https://www.youtube.com/channel/UCPEAhtSZDkTb0rDGrtaSU7A/playlists?view=50&sort=dd&shelf_id=10)
+- Joni Jaakkola, kaikin puolin mukavan oloinen heppu, löytyy [täältä](https://web.archive.org/web/20200214130736/https://www.optimalperformance.fi/joni-jaakkola)
+
+alt="" class="wp-image-242" width="212" height="212" srcset="https://web.archive.org/web/20200214130736im\_/https://www.motivationselfmanagement.com/wp-content/uploads/2020/02/image.png 580w, https://web.archive.org/web/20200214130736im\_/https://www.motivationselfmanagement.com/wp-content/uploads/2020/02/image-300x300.png 300w, https://web.archive.org/web/20200214130736im\_/https://www.motivationselfmanagement.com/wp-content/uploads/2020/02/image-150x150.png 150w, https://web.archive.org/web/20200214130736im\_/https://www.motivationselfmanagement.com/wp-content/uploads/2020/02/image-480x480.png 480w, https://web.archive.org/web/20200214130736im\_/https://www.motivationselfmanagement.com/wp-content/uploads/2020/02/image-250x250.png 250w" sizes="(max-width: 212px) 100vw, 212px">
