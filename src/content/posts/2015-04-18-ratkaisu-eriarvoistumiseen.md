@@ -26,9 +26,11 @@ Näistä innostuneena kaadoin itselleni kupin kahvia ja kävin kiinnostuksella t
 ## Mitä artikkelissa painotetaan?
 
 Näin kirjoittajat kuvaavat tutkimuksen tuloksia tiivistelmässä:
+
 > The overall happiness scores increased [p=0.05] and depressive symptoms decreased [p=0.02] during the intervention, with more pronounced changes among women.
 
 Tarkkasilmäisimmät lukijat saattavat kiinnittää huomiota [otoskokoon nähden epätodennäköisiin p-arvoihin](http://daniellakens.blogspot.fi/2014/05/the-probability-of-p-values-as-function.html "The probability of p-values as a function of the statistical power of a test "), mutta jättäkäämme ne huomiotta.  Tiivistelmässä kirjoittajat kertovat vielä, ettei neljän erilaisen onnellisuusharjoituksen suoritusjärjestyksellä ollut väliä. Harjoitus, jossa tehtiin hyviä tekoja lisäsi eniten onnellisuutta, kun taas optimismin lisäämiseen tähtäävästä harjoituksesta ei näyttänyt olevan hyötyä lainkaan. Tiivistelmä päätetään näin:
+
 > This study produced further evidence on the effectiveness of web-based happiness exercises. The results amplify the need for tailored online interventions for reducing well-being disparities. [...] Online positive psychology interventions are a potential tool in helping reduce well-being disparities, particularly among populations with little access to other services.
 
 Usein tutkimusartikkeleista kokonaiskuvaa hahmotettaessa on tapana käydä läpi tiivistelmän lisäksi varsinaisen artikkelin johtopäätösosio; tässä tapauksessa siellä toistetaan täsmälleen sama viesti.

@@ -30,6 +30,7 @@ Hän on tehnyt valinnan – koska voi – ja "hitot siitä mitä muut tekevät".
 ## Altruismi
 
 Altruismilla tässä yhteydessä tarkoitetaan epäitsekästä omistautumista muiden hyvinvoinnin edistämiselle. Siinä missä unilateraalinen viittaa väliinpitämättömyyteen muiden toiminnasta, altruistinen viittaa piittaamattomuuteen omasta hyödystä.
+
 > Hyviä tekoja ei tehdä siksi, että niistä hyödyttäisiin, vaan koska niitä voidaan tehdä.
 
 Sekään, että hyvien tekojen tekeminen saattaa esimerkiksi viestittää ympäristölle tekijän [resurssien runsaudesta](http://www.psych-it.com.au/Psychlopedia/article.asp?id=375 "Psychlopedia: Costly signaling theory"), ei siis ole tekemisen syy.
@@ -39,6 +40,7 @@ Hyvät teot voivat olla äärimmäisen pieniä; hymy, oven avaaminen, iloinen te
 ## Sekasorto
 
 Sekasorto tai kaaos viittaa ennustamattomuuteen ja satunnaisuuteen teoissa ja niiden kohteissa.
+
 > Sekasortoaltruistin ei ole tarkoitus opettaa ketään riippuvaiseksi hänestä tai viestiä, että joku voisi perustaa elämäntapansa hänen kuppaamiselleen.
 
 Voimme lähes varmuudella sanoa ensi kesänä satavan ilman, että meillä on pienintäkään käsitystä tarkoista sadepäivistä. Samoin voimme ennustaa Sekasortoaltruistin toimivan muita hyödyttävällä tavalla ilman, että kykenisimme mitenkään erittelemään tapoja tai kohteita. Aina hän ei itsekään tiedä etukäteen, vaan pystyy lepäämään [maailman epävarmuudessa](http://blogs.helsinki.fi/hema/lohdullinen-epavarmuus/ "Käyttäytymisarkkitehtuuri: Lohdullinen epävarmuus") ja reagoimaan havaitessaan avun tarpeen.
@@ -50,6 +52,7 @@ Sekasortoaltruisti ei myöskään välitä, onko hänen hyväntahtoisuutensa koh
 Jos tätä kyseistä kaaosaltruistia kiinnostaisi, hän saattaisi miettiä asiaa Kantin kategorisen imperatiivin kautta (suurin piirtein: "toimi niin, että tekojesi tarkoituksesta voitaisiin johtaa yleinen laki"). Kysymys tällöin koskisi sitä, mitä tapahtuisi jos suurin osa ihmisistä olisi kaaosaltruisteja. Voisi olla, että loput ihmiset eivät enää pystyisi pitämään kirjaa siitä, keille kaikille vastapalvelusta odottamattomille he olisivat "palveluksen velkaa" ja joutuisivat päätymään itsekin kaaosaltruisteiksi. Tai ehkä heistä tulisi vapaamatkustajia, jotka eläisivät hyväntahtoisten yhteiskunnassa panostamatta siihen itse. Tällainen pohdinta ei päähenkilöämme kuitenkaan kiinnosta, sillä suurten ihmisjoukkojen käyttäytyminen on sadepäiviäkin hankalammin ennustettavissa.
 
 Nimenomainen kaaosaltruistimme on tutustunut lukemattomiin tutkimuksiin siitä, kuinka epäitsekkyys voi olla [oikotie onnellisuuteen](http://www.psychologytoday.com/collections/201212/the-science-gift-giving/how-much-does-happiness-cost-not-much-when-you-spend-it-o " How Much Does Happiness Cost? Not Much.") tai [evolutiivinen menestysstrategia](http://greatergood.berkeley.edu/article/item/does_nature_select_for_nice "Does Nature Select for Nice?"), myötätunto [terveyden edistäjä](http://www.psychologytoday.com/collections/201212/the-science-gift-giving/the-best-kept-secret-happiness " The Best Kept Secret to Happiness & Health: Compassion") ja [blah](http://greatergood.berkeley.edu/article/item/10_ways_to_get_ahead_through_giving "10 Ways to Get Ahead through Giving")₁ [blah](http://greatergood.berkeley.edu/article/item/stressed_out_try_helping_out "Stressed Out? Try Helping Out")₂ [blah](http://greatergood.berkeley.edu/article/item/how_to_train_the_compassionate_brain "How to Train the Compassionate Brain")₃. Jos nämä asiat osoittautuisivat hänen elämässään tosiksi, se olisi hänelle ookoo. Jos eivät, sekin olisi ookoo.
+
 > Kuolinvuoteellaan hän ei kuitenkaan aio katua luottaneensa turhaan siihen, mitä tiettynä aikakautena pidettiin tietona.
 
 Lopuksi: neljästä asiasta olen Sekasortoaltruistin kanssa varauksetta samaa mieltä.

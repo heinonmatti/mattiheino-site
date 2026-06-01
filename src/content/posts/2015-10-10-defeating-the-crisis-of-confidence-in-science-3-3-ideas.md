@@ -38,6 +38,7 @@ The messenger cake worked well in Helsinki, but unfortunately the news were too 
 Andrew Gelman [answers these points](http://andrewgelman.com/2015/09/02/to-understand-the-replication-crisis-imagine-a-world-in-which-everything-was-published/) eloquently, so I won't go much deeper into them. Note also, that Daniel "Stumbling on Happiness" Gilbert & co. used these arguments in their much publicised (but unhappily, [flawed](https://hardsci.wordpress.com/2016/03/03/evaluating-a-new-critique-of-the-reproducibility-project/)) critique of the psychology's replication effort.
 
 Suffice it to say that I value practicality; claiming there is a phenomenon only you can show (ideally, when no-one is looking) doesn't sound too impressive to me. What worries me is this: science is supposed to embrace change and move forward with cumulative knowledge. Instead, researchers often take their favourite findings to a bunker and start shouting profanities to whoever wants to have a second look.
+
 > Researchers take their favourite findings to a bunker and start shouting profanities to whoever wants to have a second look.
 
 I think anyone who's seen the Internet recognises the issue. Personally, I find it hard to believe that arguing can change things, so I'd rather see people exemplify their values by their actions.
@@ -90,9 +91,10 @@ The field I'm most interested in is health psychology. So when [one](https://twi
 [![Susan Michie presenting in EHPS 2015. Click to enlarge.](./images/defeating-the-crisis-of-confidence-in-science-3-3-ideas/img_20150903_180844.jpg)](https://mattiheino.com/wp-content/uploads/2015/10/img_20150903_180844.jpg) Susan Michie presenting in EHPS 2015. Click to enlarge.
 
 This became clear in the very same conference, when a PHD student told me how a professor reacted to his null results: "Ok, send me your data and you'll have a statistically significant finding in two weeks". I have hope that young researchers are getting more savvy with methods and more confident that the game of publishing can be changed. This opens the door for fraudulent authority figures to exit the researcher pool like [Diederik Stapel](https://en.wikipedia.org/wiki/Diederik_Stapel) – by the hands of their students, instead of a failed peer-review process.
-> "Ok, send me your data and you'll have a statistically significant finding in two weeks".
 
-– a professor's reaction to null results
+> "Ok, send me your data and you'll have a statistically significant finding in two weeks".
+>
+> – a professor's reaction to null results
 
 # Conclusion
 

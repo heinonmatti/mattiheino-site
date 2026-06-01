@@ -27,6 +27,7 @@ This is how my spreadsheet begins every day. There are, in total, ~45 columns, i
 Column A is the date, column B is the “package”, or type of meditation, column C is the day within the package. There are 30 days per package, so column C is a number that runs from 1 to 30 for each package number. Finally, column D is my subjective sense of clarity, from 1 (completely unclear) through 5 (not clear nor unclear) to 10 (completely clear).
 
 Now, because I jot down the clarity assessment right after the day number, I would expect higher day numbers to boost my clarity assessment because of the anchoring effect. Why? Because Kahneman, in his famous book [Thinking Fast and Slow](https://books.google.fi/books?id=ZuKTvERuPG8C&pg=PA57&hl=en&sa=X&ved=0ahUKEwjxls-DrNLKAhXCmHIKHU4ZCQEQ6AEIHTAA#v=onepage&q&f=false), proclaims:
+
 > [D]isbelief is not an option. […] You have no choice but to accept that the major conclusions of these studies are true. More important, you must accept that they are true about *you*. **- Daniel Kahneman**
 
 Without going too deep into the sorry state of replicability in priming effects ([anchoring seems robust, though](http://www.talyarkoni.org/blog/2013/12/27/what-we-can-and-cant-learn-from-the-many-labs-replication-project/)), let’s see how this particular effect may have affected my assessments:

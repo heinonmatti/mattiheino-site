@@ -77,3 +77,23 @@ def test_to_markdown_renders_paragraph_breaks_from_blank_lines():
     assert "\n\n" in md
     parts = [p.strip() for p in md.strip().split("\n\n") if p.strip()]
     assert parts == ["First.", "Second.", "Third."]
+
+
+def test_wpautop_splits_trailing_text_off_a_block():
+    # Regression: WP bodies often have <ol>...</ol>\nTrailing text\n\n...
+    # without a blank line between the list close and the paragraph.
+    # Without the fix, the chunk starts with <ol> so wpautop leaves it
+    # alone and markdownify glues the paragraph onto the last list item.
+    html = (
+        "<ol><li>One</li><li>Two</li></ol>\n"
+        "Closing paragraph that should be its own block."
+    )
+    out = wpautop(html)
+    # The closing paragraph must end up wrapped in its own <p>.
+    assert "<p>Closing paragraph that should be its own block.</p>" in out
+
+
+def test_wpautop_splits_leading_text_off_a_block():
+    html = "Intro paragraph that should stand alone.\n<ol><li>X</li></ol>"
+    out = wpautop(html)
+    assert "<p>Intro paragraph that should stand alone.</p>" in out

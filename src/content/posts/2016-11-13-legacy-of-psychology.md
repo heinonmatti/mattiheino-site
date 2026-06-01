@@ -12,9 +12,11 @@ wp_guid: "http://mattiheino.com/?p=1741"
 **To anyone teaching psychology.**
 
 *In this post I express some concerns about the prestige given to 'classic' studies, which are widely taught in undergraduate social psychology courses around the world. I argue that rather than just demonstrating a bunch of clever but dodgy experiments, we could teach undergraduates to evaluate studies for themselves. To exemplify this, I quickly demonstrate power, Bayes factors, the p-checker app and the GRIM test.*
-> psychology’s foundations are built not of theory but with the rock of classic experiments
 
-– [Christian Jarrett](https://thepsychologist.bps.org.uk/volume-21/edition-9/foundations-sand)
+> psychology’s foundations are built not of theory but with the rock of classic experiments
+>
+> – [Christian Jarrett](https://thepsychologist.bps.org.uk/volume-21/edition-9/foundations-sand)
+
 Here is an out-of-context quote from [Sanjay Srivastava](https://hardsci.wordpress.com/) from a while back:
 
 ![festinger-srivastava](./images/legacy-of-psychology/festinger-srivastava.png)

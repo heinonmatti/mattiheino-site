@@ -45,6 +45,23 @@ def sweep_shortcodes(html: str) -> str:
     return html
 
 
+_TRAILING_TEXT_RE = re.compile(
+    # Closing top-level block tag immediately followed by a single newline
+    # and then inline text. WP raw bodies frequently use a single \n here;
+    # without escalation to \n\n the trailing paragraph glues onto the
+    # previous list item / quote when markdownify processes the chunk.
+    r"(</(?:ol|ul|blockquote|table|figure|pre|h[1-6]|div)>)\s*\n([^\n<\s])",
+    re.IGNORECASE,
+)
+
+_LEADING_TEXT_RE = re.compile(
+    # Mirror image: inline text directly followed by an opening top-level
+    # block tag with only a single newline between them.
+    r"([^\s<])\s*\n(<(?:ol|ul|blockquote|table|figure|pre|h[1-6]|div)[\s>])",
+    re.IGNORECASE,
+)
+
+
 def wpautop(html: str) -> str:
     """Wrap blank-line-separated chunks in <p> tags (mirrors WP's wpautop).
 
@@ -52,7 +69,16 @@ def wpautop(html: str) -> str:
     rendering layer turn those into <p>...</p>. The WXR export preserves
     that raw form. Without wpautop, markdownify treats the whole body as
     inline text and collapses paragraph breaks.
+
+    First normalise block-tag boundaries: when a closing top-level block tag
+    is followed by single-newline + inline text (or vice versa), promote to
+    `\\n\\n` so the splitter treats them as separate paragraphs. Otherwise
+    a body like `<ol>...</ol>\\nTrailing paragraph` ends up wholly inside
+    one chunk that starts with a block tag, so the trailing prose is left
+    unwrapped and markdownify glues it onto the last list item.
     """
+    html = _TRAILING_TEXT_RE.sub(r"\1\n\n\2", html)
+    html = _LEADING_TEXT_RE.sub(r"\1\n\n\2", html)
     chunks = re.split(r"\n\n+", html.strip())
     out: list[str] = []
     for c in chunks:
