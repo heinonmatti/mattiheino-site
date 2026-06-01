@@ -14,9 +14,9 @@ Tuhansien self help -opusten väitteistä huolimatta, käyttäytymisen muuttamin
 
 ## Taustaa
 
-![](./images/muutoskartta/Aikomus-käyttäytyminen.png)
+![](./images/muutoskartta/aikomus-käyttäytyminen.png)
 Muutosteoriat pääosin jakavat käyttäytymisen muutoksen kahteen vaiheeseen: ennen aikomusta muuttaa käyttäytymistä ja muutosaikeen jälkeen. Esittelemäni prosessi keskittyy jälkimmäiseen, pyrkien jossain määrin myös vaikuttamaan siihen kuiluun, joka niin usein estää hyvien aikeiden toteutumisen.
-[![](https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/COM-B.jpg)](./images/muutoskartta/COM-B.jpg)Mitä aikeiden toteutuminen sitten vaatii? Niin kutsutun COM-B -mallin mukaan käyttäytymisellä on kolme edellytystä: fyysinen ja henkinen kyky (Capability), tilaisuus (Opportunity) ja halu sen toteuttamiseen (Motivation). Jos jokin näistä puuttuu, hankaloituu käyttäytyminen huomattavasti.
+[![](https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/COM-B.jpg)](./images/muutoskartta/com-b.jpg)Mitä aikeiden toteutuminen sitten vaatii? Niin kutsutun COM-B -mallin mukaan käyttäytymisellä on kolme edellytystä: fyysinen ja henkinen kyky (Capability), tilaisuus (Opportunity) ja halu sen toteuttamiseen (Motivation). Jos jokin näistä puuttuu, hankaloituu käyttäytyminen huomattavasti.
 Lisäksi konstruaalitasoteorian mukaan, mitä lähempänä jokin asia on, sitä käytännöllisemmin siihen suhtaudutaan – vastaavasti kaukaisempia asioita ajatellaan abstraktimmin. Tätä hahmottaa jaottelu kysymysten "miten teen jotain" (suuri konkretia, läheiset asiat) ja "miksi teen jotain" (pieni konkretia, kaukaiset asiat) välillä. Yksi etäisyyden mitta on aika: on yleensä vähemmän stressaavaa ajatella tekevänsä jotain ensi viikolla kuin heti seuraavana aamuna. Ilmiöllä on hyvät ja huonot puolensa: toisaalta voimme päätyä kuvittelemaan ratkaisevamme ongelmamme "sitten joskus" ja näin varmistaa niiden pysyvyyden kuten Homer alla. Toisaalta voimme myös huijata laiskaa nykyisyyden mieltämme tekemään muutossuunnitelman Tulevaisuuden Minän toteutettavaksi.
 [embed]https://www.youtube.com/watch?v=jQvvmT3ab80[/embed]
 Juoni on kolmivaiheinen.
@@ -24,7 +24,7 @@ Juoni on kolmivaiheinen.
 ## 1. Menneisyyden Minän kohtaamat esteet
 
 Ensimmäisessä vaiheessa pohditaan, mitkä asiat ovat estäneet Menneisyyden Minää toteuttamasta aietta (jos kyseessä on jotain, mitä ei ole koskaan yrittänyt, tämä vaihe on tarpeeton tai sen voi korvata arvauksilla tulevasta). Alla oleva kartta havainnollistaa, miten COM-B -mallin elementtien voi ajatella asettuvan elinympäristöömme. Sosiaalisella tarkoitetaan kaikkea muihin ihmisiin liittyvää ja rakenteellisella kaikkea passiivista, automatisoitua, ympäristön rakenteisiin liittyvää.
-[![](https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/VISUAALINEN%20muutoskartta_phase1_V2.jpg)](./images/muutoskartta/VISUAALINEN muutoskartta_phase1_V2.jpg)
+[![](https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/VISUAALINEN%20muutoskartta_phase1_V2.jpg)](./images/muutoskartta/visuaalinen muutoskartta_phase1_v2.jpg)
 Jos otamme esimerkiksi viikottaisen kuntosalikäyntikertojen lisäämisen, saattaisimme ajatella näin:
 
 1. Henkilökohtainen kyvykkyys: väsymys on saanut tuntumaan siltä, ettei vain kykene lähtemään salille.
@@ -37,7 +37,7 @@ Jos otamme esimerkiksi viikottaisen kuntosalikäyntikertojen lisäämisen, saatt
 ## 2. Tulevaisuuden Minän strategiat
 
 Toisessa vaiheessa ideoimme muutokset, joilla Tulevaisuuden Minä nujertaa ensimmäisessä vaiheessa tunnistamamme esteet. Vaihe asettuu kartalle samoin kuin edellinen, vain kysymysten vaihtuessa:
-[![](https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/VISUAALINEN%20muutoskartta_phase2_V2.jpg)](./images/muutoskartta/VISUAALINEN muutoskartta_phase2_V2.jpg)
+[![](https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/VISUAALINEN%20muutoskartta_phase2_V2.jpg)](./images/muutoskartta/visuaalinen muutoskartta_phase2_v2.jpg)
 Voisimme ohjeistaa Tulevaisuuden Minäämme toimimaan esimerkiksi näin:
 
 1. Henkilökohtainen kyvykkyys: laita puhelimeen hälytys iltakymmeneltä muistuttamaan, että olisi aika aloittaa nukkumaanmenovalmistelut. Unen määrä lisääntyy ja virkeämpänä on helpompi ajatella treeniä.
@@ -47,7 +47,7 @@ Voisimme ohjeistaa Tulevaisuuden Minäämme toimimaan esimerkiksi näin:
 5. Rakenteellinen kyvykkyys: hanki kotiin liikuntavälineitä (esim. kahvakuulat) ja kerro itsellesi, että voit lopettaa vartin jälkeen jos fiilis ei ole kohdallaan.
 6. Rakenteellinen motivaatio: pakkaa treenivaatteesi valmiiksi edellisenä iltana näkyvälle paikalle, josta voit ottaa ne mukaan ulos lähtiessäsi. Näin kynnys lähtemiseen alenee.
 
-[![](./images/muutoskartta/Muutoskartta_kuva1.sivu.PNG)](https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/Muutoskartta_FIN_1.sivu.pdf) Vinkkiliuska osa-alueiden läpikäyntiin (klikkaa suuremmaksi).
+[![](./images/muutoskartta/muutoskartta_kuva1.sivu.png)](https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/Muutoskartta_FIN_1.sivu.pdf) Vinkkiliuska osa-alueiden läpikäyntiin (klikkaa suuremmaksi).
 Oheisessa vinkkiliuskassa on yleislaatuisia ohjeita eri osa-alueiden läpikäyntiin. Kun tämä vaihe on käyty läpi, meillä on ainakin yksi strategia (käyttäytyminen) jokaisessa kuudesta lokerosta ja voimme siirtyä seuraavaan kohtaan.
 
 ## 3. Suunnitelma: mitä, missä, milloin?

@@ -109,7 +109,11 @@ def rehost(
         rel = _extract_relpath_from_wp_cdn(src)
         if rel in media_index:
             srcpath = media_index[rel]
-            outpath = dest / srcpath.name
+            # Lowercase the destination filename: Linux (CF Pages build) is
+            # case-sensitive but Windows is not, so on Windows the disk can
+            # silently end up with 'hspCorr.PNG' while the markdown reference
+            # is 'hspcorr.png'. Local build passes; CF build fails.
+            outpath = dest / srcpath.name.lower()
             shutil.copy2(srcpath, outpath)
             return RehostResult(status="ok", source="media", local_path=outpath)
         return RehostResult(status="lost", source=None, local_path=None)
@@ -121,7 +125,8 @@ def rehost(
     key = _normalise_basename(basename)
     if key in gdrive_index:
         srcpath = gdrive_index[key]
-        outpath = dest / srcpath.name
+        # Lowercase for cross-platform safety; see above.
+        outpath = dest / srcpath.name.lower()
         shutil.copy2(srcpath, outpath)
         return RehostResult(status="ok", source="gdrive", local_path=outpath)
     return RehostResult(status="lost", source=None, local_path=None)
