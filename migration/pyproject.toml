@@ -1,0 +1,29 @@
+[project]
+name = "mattiheino-migration"
+version = "0.0.1"
+description = "One-off WordPress + Wayback ingest pipelines for mattiheino-site."
+requires-python = ">=3.12"
+dependencies = [
+  "markdownify>=0.13",
+  "requests>=2.31",
+  "lxml>=5.1",
+  "python-slugify>=8.0",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0",
+  "pytest-mock>=3.12",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["lib*", "tests*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]

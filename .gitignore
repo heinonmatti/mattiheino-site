@@ -23,3 +23,10 @@ migration/cache/
 
 # Pagefind output
 public/pagefind/
+
+# Python
+migration/.venv/
+migration/**/__pycache__/
+migration/**/*.pyc
+migration/.pytest_cache/
+migration/*.egg-info/
