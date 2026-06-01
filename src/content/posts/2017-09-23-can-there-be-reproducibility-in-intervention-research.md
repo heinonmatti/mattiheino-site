@@ -50,5 +50,5 @@ Degrees of replication (exact - conceptual)
 
  
 Paul Lutus has [argued](http://arachnoid.com/no_theory_no_science/) that psychology should be considered an applied science, which itself is not science. If you concede to this view, it's even more obvious in intervention research. The only way to get closer to actual practice is by dropping measurement, along with design considerations that make it possible.
-![hp symposium](./images//hp-symposium.png)
+![hp symposium](./images/can-there-be-reproducibility-in-intervention-research/hp-symposium.png)
 https://twitter.com/OlgaPerski/status/903173941677711361

@@ -7,26 +7,8 @@ reference, and tick the row.
 
 ## posts
 
-- [ ] **** · ¶1
-  - Original: `http://d.gr-assets.com/books/1350516776l/16092850.jpg`
-  - Alt: ""
-- [ ] **** · ¶1
-  - Original: `https://lh7-rt.googleusercontent.com/docsz/AD_4nXezg91BxadDEPKKoT5qd6ucUzk3jJ-6pOKnMEhmdIVpIp_If_YDXSc0fybTU444NH-8Szi7Es8jD6-cO0pv-egilo_nbWIj169cJd7_Q3Q-fw17vNZfLg1KC_L40fN_inf_CXeigsL3K633xoiUDiHv748?key=WhXMdmI1jad06GwPxWHNhA`
-  - Alt: ""
 - [ ] **10-taitoa** · ¶1
   - Original: `http://cdn.meme.am/instances/500x/57546405.jpg`
-  - Alt: ""
-- [ ] **adaptiivinenmaisema** · ¶1
-  - Original: `https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/m%C3%B6kkiheppu%20copy.jpg`
-  - Alt: ""
-- [ ] **adaptiivinenmaisema** · ¶2
-  - Original: `https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/kiipeys%20copy.jpg`
-  - Alt: ""
-- [ ] **adaptiivinenmaisema** · ¶3
-  - Original: `https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/putous%20copy.jpg`
-  - Alt: ""
-- [ ] **adaptiivinenmaisema** · ¶4
-  - Original: `https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/adaptiivinen%20maisema_akseleineen_ukkoineen.jpg`
   - Alt: ""
 - [ ] **adaptiivinenmaisema** · ¶5
   - Original: `http://upload.wikimedia.org/wikipedia/commons/a/af/Visualization_of_a_population_evolving_in_a_dynamic_fitness_landscape.gif`
@@ -40,35 +22,8 @@ reference, and tick the row.
 - [ ] **crises-and-reforms** · ¶1
   - Original: `https://lh3.googleusercontent.com/mY1ZLPTSIZ-AloGTrLWpW3vf0wGzhngy3HpjQhu-ARO6qhv4au19ipneHs3Gl59xWyDUJKSVktXuRm0IDXFoNaZCegdKDaOYq6FdATmpFza_1HBABIZhNtXXNLtHd5wh7l_nSafrYdTDTlnjWh_C-t5yyUTL8LsXHwpMhDlwsUSInX89xnoKbi5u7ORHqT4cNeZL9p58FOt3z-ZLLCbUu0g3z_KxprxQSPo_FWU78bCWo_rynldDcXnBOC70-tlzN7FQV95NWbajc7VnDYO_WbB6ZdbTWJrBegk33KW4X2lbzZjGrr1Z2ZCSMLbpUgNcJcP_CcHKFF2D4JnEwkc3VncXpvWqICe-xLgamBs6BSqtuBxx8Uo8bdQmEpG5yugxskj2AnXpDjgdUZz092diJMYvbltni1QwmqwJbEeVKxYJMV2_gkRGoi2Wv3AM49DBoAJEW6jN6yZtRmV0wU-7GlaA_yl3GV6TqPO-7FXMVYHXSgIRygmYRoDMd63XfKu49cckusyI7Qd9gqliygHzfzovB3GDqxUfaYzEJim9CYfJGjItW8uwUfon0BDzqtc33zIB6IeccMMxGSxxDm_tQF5w1qrEfGHo2q8H0rrw=w920-h690-no`
   - Alt: ""
-- [ ] **henkinen-kriisinkestavyys** · ¶1
-  - Original: `https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/kriisit_ennaltaehkaisyn%20vaiheet.jpg`
-  - Alt: ""
 - [ ] **henkinen-kriisinkestavyys** · ¶2
   - Original: `http://truecenterpublishing.com/zenstory/graphics/maybe.jpg`
-  - Alt: ""
-- [ ] **henkinen-kriisinkestavyys** · ¶4
-  - Original: `https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/kriisinkest%C3%A4vyys.jpg`
-  - Alt: ""
-- [ ] **henkinen-kriisinkestavyys** · ¶5
-  - Original: `https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/kriisit_yksilokohtaiset%20stressitekijat.jpg`
-  - Alt: ""
-- [ ] **hyva-luoja** · ¶1
-  - Original: `https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/%23ideaFLAT.jpg`
-  - Alt: ""
-- [ ] **hyva-luoja** · ¶2
-  - Original: `https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/luova%20j%C3%A4rkevyys%20tuominen.jpg`
-  - Alt: ""
-- [ ] **hyva-luoja** · ¶3
-  - Original: `https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/%23kauppa%20copy.jpg`
-  - Alt: ""
-- [ ] **hyva-luoja** · ¶4
-  - Original: `https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/vaaralliset%20ideat%20rehn.jpg`
-  - Alt: ""
-- [ ] **hyva-luoja** · ¶5
-  - Original: `https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/%23ajattelija%20copy.jpg`
-  - Alt: ""
-- [ ] **hyva-luoja** · ¶6
-  - Original: `https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/%23liekkivalaisee%20copy%20copy.jpg`
   - Alt: ""
 - [ ] **ilmahygienia-asiakkaat** · ¶1
   - Original: `https://lh7-rt.googleusercontent.com/docsz/AD_4nXc4LZMcvHA7hqOVvw1O3yiPQIU-nQdCsTy52NsXHmBkCUKbrnPncVDlOlIfAqG9kTwrIBEgptBQ0jzIOWLYnQWdwKHMEP3r48YHtzm9kyHH6Jhj3Rq-vIBJIYIsXwi1Xywyh6s6MBPymwVwgae_ALxwewZV?key=GyE6Fezv6_JWt9JdcYHMeg`
@@ -109,18 +64,6 @@ reference, and tick the row.
 - [ ] **meditaatiomyytit** · ¶1
   - Original: `https://assets1.learni.st/learning_preview/906261/image/w744h744_170447-learnboard-willoughby-britton-the-varieties-of-contemplative-experience.jpg`
   - Alt: ""
-- [ ] **meditaatiomyytit** · ¶2
-  - Original: `https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/Positiivinen%20psykologia.jpg`
-  - Alt: ""
-- [ ] **muutoskartta** · ¶1
-  - Original: `https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/Aikomus-k%C3%A4ytt%C3%A4ytyminen.png`
-  - Alt: ""
-- [ ] **muutoskartta** · ¶3
-  - Original: `https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/VISUAALINEN%20muutoskartta_phase1_V2.jpg`
-  - Alt: ""
-- [ ] **muutoskartta** · ¶4
-  - Original: `https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/VISUAALINEN%20muutoskartta_phase2_V2.jpg`
-  - Alt: ""
 - [ ] **muutoskartta** · ¶6
   - Original: `http://upload.wikimedia.org/wikipedia/commons/0/04/WATERHOUSE_-_Ulises_y_las_Sirenas_%28National_Gallery_of_Victoria%2C_Melbourne%2C_1891._%C3%93leo_sobre_lienzo%2C_100.6_x_202_cm%29.jpg`
   - Alt: ""
@@ -133,15 +76,6 @@ reference, and tick the row.
 - [ ] **plasebojoiku** · ¶2
   - Original: `http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/200000/20000/2000/100/222195/222195.strip.gif`
   - Alt: ""
-- [ ] **ratkaisu-eriarvoistumiseen** · ¶1
-  - Original: `https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/j%20psychiatry%20l%C3%B6nnqvist.PNG`
-  - Alt: ""
-- [ ] **ratkaisu-eriarvoistumiseen** · ¶2
-  - Original: `https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/j%20psychiatry%20l%C3%B6nnqvist%20table2.PNG`
-  - Alt: ""
-- [ ] **ratkaisu-eriarvoistumiseen** · ¶4
-  - Original: `https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/replikaatiokriisi%20Roger%20Giner-Sorolla.jpg`
-  - Alt: ""
 - [ ] **shadow-mean** · ¶5
   - Original: `https://pbs.twimg.com/media/ERmTx0DUUAALf6t?format=jpg&amp;name=large`
   - Alt: ""
@@ -151,8 +85,14 @@ reference, and tick the row.
 - [ ] **taking-back-the-power-in-cluster-randomization** · ¶1
   - Original: `https://pbs.twimg.com/media/BsIwmEPCMAEMGz5.jpg`
   - Alt: ""
+- [ ] **tuhoutumattomuuden-tiellä-kukistumaton-mieli** · ¶1
+  - Original: `http://d.gr-assets.com/books/1350516776l/16092850.jpg`
+  - Alt: ""
 - [ ] **tyomarkkinoiden-uudet-vaateet** · ¶1
   - Original: `http://cdn.meme.am/instances/500x/57546405.jpg`
+  - Alt: ""
+- [ ] **untitled-2024-08-05** · ¶1
+  - Original: `https://lh7-rt.googleusercontent.com/docsz/AD_4nXezg91BxadDEPKKoT5qd6ucUzk3jJ-6pOKnMEhmdIVpIp_If_YDXSc0fybTU444NH-8Szi7Es8jD6-cO0pv-egilo_nbWIj169cJd7_Q3Q-fw17vNZfLg1KC_L40fN_inf_CXeigsL3K633xoiUDiHv748?key=WhXMdmI1jad06GwPxWHNhA`
   - Alt: ""
 - [ ] **yhteistyon-manifesti** · ¶1
   - Original: `http://www.daringtodo.com/wp-content/uploads/2010/07/800px-Montecristo_islet.jpg`

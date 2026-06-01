@@ -14,6 +14,7 @@ Tuhansien self help -opusten väitteistä huolimatta, käyttäytymisen muuttamin
 
 ## Taustaa
 
+![](./images/muutoskartta/Aikomus-käyttäytyminen.png)
 Muutosteoriat pääosin jakavat käyttäytymisen muutoksen kahteen vaiheeseen: ennen aikomusta muuttaa käyttäytymistä ja muutosaikeen jälkeen. Esittelemäni prosessi keskittyy jälkimmäiseen, pyrkien jossain määrin myös vaikuttamaan siihen kuiluun, joka niin usein estää hyvien aikeiden toteutumisen.
 [![](https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/COM-B.jpg)](./images/muutoskartta/COM-B.jpg)Mitä aikeiden toteutuminen sitten vaatii? Niin kutsutun COM-B -mallin mukaan käyttäytymisellä on kolme edellytystä: fyysinen ja henkinen kyky (Capability), tilaisuus (Opportunity) ja halu sen toteuttamiseen (Motivation). Jos jokin näistä puuttuu, hankaloituu käyttäytyminen huomattavasti.
 Lisäksi konstruaalitasoteorian mukaan, mitä lähempänä jokin asia on, sitä käytännöllisemmin siihen suhtaudutaan – vastaavasti kaukaisempia asioita ajatellaan abstraktimmin. Tätä hahmottaa jaottelu kysymysten "miten teen jotain" (suuri konkretia, läheiset asiat) ja "miksi teen jotain" (pieni konkretia, kaukaiset asiat) välillä. Yksi etäisyyden mitta on aika: on yleensä vähemmän stressaavaa ajatella tekevänsä jotain ensi viikolla kuin heti seuraavana aamuna. Ilmiöllä on hyvät ja huonot puolensa: toisaalta voimme päätyä kuvittelemaan ratkaisevamme ongelmamme "sitten joskus" ja näin varmistaa niiden pysyvyyden kuten Homer alla. Toisaalta voimme myös huijata laiskaa nykyisyyden mieltämme tekemään muutossuunnitelman Tulevaisuuden Minän toteutettavaksi.
@@ -23,6 +24,7 @@ Juoni on kolmivaiheinen.
 ## 1. Menneisyyden Minän kohtaamat esteet
 
 Ensimmäisessä vaiheessa pohditaan, mitkä asiat ovat estäneet Menneisyyden Minää toteuttamasta aietta (jos kyseessä on jotain, mitä ei ole koskaan yrittänyt, tämä vaihe on tarpeeton tai sen voi korvata arvauksilla tulevasta). Alla oleva kartta havainnollistaa, miten COM-B -mallin elementtien voi ajatella asettuvan elinympäristöömme. Sosiaalisella tarkoitetaan kaikkea muihin ihmisiin liittyvää ja rakenteellisella kaikkea passiivista, automatisoitua, ympäristön rakenteisiin liittyvää.
+[![](https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/VISUAALINEN%20muutoskartta_phase1_V2.jpg)](./images/muutoskartta/VISUAALINEN muutoskartta_phase1_V2.jpg)
 Jos otamme esimerkiksi viikottaisen kuntosalikäyntikertojen lisäämisen, saattaisimme ajatella näin:
 
 1. Henkilökohtainen kyvykkyys: väsymys on saanut tuntumaan siltä, ettei vain kykene lähtemään salille.
@@ -35,6 +37,7 @@ Jos otamme esimerkiksi viikottaisen kuntosalikäyntikertojen lisäämisen, saatt
 ## 2. Tulevaisuuden Minän strategiat
 
 Toisessa vaiheessa ideoimme muutokset, joilla Tulevaisuuden Minä nujertaa ensimmäisessä vaiheessa tunnistamamme esteet. Vaihe asettuu kartalle samoin kuin edellinen, vain kysymysten vaihtuessa:
+[![](https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/VISUAALINEN%20muutoskartta_phase2_V2.jpg)](./images/muutoskartta/VISUAALINEN muutoskartta_phase2_V2.jpg)
 Voisimme ohjeistaa Tulevaisuuden Minäämme toimimaan esimerkiksi näin:
 
 1. Henkilökohtainen kyvykkyys: laita puhelimeen hälytys iltakymmeneltä muistuttamaan, että olisi aika aloittaa nukkumaanmenovalmistelut. Unen määrä lisääntyy ja virkeämpänä on helpompi ajatella treeniä.
