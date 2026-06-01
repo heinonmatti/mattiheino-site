@@ -1,0 +1,18 @@
+# WordPress category -> frontmatter tag slug.
+# Edit by hand. Re-run import_wp.py to apply.
+# Format: "WP category name" = "tag-slug"
+# Lookup is case-insensitive on the LHS.
+
+Complex systems        = complex-systems
+Behaviour change       = behaviour-change
+Preparedness           = preparedness
+Health                 = health
+Risk                   = risk
+Self-management        = self-management
+Uncertainty            = uncertainty
+Käyttäytymismuutos     = käyttäytymismuutos
+Varautuminen           = varautuminen
+Ilmahygienia           = ilmahygienia
+Terveys                = terveys
+Kompleksisuus          = kompleksisuus
+Uncategorized          = uncategorised
