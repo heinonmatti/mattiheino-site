@@ -33,8 +33,11 @@ def test_normalise_slug_preserves_finnish_chars():
     assert normalise_slug("Käyttäytymisarkkitehtuuri") == "käyttäytymisarkkitehtuuri"
 
 
-def test_redirect_lines_for_same_slug_returns_empty():
-    assert redirect_lines_for(wp_slug="foo", new_slug="foo", new_path="/posts/foo/") == []
+def test_redirect_lines_for_same_slug_and_same_path_returns_empty():
+    # Pure no-op: WP URL would equal new URL (no prefix change). Currently
+    # not exercised in production (new_path always carries /posts/ or
+    # /applied-musings/ prefix), but cheap to guard.
+    assert redirect_lines_for(wp_slug="foo", new_slug="foo", new_path="/foo/") == []
 
 
 def test_redirect_lines_for_empty_wp_slug_returns_empty():
@@ -48,10 +51,9 @@ def test_redirect_lines_for_empty_wp_slug_returns_empty():
     ) == []
 
 
-def test_redirect_lines_for_changed_slug_emits_two_variants():
+def test_redirect_lines_for_changed_slug_bare_variant():
     lines = redirect_lines_for(wp_slug="old-name", new_slug="new-name", new_path="/posts/new-name/")
-    assert "/old-name/  /posts/new-name/  301" in lines
-    assert any("/2014/" not in l for l in lines)
+    assert lines == ["/old-name/  /posts/new-name/  301"]
 
 
 def test_redirect_lines_for_dated_wp_url_when_year_month_given():
@@ -61,3 +63,27 @@ def test_redirect_lines_for_dated_wp_url_when_year_month_given():
     )
     assert "/2014/11/old-name/  /posts/new-name/  301" in lines
     assert "/old-name/  /posts/new-name/  301" in lines
+
+
+def test_redirect_lines_for_full_dated_url_when_day_given():
+    # WP canonical permalink is /YYYY/MM/DD/<slug>/ — all inbound links use
+    # this form, so the 3-segment dated rule is required, not optional.
+    lines = redirect_lines_for(
+        wp_slug="old-name", new_slug="new-name", new_path="/posts/new-name/",
+        year="2014", month="11", day="03",
+    )
+    assert "/2014/11/03/old-name/  /posts/new-name/  301" in lines
+    assert "/2014/11/old-name/  /posts/new-name/  301" in lines
+    assert "/old-name/  /posts/new-name/  301" in lines
+
+
+def test_redirect_lines_for_same_slug_still_emits_prefix_change_rules():
+    # Even when wp_slug == new_slug, the path prefix differs (/<slug>/ vs
+    # /posts/<slug>/), so bare + dated redirects are required.
+    lines = redirect_lines_for(
+        wp_slug="thing", new_slug="thing", new_path="/posts/thing/",
+        year="2015", month="04", day="18",
+    )
+    assert "/thing/  /posts/thing/  301" in lines
+    assert "/2015/04/thing/  /posts/thing/  301" in lines
+    assert "/2015/04/18/thing/  /posts/thing/  301" in lines

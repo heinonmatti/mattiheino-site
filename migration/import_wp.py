@@ -140,13 +140,15 @@ def _process_item(item: WPItem, collection: str, draft: bool,
         out_path.parent.mkdir(parents=True, exist_ok=True)
         out_path.write_text(full, encoding="utf-8")
 
-    # Redirects (year + month from publish date)
+    # Redirects (year + month + day from publish date). WP canonical
+    # permalink on mattiheino.com is /YYYY/MM/DD/<slug>/.
     year = f"{item.published.year:04d}"
     month = f"{item.published.month:02d}"
+    day = f"{item.published.day:02d}"
     new_path = f"/{collection}/{new_slug}/"
     return redirect_lines_for(
         wp_slug=item.slug, new_slug=new_slug, new_path=new_path,
-        year=year, month=month,
+        year=year, month=month, day=day,
     )
 
 

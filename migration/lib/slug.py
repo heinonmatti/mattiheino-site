@@ -34,22 +34,31 @@ def redirect_lines_for(
     new_path: str,
     year: str | None = None,
     month: str | None = None,
+    day: str | None = None,
 ) -> list[str]:
     """Emit _redirects lines for a post.
 
-    No-op when wp_slug == new_slug, or when wp_slug is empty (no canonical
-    WP URL to redirect FROM — emitting `/  ...` or `//  ...` would hijack
-    the apex after Cloudflare path normalisation).
+    Returns [] when wp_slug is empty (no canonical WP URL to redirect FROM —
+    emitting `/  ...` or `//  ...` would hijack the apex after Cloudflare
+    path normalisation), or when wp_slug == new_slug AND the WP path equals
+    the new path (a pure no-op).
 
-    Otherwise emit one or two 301s:
-      - bare /<wp_slug>/ -> new_path
-      - /<year>/<month>/<wp_slug>/ -> new_path (if year+month given)
+    Otherwise emit up to three 301s covering every WP URL form a reader
+    might have linked to. mattiheino.com's WordPress permalink structure is
+    Day-and-name (`/YYYY/MM/DD/<slug>/`), and WP itself serves 301s from
+    the bare and 2-segment dated forms to that canonical. After DNS swap,
+    all three need a redirect on the Astro side:
+      - /<wp_slug>/                          -> new_path
+      - /<year>/<month>/<wp_slug>/           -> new_path
+      - /<year>/<month>/<day>/<wp_slug>/     -> new_path (the canonical)
     """
     if not wp_slug:
         return []
-    if wp_slug == new_slug:
+    if wp_slug == new_slug and new_path == f"/{wp_slug}/":
         return []
     lines = [f"/{wp_slug}/  {new_path}  301"]
     if year and month:
         lines.append(f"/{year}/{month}/{wp_slug}/  {new_path}  301")
+        if day:
+            lines.append(f"/{year}/{month}/{day}/{wp_slug}/  {new_path}  301")
     return lines
