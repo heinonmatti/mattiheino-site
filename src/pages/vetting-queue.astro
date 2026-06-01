@@ -2,29 +2,64 @@
 import Base from '../layouts/Base.astro';
 import { pendingAll } from '../lib/collections';
 
-const pending = await pendingAll();
+const all = await pendingAll();
+
+const wpPending = all.filter(
+  (e) => e.data.migration_source === 'mattiheino-wp' && !e.data.draft
+);
+const wpDrafts = all.filter(
+  (e) => e.data.migration_source === 'mattiheino-wp' && e.data.draft
+);
+const msmDrafts = all.filter(
+  (e) => e.data.migration_source === 'motivationselfmanagement' && e.data.draft
+);
+
 const fmt = (d: Date) =>
   d.toLocaleDateString('en-GB', { year: 'numeric', month: 'long', day: 'numeric' });
 ---
-<Base title="Vetting queue (internal)" noindex={true}>
+<Base title="Vetting queue (internal) – Matti T.J. Heino" noindex={true}>
   <h1>Vetting queue</h1>
   <p>
-    Internal backlog &ndash; not linked publicly, excluded from the sitemap and
-    from search engines. Oldest first.
+    Internal backlog &ndash; not linked publicly, excluded from sitemap and
+    search engines.
+  </p>
+
+  <h2>mattiheino-wp — pending re-vet ({wpPending.length})</h2>
+  <p>Already visible to readers. Vetting drives the social repost trigger.</p>
+  <ul class="post-list">
+    {wpPending.map((e) => (
+      <li>
+        <strong>{e.data.title}</strong>
+        {e.data.lang === 'fi' && <span class="lang-tag">FI</span>}
+        <p class="meta">{e.collection} &middot; published {fmt(e.data.published)}</p>
+      </li>
+    ))}
+  </ul>
+
+  <h2>mattiheino-wp drafts ({wpDrafts.length})</h2>
+  <p>WordPress drafts + the three imported pages from §6.5 of the spec.</p>
+  <ul class="post-list">
+    {wpDrafts.map((e) => (
+      <li>
+        <strong>{e.data.title}</strong>
+        {e.data.lang === 'fi' && <span class="lang-tag">FI</span>}
+        <p class="meta">{e.collection} &middot; published {fmt(e.data.published)}</p>
+      </li>
+    ))}
+  </ul>
+
+  <h2>MSM drafts ({msmDrafts.length})</h2>
+  <p>
+    Hidden from readers until you flip <code>draft: false</code> + run
+    <code>npm run sync:msm-redirects</code>.
   </p>
   <ul class="post-list">
-    {
-      pending.map((e) => (
-        <li>
-          <strong>{e.data.title}</strong>
-          {e.data.lang === 'fi' && <span class="lang-tag">FI</span>}
-          {e.data.draft && <span class="lang-tag">DRAFT</span>}
-          <p class="meta">
-            {e.collection} &middot; published {fmt(e.data.published)} &middot; source{' '}
-            {e.data.migration_source}
-          </p>
-        </li>
-      ))
-    }
+    {msmDrafts.map((e) => (
+      <li>
+        <strong>{e.data.title}</strong>
+        {e.data.lang === 'fi' && <span class="lang-tag">FI</span>}
+        <p class="meta">applied-musings &middot; published {fmt(e.data.published)}</p>
+      </li>
+    ))}
   </ul>
 </Base>
