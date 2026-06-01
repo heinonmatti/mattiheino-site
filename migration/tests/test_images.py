@@ -69,3 +69,34 @@ def test_rehost_missing_returns_placeholder(fixtures_dir, tmp_path):
     )
     assert result.status == "lost"
     assert result.local_path is None
+
+
+def test_rehost_external_url_decodes_basename_with_hash(tmp_path):
+    """Regression: Google Sites URLs encode '#' as '%23'; the on-disk
+    file '#ideaFLAT.jpg' must still match."""
+    gd = tmp_path / "gdrive"
+    gd.mkdir()
+    (gd / "#ideaFLAT.jpg").write_bytes(b"\x00")
+    gdrive_idx = build_gdrive_index(gd)
+    out = tmp_path / "posts/images/sample"
+    result = rehost(
+        "https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/foo/%23ideaFLAT.jpg",
+        slug="sample", dest=out, media_index={}, gdrive_index=gdrive_idx,
+    )
+    assert result.status == "ok"
+    assert result.source == "gdrive"
+
+
+def test_rehost_external_url_decodes_basename_with_utf8(tmp_path):
+    """Regression: Google Sites URLs encode 'ö' as '%C3%B6' and ' ' as '%20'."""
+    gd = tmp_path / "gdrive"
+    gd.mkdir()
+    (gd / "mökkiheppu copy.jpg").write_bytes(b"\x00")
+    gdrive_idx = build_gdrive_index(gd)
+    out = tmp_path / "posts/images/sample"
+    result = rehost(
+        "https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/foo/m%C3%B6kkiheppu%20copy.jpg",
+        slug="sample", dest=out, media_index={}, gdrive_index=gdrive_idx,
+    )
+    assert result.status == "ok"
+    assert result.source == "gdrive"

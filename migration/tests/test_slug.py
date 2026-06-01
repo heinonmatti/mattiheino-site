@@ -1,9 +1,31 @@
 import pytest
-from lib.slug import normalise_slug, redirect_lines_for
+from lib.slug import normalise_slug, redirect_lines_for, slug_from_title
 
 
 def test_normalise_slug_lowercases():
     assert normalise_slug("Hello World") == "hello-world"
+
+
+def test_normalise_slug_empty_input_returns_empty():
+    # Regression: blank WP <wp:post_name> produced './images//' paths
+    # that broke the Astro/Vite image resolver on CF Pages.
+    assert normalise_slug("") == ""
+
+
+def test_slug_from_title_derives_from_title_when_title_present():
+    assert slug_from_title("Covariates and Causality", fallback="x") == "covariates-and-causality"
+
+
+def test_slug_from_title_returns_fallback_when_title_unslugifiable():
+    assert slug_from_title("", fallback="untitled-2024-08-05") == "untitled-2024-08-05"
+    assert slug_from_title("???   ", fallback="untitled-2024-08-05") == "untitled-2024-08-05"
+
+
+def test_slug_from_title_caps_excessively_long_title():
+    very_long = "a" * 200
+    out = slug_from_title(very_long, fallback="x")
+    assert len(out) <= 80
+    assert out.startswith("a")
 
 
 def test_normalise_slug_preserves_finnish_chars():
