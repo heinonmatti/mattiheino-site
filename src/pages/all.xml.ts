@@ -9,11 +9,16 @@ export async function GET(context: APIContext) {
     title: '… And Out Come the Systems – All writing',
     description: 'Complex systems, health and well-being amidst uncertainty.',
     site: context.site!,
-    items: items.map((e) => ({
-      title: e.data.title,
-      description: e.data.description,
-      pubDate: e.data.published,
-      link: `/${e.collection}/${cleanSlug(e.id)}/`,
-    })),
+    items: items.map((e) => {
+      const link = `/${e.collection}/${cleanSlug(e.id)}/`;
+      const guid = e.data.wp_guid ?? new URL(link, context.site!).toString();
+      return {
+        title: e.data.title,
+        description: e.data.description,
+        pubDate: e.data.published,
+        link,
+        customData: `<guid isPermaLink="false">${guid}</guid>`,
+      };
+    }),
   });
 }

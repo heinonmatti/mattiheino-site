@@ -11,15 +11,21 @@ export async function GET(context: APIContext) {
     title: '… And Out Come the Systems – Writing',
     description: 'Complex systems, health and well-being amidst uncertainty.',
     site: context.site!,
-    items: posts.map((e) => ({
-      title: e.data.title,
-      description: e.data.description,
-      pubDate: e.data.published,
-      link: `/posts/${cleanSlug(e.id)}/`,
-      // NOTE (Phase 3 cutover): the default <guid> is the NEW URL. Before the
-      // WordPress DNS cutover we must instead emit each post's ORIGINAL WP
-      // <guid> (captured from the export) so existing RSS subscribers are not
-      // re-served the entire archive as "new".
-    })),
+    items: posts.map((e) => {
+      const link = `/posts/${cleanSlug(e.id)}/`;
+      // Use the original WP <guid> when available so existing RSS subscribers
+      // (Feedly, Inoreader, etc.) do not re-receive the entire archive after
+      // the Phase 3 DNS cutover. Falls back to canonical URL for placeholder
+      // and native posts (which have no wp_guid set).
+      // customData Object.assign-overwrites item.guid set from link — no duplicates.
+      const guid = e.data.wp_guid ?? new URL(link, context.site!).toString();
+      return {
+        title: e.data.title,
+        description: e.data.description,
+        pubDate: e.data.published,
+        link,
+        customData: `<guid isPermaLink="false">${guid}</guid>`,
+      };
+    }),
   });
 }

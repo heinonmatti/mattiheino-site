@@ -11,11 +11,16 @@ export async function GET(context: APIContext) {
     title: '… And Out Come the Systems – Applied musings',
     description: 'Behaviour change and thriving amidst uncertainty – light and practical.',
     site: context.site!,
-    items: items.map((e) => ({
-      title: e.data.title,
-      description: e.data.description,
-      pubDate: e.data.published,
-      link: `/applied-musings/${cleanSlug(e.id)}/`,
-    })),
+    items: items.map((e) => {
+      const link = `/applied-musings/${cleanSlug(e.id)}/`;
+      const guid = e.data.wp_guid ?? new URL(link, context.site!).toString();
+      return {
+        title: e.data.title,
+        description: e.data.description,
+        pubDate: e.data.published,
+        link,
+        customData: `<guid isPermaLink="false">${guid}</guid>`,
+      };
+    }),
   });
 }
