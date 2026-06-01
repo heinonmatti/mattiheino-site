@@ -37,6 +37,17 @@ def test_redirect_lines_for_same_slug_returns_empty():
     assert redirect_lines_for(wp_slug="foo", new_slug="foo", new_path="/posts/foo/") == []
 
 
+def test_redirect_lines_for_empty_wp_slug_returns_empty():
+    # Regression: WP drafts and some published posts have empty <wp:post_name>.
+    # Emitting `/  /posts/derived-slug/  301` (or worse, `//  /posts/.../  301`
+    # after the leading slash collapse) creates an apex-hijacking 301.
+    assert redirect_lines_for(wp_slug="", new_slug="derived", new_path="/posts/derived/") == []
+    assert redirect_lines_for(
+        wp_slug="", new_slug="derived", new_path="/posts/derived/",
+        year="2015", month="01",
+    ) == []
+
+
 def test_redirect_lines_for_changed_slug_emits_two_variants():
     lines = redirect_lines_for(wp_slug="old-name", new_slug="new-name", new_path="/posts/new-name/")
     assert "/old-name/  /posts/new-name/  301" in lines

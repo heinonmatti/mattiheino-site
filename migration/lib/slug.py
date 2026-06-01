@@ -37,10 +37,16 @@ def redirect_lines_for(
 ) -> list[str]:
     """Emit _redirects lines for a post.
 
-    No-op when wp_slug == new_slug. Otherwise emit one or two 301s:
+    No-op when wp_slug == new_slug, or when wp_slug is empty (no canonical
+    WP URL to redirect FROM — emitting `/  ...` or `//  ...` would hijack
+    the apex after Cloudflare path normalisation).
+
+    Otherwise emit one or two 301s:
       - bare /<wp_slug>/ -> new_path
       - /<year>/<month>/<wp_slug>/ -> new_path (if year+month given)
     """
+    if not wp_slug:
+        return []
     if wp_slug == new_slug:
         return []
     lines = [f"/{wp_slug}/  {new_path}  301"]
