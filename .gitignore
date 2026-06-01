@@ -24,6 +24,9 @@ migration/cache/
 # Pagefind output
 public/pagefind/
 
+# Lighthouse audit artefacts
+lighthouse-reports/
+
 # Python
 migration/.venv/
 migration/**/__pycache__/
