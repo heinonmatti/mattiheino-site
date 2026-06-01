@@ -13,8 +13,16 @@ for (const e of all) {
 const years = [...byYear.keys()].sort((a, b) => b - a);
 const fmt = (d: Date) => d.toLocaleDateString('en-GB', { month: 'short', day: 'numeric' });
 ---
-<Base title="Archive – Matti T.J. Heino">
-  <h1>Archive</h1>
+<Base title="Library – Matti T.J. Heino">
+  <h1>Library</h1>
+  <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+  <div id="search" class="lib-search"></div>
+  <script is:inline src="/pagefind/pagefind-ui.js"></script>
+  <script is:inline>
+    window.addEventListener('DOMContentLoaded', () => {
+      new PagefindUI({ element: '#search', showSubResults: true });
+    });
+  </script>
   {
     years.map((y) => (
       <section>
