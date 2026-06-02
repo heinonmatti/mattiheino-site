@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['ajattelu-ja-paatoksenteko']
+tags: ['ajattelu-ja-päätöksenteko', 'epailys', 'historia', 'muumiot', 'peukalosaannot', 'tietoisuustaidot']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=336"
 ---
 *English summary: To avoid getting stuck in one's worldview, I propose four heuristics. They consist of not identifying with one's thoughts, trying to prove oneself wrong, paying attention to surprises and inspecting events that "push one's buttons".*

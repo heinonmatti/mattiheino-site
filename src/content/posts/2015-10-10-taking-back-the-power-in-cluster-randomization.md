@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['icc', 'power-calculations', 'rage-against-the-machine', 'research-wahlberg', 'sample-size', 'statistical-power', 'tools', 'where-dreams-go-to-die']
 wp_guid: "http://mattiheino.com/?p=1094"
 ---
 > In the right light, study becomes insight

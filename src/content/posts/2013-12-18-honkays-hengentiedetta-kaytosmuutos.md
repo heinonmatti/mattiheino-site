@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['terveyspsykologia']
+tags: ['kayttaytymisen-muutos', 'nayttopohjaiset-hoidot', 'psykoterapia', 'terapiasuhde', 'terveyspsykologia', 'vaikuttavuus']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=454"
 ---
 *English summary: see this [article](http://cleostudies.lecture.ub.ac.id/files/2015/03/Goldfried-2014-What-to-expect-from-psychotherapy.pdf).*

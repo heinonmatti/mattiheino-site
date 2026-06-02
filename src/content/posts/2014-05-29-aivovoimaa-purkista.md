@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['terveyspsykologia']
+tags: ['oikotiet-onneen', 'terveyspsykologia', 'tiede-ja-raivo']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=560"
 ---
 *[Varoitus: teksti sisältää luvuilla argumentointia, mikä saattaa joillain aiheuttaa päänkivistystä ja pahoinvointia]*

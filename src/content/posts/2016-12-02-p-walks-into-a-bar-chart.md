@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['p-values', 'scientific-methodology']
 wp_guid: "http://mattiheino.com/?p=1877"
 ---
 *In this post, I try to present the intuition behind the fact that, when studying real effects, one usually should **not expect** p-values near the 0.05 threshold. If you don't read quantitative research, you may want to skip this one. If you think I'm wrong about something, please leave a comment and set the record straight!*

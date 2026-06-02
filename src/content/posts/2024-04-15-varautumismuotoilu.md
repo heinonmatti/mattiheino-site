@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['kayttaytymisarkkitehtuuri', 'sekalaista']
+tags: ['käyttäytymisarkkitehtuuri', 'osallistaminen', 'osallisuus', 'riskinhallinta', 'sekalaista', 'turvallisuus']
 wp_guid: "https://mattiheino.com/?p=4503"
 ---
 [![](./images/varautumismuotoilu/image.png)](https://mattiheino.com/wp-content/uploads/2024/04/image.png)

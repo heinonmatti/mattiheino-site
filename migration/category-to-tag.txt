@@ -2,17 +2,14 @@
 # Edit by hand. Re-run import_wp.py to apply.
 # Format: "WP category name" = "tag-slug"
 # Lookup is case-insensitive on the LHS.
+# Value `(skip)` drops the category entirely (won't appear as a tag).
 
-Complex systems        = complex-systems
-Behaviour change       = behaviour-change
-Preparedness           = preparedness
-Health                 = health
-Risk                   = risk
-Self-management        = self-management
-Uncertainty            = uncertainty
-Käyttäytymismuutos     = käyttäytymismuutos
-Varautuminen           = varautuminen
-Ilmahygienia           = ilmahygienia
-Terveys                = terveys
-Kompleksisuus          = kompleksisuus
-Uncategorized          = uncategorised
+# WP categories actually present in the 2026-05-20 export:
+Ajattelu ja päätöksenteko       = ajattelu-ja-päätöksenteko
+Käyttäytymisarkkitehtuuri       = käyttäytymisarkkitehtuuri
+Meditaatio ja mindfulness       = meditaatio-ja-mindfulness
+Sekalaista                      = sekalaista
+Terveyspsykologia               = terveyspsykologia
+Työskentelytavat                = työskentelytavat
+Uncategorized                   = (skip)
+º Data punk (English)           = (skip)

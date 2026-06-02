@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['epistemological-hypersensitivity', 'raistlin-laplace', 'signal-and-noise']
 wp_guid: "http://mattiheino.com/?p=1641"
 ---
 *In this post, you meet Raistlin Laplace. You will hear more of him at a later time. Please find the Finnish version [here](http://mattiheino.com/2016/08/05/esittelyssa-raistlin-laplace/).*

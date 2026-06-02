@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['kayttaytymisarkkitehtuuri']
+tags: ['ennakointi', 'hairiokysynta', 'käyttäytymisarkkitehtuuri', 'kokemusasiantuntijat-politiikkatoimessa', 'kompleksiset-jarjestelmat', 'pitkittynyt-koronatauti', 'terveydenhuolto']
 wp_guid: "https://mattiheino.com/?p=4482"
 ---
 ![](./images/palvelupolut/image.png)

@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['coronavirus', 'covid-19', 'fat-tails', 'health-psychology', 'nonlinearities', 'risk']
 wp_guid: "http://mattiheino.com/?p=3739"
 ---
 *In this post, I introduce fat-tailed distributions and the concept of the Shadow Mean, with implications to how seriously multiplicative events should be taken in the society. [Addendum: If you want a technical treatment of the proper Shadow Mean approach instead of my caricature, see [this](https://twitter.com/nntaleb/status/1242443727366479874)]*

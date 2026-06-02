@@ -1,6 +1,7 @@
 """Parse a WordPress eXtended RSS (WXR) export."""
 from __future__ import annotations
 
+import html
 from dataclasses import dataclass, field
 from datetime import datetime
 from pathlib import Path
@@ -40,7 +41,10 @@ def _text(elem, xpath: str, ns: dict | None = None) -> str:
 def iter_items(xml_path: Path) -> Iterator[WPItem]:
     tree = etree.parse(str(xml_path))
     for item in tree.xpath("//item"):
-        title = _text(item, "title")
+        # WP wraps these in <![CDATA[...]]> so lxml hands back the literal
+        # bytes — including HTML entities like &amp;. html.unescape() turns
+        # those back into the characters they encode (& not &amp;).
+        title = html.unescape(_text(item, "title"))
         slug = _text(item, "wp:post_name")
         status = _text(item, "wp:status")
         post_type = _text(item, "wp:post_type")
@@ -50,12 +54,17 @@ def iter_items(xml_path: Path) -> Iterator[WPItem]:
             published = datetime.strptime(pub_str, "%Y-%m-%d %H:%M:%S")
         except ValueError:
             published = datetime(1970, 1, 1)
+        # Merge WP categories (domain="category") AND tags (domain="post_tag")
+        # into a single list. WP semantically distinguishes them; for our
+        # purpose they're both "topical labels" and the schema unifies them.
         categories = [
             (c.text or "")
-            for c in item.xpath("category[@domain='category']")
+            for c in item.xpath(
+                "category[@domain='category' or @domain='post_tag']"
+            )
         ]
         content_html = _text(item, "content:encoded")
-        excerpt = _text(item, "excerpt:encoded")
+        excerpt = html.unescape(_text(item, "excerpt:encoded"))
         yield WPItem(
             title=title,
             slug=slug,

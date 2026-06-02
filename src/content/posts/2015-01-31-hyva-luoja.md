@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['tyoskentelytavat']
+tags: ['avomielisyys', 'epaluotettavat-ennusteet', 'luova-jarkevyys', 'luovuus', 'tiedon-vakavuus', 'tietoisuustaidot', 'työskentelytavat', 'vaaralliset-ideat']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=795"
 ---
 Viime aikoina olen sattumalta altistunut luovuuteen liittyville asioille. Luin joululahjaksi saamani [Saku Tuomisen](http://sakutuominen.com/ "http://sakutuominen.com/") uusimman kirjan *Luova* [![](https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/%23ideaFLAT.jpg)](./images/hyva-luoja/#ideaflat.jpg)*järkevyys,* tein loppuun [Headspace](http://vimeo.com/90758138?autoplay=1 "Headspace - how it works")-meditaatiopalvelussa 30 päivän luovuuspaketin ja törmäsin päätöksentekoa käsittelevällä [MOOC-kurssilla](https://www.futurelearn.com/courses/complexity-and-uncertainty) "https://www.futurelearn.com/courses/complexity-and-uncertainty)") luovuuteen selviytymisstrategiana [epävarmassa](//blogs.helsinki.fi/hema/lohdullinen-epavarmuus/ "Käyttäytymisarkkitehtuuri: Lohdullinen epävarmuus") [maailmassa](//blogs.helsinki.fi/hema/lohdullinen-epavarmuus/ "Käyttäytymisarkkitehtuuri: Lohdullinen epävarmuus"). Kaikkia näkökulmia yhdisti ajatus, että luovuus on enemmänkin tekemistä kuin olemista, jotain mikä lisääntyy vaivannäön myötä sisäsyntyisyyden sijaan. Jaottelen alla tarkemmin joitain mielestäni olennaisia luovuuteen liittyviä asioita.

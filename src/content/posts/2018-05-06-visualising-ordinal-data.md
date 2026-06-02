@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['data-visualisation', 'motivation', 'philosophy-of-science', 'r', 'tools']
 wp_guid: "http://mattiheino.com/?p=3472"
 ---
 *I recently had a great experience with a [StackOverflow question](https://stackoverflow.com/questions/50181772/line-color-and-width-by-slope-in-ggplot2), when I was thinking about how to visualise ordinal data. This post shows an option for how to do that. Code for the plots is in the end of this post.*

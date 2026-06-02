@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['ajattelu-ja-paatoksenteko']
+tags: ['ajattelu-ja-päätöksenteko', 'ennakointi', 'ennakointimuotoilu', 'epavarmuus', 'henkinen-kriisinkestavyys', 'kompleksisuus', 'resilienssi', 'turvallisuusmuotoilu', 'turvallisuustapahtuma', 'varautuminen', 'varautumismuotoilu']
 wp_guid: "https://mattiheino.com/?p=4549"
 ---
 Olin [puhumassa varautumismuotoilusta](https://mattiheino.com/2024/04/15/varautumismuotoilu/) Sisäministeriön valtakunnallisessa turvallisuustapahtumassa, jonka teemana oli "Turvallisuutta alueellisella yhteistyöllä". Tapahtumassa käsiteltiin monipuolisesti turvallisuuden ja kriisinkestävyyden parantamista. Keskustelut ja puheenvuorot toivat esiin monia tärkeitä näkökulmia ja käytännön kokemuksia niin valtionhallinnon kuin kuntien, kaupunkien, pelastusviranomaisten ja vapaaehtoistoimijoiden maailmoista. Tässä kirjoituksessa nostan esiin keskusteluja, jotka itse koin tapahtumassa tärkeiksi.

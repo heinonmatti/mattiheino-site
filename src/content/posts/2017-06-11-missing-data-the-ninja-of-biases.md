@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['data-analysis', 'missing-data']
 wp_guid: "http://mattiheino.com/?p=2992"
 ---
 Last week, I attended the Methods festival 2017 in Jyväskylä. Slides and program for the first day are [here](https://www.jyu.fi/edupsy/fi/tutkimus/ihme/metodifestivaali-2017/ohjelma/tiistai-30-5), and for the second day, [here](https://www.jyu.fi/edupsy/fi/tutkimus/ihme/metodifestivaali-2017/ohjelma/keskiviikko-31-5) (some are in Finnish, some in English).

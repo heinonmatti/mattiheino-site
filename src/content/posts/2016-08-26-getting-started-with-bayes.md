@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['bayesian-analysis', 'health-psychology', 'scientific-methodology']
 wp_guid: "http://mattiheino.com/?p=1712"
 ---
 *This post presents a Bayesian roundtable I convened for the [EHPS/DHP 2016](http://www.ehps2016.org/) health psychology conference. Slides for the three talks are included.*

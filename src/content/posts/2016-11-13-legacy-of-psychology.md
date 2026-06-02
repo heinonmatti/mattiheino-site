@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['psychology', 'social-influence']
 wp_guid: "http://mattiheino.com/?p=1741"
 ---
 **To anyone teaching psychology.**

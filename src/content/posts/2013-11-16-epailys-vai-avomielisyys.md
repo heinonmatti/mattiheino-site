@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['ajattelu-ja-paatoksenteko']
+tags: ['ajattelu-ja-päätöksenteko', 'avomielisyys', 'epailys', 'paatoksenteko']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=438"
 ---
 *English summary: [According to Ramachandran](http://www.edge.org/response-detail/11951), the choice between open mindedness and skepticism is partly determined by whether we have 1) trustworthy observations and 2) knowledge of a mechanism. In the absence of 2), one should choose open mindedness, but if both are absent, skepticism should reign.*

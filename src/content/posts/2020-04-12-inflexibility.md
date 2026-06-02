@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['behaviour-change', 'coronavirus', 'replication-crisis', 'transparency']
 wp_guid: "http://mattiheino.com/?p=3851"
 ---
 *UPDATE: This post was originally written in April 2020, and has been reviewed for ongoing relevance in March 2025. At the time of writing, masks were in short supply and a point of contention. This is not true any more (see* *[1](https://www.bmj.com/content/388/bmj-2023-078573)**,* *[2](https://journals.asm.org/doi/10.1128/cmr.00124-23)**), and although any mask is better than no mask, FFP2/FFP3 (N95/N99) are recommended—due to what has become mainstream about the science of airborne contagion (**[3](https://www.thelancet.com/article/S0140-6736(21)00869-2/fulltext)**,* *[4](https://onlinelibrary.wiley.com/doi/abs/10.1111/ina.13070)**,* *[5](https://www.science.org/doi/10.1126/science.adl0677)**,* *[6](https://www.panmacmillan.com/authors/carl-zimmer/air-borne/9781035023462)**). I have retained the references to cloth masks in the paragraph "Lowering the cost of Coronavirus safety", as well as to the now-silly 6 feet / 2m distance rule, for the sake of historical referenc*e.

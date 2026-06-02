@@ -1,12 +1,12 @@
 ---
-title: "Misleading simplifications and where to find them (Slides &amp; Mini-MOOC 11min)"
+title: "Misleading simplifications and where to find them (Slides & Mini-MOOC 11min)"
 description: "The gist: to avoid getting fooled by them, we need to name our simplifying assumptions when modeling social scientific data"
 published: 2018-10-25
 lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['complex-systems', 'complexity', 'health-psychology', 'misleading-data', 'modeling', 'mooc', 'slides', 'social-science', 'work-motivation']
 wp_guid: "http://mattiheino.com/?p=3526"
 ---
 *The gist: to avoid getting fooled by them, we need to name our simplifying assumptions when modeling social scientific data. I'm experimenting with this visual approach to delivering information to those who think modeling is boring; feedback and improvement suggestions very welcome! [Similar presentation with between-individual longitudinal physical activity networks, presented at the Finnish Health Psychology conference: [here](https://drive.google.com/file/d/11x3-iXeQUliXhlatb0zyrm5ZcrJ0vdrI/view?usp=sharing)]*

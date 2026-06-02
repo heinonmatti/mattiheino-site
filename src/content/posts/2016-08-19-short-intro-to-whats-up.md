@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['health-behavior', 'motivation', 'occupational-health', 'physical-activity']
 wp_guid: "http://mattiheino.com/?p=1686"
 ---
 *Slides below are a presentation of what I was up to in 2016.*

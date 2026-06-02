@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['kayttaytymisarkkitehtuuri']
+tags: ['harhat', 'hyvantahtoisuus', 'josvain-sitkun', 'käyttäytymisarkkitehtuuri', 'menestys']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=257"
 ---
 *English summary: In this post, I challenge some conventional wisdom about the dog-eat-dog view of work life. I claim that you can enjoy things before succeeding first, that looking out for others (instead of just "the number one") can lead to good things, and that life is not a damned zero-sum game, unless you make it one.*

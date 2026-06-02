@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['ajattelu-ja-paatoksenteko']
+tags: ['ajattelu-ja-päätöksenteko', 'antihauras', 'lumevaikutus', 'oikotiet-onneen']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=600"
 ---
 Kirjoitin hiljattain [onnen oikoteiden markkinoinnista tutkimustiedolla](http://blogs.helsinki.fi/hema/aivovoimaa-purkista/ "Tutkimusten käyttö Onnen Oikoteiden markkinoinnissa: Case AlphaBRAIN™"). Palasin aiheen ääreen kun minulta kysyttiin, olisiko ihmisten syytä antaa pitää harhaluulonsa ja mahdollisesti hyötyä lumevaikutuksesta, eikä kertoa mitä mieltä tiede on heidän popsimistaan pillereistä. Entä millaisia asioita on syytä kokeilla itse? Yritän vastata kysymyksiin alla.

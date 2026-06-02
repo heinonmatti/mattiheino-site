@@ -9,7 +9,7 @@
     <link>https://example.test/</link>
     <wp:base_blog_url>https://example.test</wp:base_blog_url>
     <item>
-      <title>First post</title>
+      <title><![CDATA[First post (Slides &amp; deck)]]></title>
       <link>https://example.test/2014/11/first-post/</link>
       <pubDate>Sat, 15 Nov 2014 10:00:00 +0000</pubDate>
       <dc:creator>matti</dc:creator>
@@ -20,6 +20,8 @@
       <wp:status>publish</wp:status>
       <wp:post_type>post</wp:post_type>
       <category domain="category" nicename="complex-systems"><![CDATA[Complex systems]]></category>
+      <category domain="post_tag" nicename="modeling"><![CDATA[modeling]]></category>
+      <category domain="post_tag" nicename="bayes"><![CDATA[Bayesian analysis]]></category>
       <content:encoded><![CDATA[<p>Hello, <strong>world</strong>.</p><p>An image: <img src="https://mattiheino.files.wordpress.com/wp-content/uploads/2014/11/foo.jpg" alt="" /></p>]]></content:encoded>
       <excerpt:encoded><![CDATA[Intro paragraph.]]></excerpt:encoded>
     </item>

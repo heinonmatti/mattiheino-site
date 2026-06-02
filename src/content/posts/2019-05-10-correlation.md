@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['correlation', 'data-science', 'entropy', 'r', 'tools']
 wp_guid: "http://mattiheino.com/?p=3555"
 ---
 *I've become increasingly anxious about properties of correlation I never knew existed. I collect resources and stuff on the topic in this post, so that have everything in one place. Some resources for beginners in the end of the post. This post was originally written in 2019, and has been updated in December 2024.*

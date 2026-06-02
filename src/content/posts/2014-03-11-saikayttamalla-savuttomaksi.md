@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['kayttaytymisarkkitehtuuri']
+tags: ['interventiot', 'käyttäytymisarkkitehtuuri', 'kayttaytymisen-muutos', 'markkinointi', 'mututieto', 'tuhkalapset', 'tupakointi', 'vaikuttavuus']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=501"
 ---
 *English summary: The Finns like intuitively appealing methods of behaviour change as much as any other people. This might not be the best way to tackle important issues. Enjoy these videos, which my tax money helped produce!*

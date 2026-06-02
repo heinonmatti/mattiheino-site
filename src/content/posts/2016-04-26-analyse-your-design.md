@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['design-analysis', 'sample-size', 'statistical-power', 'tools']
 wp_guid: "http://mattiheino.com/?p=1231"
 ---
 *In this post, I demonstrate how one could use Gelman & Carlin's ([2014](http://pps.sagepub.com/content/9/6/641)) method to analyse a research design for Type S (wrong sign) and Type M (exaggeration ratio) errors, when studying an unknown real effect. Please let me know if you find problems in the code presented [here](http://rpubs.com/mattiheino/design-analysis).*

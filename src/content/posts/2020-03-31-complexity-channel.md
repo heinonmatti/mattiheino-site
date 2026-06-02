@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['behavioural-sciences', 'complexity', 'methods', 'video']
 wp_guid: "http://mattiheino.com/?p=3789"
 ---
 *In 2019 I attended an exciting summer school; [Complexity Methods for Behavioural Science: A Toolbox for Studying Change](https://www.ru.nl/radboudsummerschool/courses/2020/complexity-methods-behavioural-science-toolbox/). Later, we – that is, the University of Helsinki [Behaviour Change and Wellbeing Group](https://www.helsinki.fi/en/researchgroups/behaviour-change-and-wellbeing) – had the opportunity to invite Fred Hasselman, who devised the course, to Finland. He gave an overview talk as well as a 3-day workshop, which I recorded with varying success. This page collates resources regarding the course.*

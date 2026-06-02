@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['terveyspsykologia']
+tags: ['covid-19', 'terveyspsykologia', 'varautuminen']
 wp_guid: "https://mattiheino.com/?p=4101"
 ---
 *Most people in Finland want to protect others from COVID, wheras decision makers and the media are planning celebrations of the end of the pandemic. Meanwhile, the healthcare system is getting overwhelmed fast. The only solution may be self-organisation.*

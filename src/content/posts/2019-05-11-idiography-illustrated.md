@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['averages', 'chaos', 'complex-systems', 'idiographic-research', 'mechanisms']
 wp_guid: "http://mattiheino.com/?p=3561"
 ---
 *This post contains slides I made to illustrate some points about phenomena, which will remain forever out of reach, if we continue the common practice of always averaging individual data. For another post on perils of averaging, [check this out](https://mattiheino.com/2018/05/19/averagerianism/), and for an overview of idiographic research with resources, see [here](https://psych-networks.com/idiography-where-have-we-come-from/).*

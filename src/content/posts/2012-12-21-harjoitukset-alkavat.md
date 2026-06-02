@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['kayttaytymisarkkitehtuuri']
+tags: ['anteliaisuus', 'hyvantahtoisuus', 'käyttäytymisarkkitehtuuri', 'kiitollisuus', 'tietoisuustaidot']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=238"
 ---
 *English summary: People often condition their actions on the actions of others. This may be helpful at times ("let it be known that those who betray me shall face a painful death"), but often in ordinary life, it's beneficial to adopt a simple strategy, which you know is in accordance with what you want. So, it might we worthwhile not to let asshats define your mood and level of generosity. Instead, maybe train yourself to not expect anything in return for acting decently. Maybe not spend energy to figure out, if each person "deserves" your kindness. Maybe remember what you value, and not become what you don't.*

@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['meditaatio-ja-mindfulness']
+tags: ['kliininen-psykologia', 'meditaatio', 'meditaatio-ja-mindfulness', 'paatoksenteko', 'tutkimus-vs-kaytanto', 'vaikuttavuus']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=727"
 ---
 [*huomio työpaikoilla blogia lukeville: teksti ei vaadi videoiden katsomista]*

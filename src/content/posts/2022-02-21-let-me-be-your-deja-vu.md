@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['assumptions', 'covid-19', 'paatoksenteko', 'preparedness', 'varautuminen']
 wp_guid: "https://mattiheino.com/?p=4183"
 ---
 *I’ve been writing this post between 4.-21. February 2022, when questionable information is rampant in Finnish public discussions: Omicron is thought to be comparable to the flu, a trend of ever-milder variants is considered an inevitable biological law, the pandemic is (again) claimed to be over, and the sentiment is that there’s nothing much we can or need do about it anyway. This post is a historical reference so we don’t forget what happened to a relatively successful Finnish pandemic management scheme between June 2021 and February 2022. I also present two future scenarios to consider, when the hopium in current media discourse turns out to be hot air again. My hope is, that individuals and communities will shift their perspective and start buffering the nation against bad outcomes, not the best-case scenarios – which do not require preparation anyway.* *The post does not reflect views of the behavioural science advisory group ([KETTU](https://vnk.fi/-/kayttaytymistieteellinen-nakokulma-valtionhallinnossa-saa-jatkoa-ja-vahvistuu?languageId=en_US)) operating in the Finnish Prime Minister's Office, nor those of the [Citizen Shield](http://www.citizenshield.fi) pandemic prevention project.*

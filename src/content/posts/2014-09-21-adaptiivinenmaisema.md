@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['kayttaytymisarkkitehtuuri']
+tags: ['adaptiivinen-maasto', 'henkilokohtainen-kasvu', 'käyttäytymisarkkitehtuuri', 'tuhoutumattomuuden-tiella', 'varautuminen']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=709"
 ---
 Toisistaan näennäisesti riippumattomien osaamisalueiden yhdistelyn hengessä vietin toissaviikonlopun biologien kestitsemänä Lammilla. Aika biologisella asemalla vinksautti ajatusmaailmaani mukavasti, ja haluaisinkin kirjoittaa hieman henkilökohtaisesta kasvusta [adaptiivisen maiseman](http://fi.wikipedia.org/wiki/Adaptiivinen_maisema "Wikipedia: Adaptiivinen maisema") (fitness landscape) käsite löyhästi lähtökohtanani.

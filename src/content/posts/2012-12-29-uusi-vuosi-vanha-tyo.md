@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: true
-tags: ['tyoskentelytavat']
+tags: ['peukalosaannot', 'tutkimus-vs-kaytanto', 'työskentelytavat', 'tyoteho']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=222"
 ---
 # Uusi vuosi, vanha työ?

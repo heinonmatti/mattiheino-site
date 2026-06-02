@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['ajattelu-ja-paatoksenteko', 'tyoskentelytavat']
+tags: ['ajattelu-ja-päätöksenteko', 'kayttaytymisen-muutos', 'kognitiivinen-neurotiede', 'työskentelytavat', 'tyoteho']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=48"
 ---
 *English summary: In this post, I point out that learning happens in the brain, and thus learning things changes the brain. It is pretty spectacular. Just not in the sense that it's worthy of an exclamation mark after a news story headline on how baking cookies "changes one's brain". Still, you might want to consider your actions, as those are the ones that may eventually become ingrained habits.*

@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['crisis-of-confidence', 'replication-crisis', 'reproducibility-crisis', 'science', 'scientific-publishing', 'slides']
 wp_guid: "http://mattiheino.com/?p=3438"
 ---
 After half a century of talk, the researcher community is putting forth genuine efforts to improve social scientific practices in 2018. This is a presentation for the University of Helsinki faculty of Social Sciences, on the recent developments in statistical practices and publishing reforms. Update: Slightly modified version of presentation, held in Aberdeen [here](https://drive.google.com/file/d/1gsZlvmEdjMQBKweyJ8Neglw-G0pDs2oz/view?usp=sharing)!

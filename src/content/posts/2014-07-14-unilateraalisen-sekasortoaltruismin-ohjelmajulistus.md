@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['kayttaytymisarkkitehtuuri']
+tags: ['käyttäytymisarkkitehtuuri', 'negatiivinen-kyvykkyys', 'paatoksenteko', 'peukalosaannot', 'sekasortoaltruismi']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=665"
 ---
 *Postaus julkaistu alunperin vuonna 2014. Todettu aikaa kestäväksi vuoden 2023 uusintatarkastelussa.*

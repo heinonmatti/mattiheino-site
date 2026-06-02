@@ -1,12 +1,12 @@
 ---
-title: "The myth of the magical &#8220;Because&#8221;"
+title: "The myth of the magical “Because”"
 description: "Does the word 'Because' magically make people comply with requests?"
 published: 2016-05-03
 lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['health-behavior', 'persuasion', 'psychology', 'social-influence']
 wp_guid: "http://mattiheino.com/?p=998"
 ---
 *In this post I try to answer the call for increased transparency in psychological science by presenting my master's thesis. I ask for feedback about the idea and the methods. I'd also appreciate suggestions for which journal it might be wise to submit the paper I'm now starting to write with co-authors. Check out [OSF](https://osf.io/89mhu/) for the Master's thesis documents and a [supplementary website](https://heinonmatti.github.io/sms-persuasion/sms-persuasion-supplement.html) for analyses in the manuscript in preparation (I presented the design analysis in a previous [post](http://mattiheino.com/2016/04/26/analyse-your-design/)).*

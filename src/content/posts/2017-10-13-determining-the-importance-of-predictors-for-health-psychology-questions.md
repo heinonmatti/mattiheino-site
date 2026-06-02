@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: true
-tags: ['o-data-punk-english']
+tags: ['uncategorised']
 wp_guid: "http://mattiheino.com/?p=3400"
 ---
 There was a recent paper (ciber) and an ensuing [discussion](https://www.facebook.com/groups/853552931365745/permalink/1516842518370113/) on Facebook about the importance of determintants and how to determine it...

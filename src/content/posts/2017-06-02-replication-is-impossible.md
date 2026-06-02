@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['complexity', 'replication', 'scientific-methodology']
 wp_guid: "http://mattiheino.com/?p=2924"
 ---
 ![joonasautocomic](./images/replication-is-impossible/joonasautocomic.jpg) Is psychology headed towards being a science conducted by "zealots", or to a post-car (or train) crash metaphysics, where anything goes because nothing is even supposed to replicate?

@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['r', 'reproducibility', 'tools', 'transparency']
 wp_guid: "http://mattiheino.com/?p=3454"
 ---
 When [Roger Giner-Sorolla](https://approachingblog.wordpress.com/) three years ago lamented to me, how annoying it can be to dig out interesting methods/results information from a manuscript with a carefully crafted narrative, I wholeheartedly agreed. When I saw the [100%CI post](http://www.the100.ci/2017/02/19/reproducible-websites-for-fun-and-profit/) on reproducible websites a year ago, I thought it was cool but way too tech-y for me.

@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['communicable-diseases', 'covid', 'covid-19', 'health', 'pandemics', 'preparedness', 'public-health']
 wp_guid: "https://mattiheino.com/?p=4894"
 ---
 [![](./images/infection-spread/from-droplets-to-mohawk-buddha-2.png)](https://mattiheino.wordpress.com/wp-content/uploads/2025/12/from-droplets-to-mohawk-buddha-2.png)

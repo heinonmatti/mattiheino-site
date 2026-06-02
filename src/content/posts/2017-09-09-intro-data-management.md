@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['data-management', 'psychology', 'reproducibility', 'transparency']
 wp_guid: "http://mattiheino.com/?p=3338"
 ---
 ![data2.png](./images/intro-data-management/data2.png)

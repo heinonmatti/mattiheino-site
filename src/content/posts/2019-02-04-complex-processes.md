@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['behaviour-change', 'complex-systems', 'complexity', 'health-behavior', 'health-psychology']
 wp_guid: "http://mattiheino.com/?p=3536"
 ---
 For some years, I've been partly involved in the Let's Move It intervention project, which targeted dysfunctional physical activity and sedentary behaviour patterns of older adolescents, by affecting their school environment as well as social and psychological factors.

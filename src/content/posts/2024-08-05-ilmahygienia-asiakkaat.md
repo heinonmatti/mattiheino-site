@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['kayttaytymisarkkitehtuuri']
+tags: ['ilmahygienia', 'käyttäytymisarkkitehtuuri']
 wp_guid: "https://mattiheino.com/?p=4633"
 ---
 Ilmahygieniaa koskeva tiede on edennyt valtavin harppauksin viime vuosina. Tämä sivu sisältää Suomen Akatemian kriisinkestävyyden ja huoltovarmuuden tutkimusrahoituksesta tuotetun [Citizen Shield – Kansalaissuoja](https://citizenshield.fi/) -hankkeen materiaaleja. Olen tuottamassa näitä monitieteellisessä yhteistyössä eri alojen osaajien kanssa, ja näet alla ensimmäisen version. Löydät muut sarjan sivut [täältä](https://mattiheino.com/ilmahygienia-aloitus) ja tästä:

@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['behaviour-change', 'networks', 'slides']
 wp_guid: "http://mattiheino.com/?p=2847"
 ---
 *This is a talk I gave to a group of master's students in social psychology. It introduces the crisis of confidence in science, how non-communicable diseases can be thought of as symptom networks, and some basics of behaviour change research.*

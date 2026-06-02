@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['kayttaytymisarkkitehtuuri']
+tags: ['interventiot', 'käyttäytymisarkkitehtuuri', 'menneisyyden-mina', 'muutoskartta', 'suunnitteluharha', 'terveyspsykologia', 'tulevaisuuden-mina']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=761"
 ---
 *Kirjoitus pohjautuu sosiaalipsykologian päivillä 2014 terveyden ja hyvinvoinnin työryhmässä pidettyyn esitelmään.*

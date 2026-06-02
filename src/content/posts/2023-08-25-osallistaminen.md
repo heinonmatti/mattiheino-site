@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['ajattelu-ja-paatoksenteko', 'tyoskentelytavat']
+tags: ['ajattelu-ja-päätöksenteko', 'ennakointi', 'osallistaminen', 'osallisuus', 'resilienssi', 'riskinhallinta', 'työskentelytavat', 'valmius']
 wp_guid: "https://mattiheino.com/?p=4449"
 ---
 *Tiivistelmä: Ennen kuin ongelma muuttuu katastrofiksi, on usein olemassa hiljaisia signaaleja, jotka viestivät tulevista haasteista. Kun terveyspalveluiden käyttö, rikollisuus tai taloudelliset indikaattorit osoittavat äkillistä heikentymistä, yhteisöllisyyteen ja asenteisiin liittyvät varoitusmerkit ovat usein jo näkyneet pitkään. Nämä signaalit on elintärkeää tunnistaa ajoissa, jotta kehityskulku voidaan pysäyttää – kun se on vielä niin taloudellisesti kuin hyvinvoinninkin kannalta edullista.*

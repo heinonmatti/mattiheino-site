@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: true
-tags: ['o-data-punk-english']
+tags: ['uncategorised']
 wp_guid: "http://mattiheino.com/?p=3445"
 ---
 After a long conversation on Twitter, I wanted to summarise some of my current beliefs about the tone debate in science. For those unfamiliar with the issue, some people think others are being too harsh, discouraging people to take part in the scientific enterprise, while others think harshness is sometimes necessary.

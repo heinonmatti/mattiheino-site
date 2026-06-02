@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['complexity', 'interventions', 'mechanisms', 'mediation']
 wp_guid: "http://mattiheino.com/?p=3252"
 ---
 *In this post, I wonder what complex systems, as well as the nuts and bolts of mediation analysis, imply for studying processes of health psychological interventions.*

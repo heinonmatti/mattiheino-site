@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['kayttaytymisarkkitehtuuri']
+tags: ['henkinen-kriisinkestavyys', 'itsensa-johtaminen', 'itseohjautuvuus', 'käyttäytymisarkkitehtuuri']
 wp_guid: "http://mattiheino.com/?p=3922"
 ---
 *This post outlines some musings from the trenches of the Finnish Coronavirus battle, based on thoughts I laid out in two recent newspaper interviews ([1](https://www.hs.fi/kotimaa/art-2000006602621.html), [2](https://www.iltalehti.fi/koronavirus/a/564a0614-8925-4566-9f7f-59c192fa290f)).  It's in Finnish, but please [contact me](mailto:matti.tj.heino@gmail.com) for any questions. Also appeared on my other blog, [motivationselfmanagement.com](http://www.motivationselfmanagement.com).*

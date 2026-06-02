@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: true
-tags: ['o-data-punk-english']
+tags: ['uncategorised']
 wp_guid: "http://mattiheino.com/?p=3554"
 ---
 Mood was measured as a proportion of time spent in four categories, since the last measurement (Kahneman's day reconstruction method, can't remember source). Categories were "in a bad mood", "a little low or irritable", "in a mildly pleasant mood", "in a very good mood", and they always sum up to 1.

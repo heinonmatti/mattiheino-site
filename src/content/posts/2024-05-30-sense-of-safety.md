@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['attractor-landscapes', 'behavior-change', 'change-processes', 'complex-systems', 'complexity', 'covid-19', 'disaster-psychology', 'myth-of-mass-panic', 'non-linearity', 'risk', 'safety', 'security', 'sense-making']
 wp_guid: "https://mattiheino.com/?p=4547"
 ---
 Understanding how people act in crises and how to manage risk is crucial for decision-makers in health, social, and security policy. In a [new paper published in the journal Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1346542/full), we outline ways to navigate uncertainty and prepare for effective crisis responses.

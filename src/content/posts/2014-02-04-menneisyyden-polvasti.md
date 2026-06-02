@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['ajattelu-ja-paatoksenteko']
+tags: ['aikamatkailu', 'ajattelu-ja-päätöksenteko', 'historia', 'menneisyyden-mina', 'nykyisyyden-mina', 'tulevaisuuden-mina', 'virheista-oppiminen']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=475"
 ---
 *English summary: I'm often baffled by some implications of [pessimistic (meta-)induction](https://plato.stanford.edu/entries/scientific-realism/#PesInd). There's this eerie feeling that Future Me is looking at Current Me in the same way, as the Current Me rolls his eyes to Past Me. There's a case to be made for compassion towards the past versions of ourselves, as well as past societies that have preceded ours.*

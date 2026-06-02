@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['kayttaytymisarkkitehtuuri']
+tags: ['antihauras', 'henkinen-kriisinkestavyys', 'käyttäytymisarkkitehtuuri', 'negatiivinen-kyvykkyys', 'tuhoutumattomuuden-tiella', 'varautuminen']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=844"
 ---
 *Tuhoutumattomuuden tiellä -juttusarjassa tarkastellaan keinoja shokeista selviytymiseen.*

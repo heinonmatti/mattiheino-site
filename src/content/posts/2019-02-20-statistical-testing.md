@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['design-analysis', 'replication-crisis', 'slides', 'statistical-power', 'testing']
 wp_guid: "http://mattiheino.com/?p=3546"
 ---
 These are slides from my lecture on significance testing, which took place in a course on research methods for social scientists. Some thoughts:

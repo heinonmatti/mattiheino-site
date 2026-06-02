@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['kayttaytymisarkkitehtuuri', 'terveyspsykologia']
+tags: ['complex-systems', 'covid-19', 'käyttäytymisarkkitehtuuri', 'paatoksenteko', 'terveyspsykologia', 'varautuminen']
 wp_guid: "https://mattiheino.com/?p=4055"
 ---
 *The video is a Finnish talk I gave as part of a [webinar series](https://thl.fi/fi/web/hyvinvoinnin-ja-terveyden-edistamisen-johtaminen/ajankohtaista/tapahtumat/koronan-yhteiskunnalliset-vaikutukset-webinaarisarja) of the Institute for Health and Welfare (THL). I discuss the three scales of pandemic response: That of a) self-determined individuals, b) self-organised communities and c) governmental strategy choice in aiding these. Related, highly unpolished thoughts in English below.* Slides [here](https://drive.google.com/uc?export=download&id=1ZNKoaobihfRWd3j9KsROe8OqFh0G8Q7m)!

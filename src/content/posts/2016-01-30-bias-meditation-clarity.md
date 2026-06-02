@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['bayesian-analysis', 'bias', 'clarity', 'meditation', 'mindfulness']
 wp_guid: "http://mattiheino.com/?p=1162"
 ---
 [Update: Short Twitter-discussion on the issue w/ Headspace's Andy Puddicombe [here](https://twitter.com/Heinonmatti/status/695005104706080768)]

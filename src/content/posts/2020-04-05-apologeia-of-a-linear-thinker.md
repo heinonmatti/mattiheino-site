@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: true
-tags: ['o-data-punk-english']
+tags: ['uncategorised']
 wp_guid: "http://mattiheino.com/?p=3728"
 ---
 *This post consists of autobiographical snippets of the development of my mental landscape; things I've been struggling with in an uncertain, complex world. I'm posting these right before attending the [Real World Risk Institute](https://realworldrisk.com/) training, which I expect to be the antonym of a linear, predictable, optimisable and rationalisable world view.*

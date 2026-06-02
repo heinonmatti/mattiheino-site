@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['terveyspsykologia']
+tags: ['kliininen-psykologia', 'nayttopohjaiset-hoidot', 'terveyspsykologia', 'tutkimus-vs-kaytanto']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=376"
 ---
 *English summary: this post is about why clinicians may root for ineffective therapies. See Lilienfield et al (2013) and this [post](http://www.sakkyndig.com/psykologi/artvit/lilienfeld2013.pdf) for more information.*

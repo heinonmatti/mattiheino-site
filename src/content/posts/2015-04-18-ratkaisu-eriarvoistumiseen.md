@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['terveyspsykologia']
+tags: ['honkays-hengentiedetta', 'interventiot', 'kayttaytymisen-muutos', 'kliininen-psykologia', 'terveyspsykologia', 'tiede-ja-raivo', 'vaikuttavuus']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=950"
 ---
 *Hönkäys Hengentiedettä -**juttusarjassa tarkastellaan mielenterveyden psykologiaa tieteellisten artikkelien kautta.*

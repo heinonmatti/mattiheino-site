@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['complexity', 'self-reports', 'video']
 wp_guid: "http://mattiheino.com/?p=3994"
 ---
 *On [Fred Hasselman](https://complexity-methods.github.io/)'s initiative, we started a new show where we host a live-streamed discussion on complexity topics. I will gather a list of episodes with synopses in this post.*

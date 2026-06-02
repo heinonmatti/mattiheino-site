@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['tyoskentelytavat']
+tags: ['työskentelytavat']
 wp_guid: "http://mattiheino.com/?p=1143"
 ---
 Arvioiden mukaan Euroopan alueella palvelutyöpaikkojen - koskivat ne sitten B2B-konsultointia tai vanhustyötä - suhteellinen osuus on jatkuvassa kasvussa. Tämän kasvun myötä myös työntekijöiltä vaaditut taidot ovat muutoksessa; ongelmien ratkaisuprosessia harvemmin enää voidaan pilkkoa tarkasti määritellyiksi, ennalta tiedossa oleviksi askeliksi. Tarvitaan siis yhä enemmän sellaisia taitoja, jotka auttavat luovimaan epävarmuuden keskellä.

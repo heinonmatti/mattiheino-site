@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['complexity', 'dynamics', 'habits', 'health-behavior', 'health-psychology']
 wp_guid: "http://mattiheino.com/?p=3461"
 ---
 *It was recently brought to my attention that there exist such things as time and context, the flow of which affects human affairs considerably. Then there was [this Twitter conversation](https://twitter.com/Heinonmatti/status/974317378543718401) about what habits actually are. In this post, I try to make sense of how to view health behavioural habits from the perspective of dynamical systems / complexity theory. I mostly draw from [this article](https://www.frontiersin.org/articles/10.3389/fnhum.2014.00682/full).*

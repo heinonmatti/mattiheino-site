@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['chaos', 'complexity', 'determinism', 'prediction']
 wp_guid: "http://mattiheino.com/?p=2058"
 ---
 *In this post, I argue against the intuitively appealing notion that, in a deterministic world, we just need more information and can use it to solve problems in complex systems. This presents a problem in e.g. psychology, where more knowledge does not necessarily mean cumulative knowledge or even improved outcomes.*

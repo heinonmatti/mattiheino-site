@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['coronavirus', 'precautionary-principle', 'risk-management']
 wp_guid: "http://mattiheino.com/?p=3795"
 ---
 *This post curates Finnish translations (mostly [NECSI guidelines](https://necsi.edu/corona-virus-pandemic)) for stopping the Coronavirus pandemic. Tälle sivulle olen koonnut hyvinä pitämiäni suomenkielisiä tekstejä. Suomentajana [Thomas Brand](https://medium.com/@thlbr), ellei toisin mainita. Katso myös pandemioita pitkään tutkineen kompleksisuustieteilijä Yaneer Bar-Yamin [haastattelu Suomen tilanteeseen liittyen](http://mattiheino.com/2020/05/04/bar-yam/).*

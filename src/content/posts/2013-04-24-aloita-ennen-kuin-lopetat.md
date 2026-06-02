@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['tyoskentelytavat']
+tags: ['moniajo', 'multitasking', 'työskentelytavat', 'tyoteho', 'zeigarnik-vaikutus']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=324"
 ---
 *English summary: to finish things, you must start them first. One way to control stress is thus to avoid getting overwhelmed by the totality of a task: "how can I start this" is a better question than "how can I finish this" in many contexts. For me, having everything in a list I trust I'll check later, has worked to silence a nagging sense of having forgotten something*.

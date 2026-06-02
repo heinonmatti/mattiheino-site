@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['ajattelu-ja-paatoksenteko']
+tags: ['ajattelu-ja-päätöksenteko', 'mututieto', 'valikoitumisharha', 'wysiati']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=244"
 ---
 *English summary: a good rule for judging anything you hear, is to try and figure out what was left out of the story. It might well be more important than what was actually said.*

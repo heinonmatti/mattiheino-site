@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: true
-tags: ['o-data-punk-english']
+tags: ['uncategorised']
 wp_guid: "http://mattiheino.com/?p=3423"
 ---
 ![why not add everything mcelreath.PNG](./images/covariates-and-causality/why-not-add-everything-mcelreath.png)

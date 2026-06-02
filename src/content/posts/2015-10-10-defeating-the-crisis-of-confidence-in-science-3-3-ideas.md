@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['impermanence', 'many-labs', 'non-self', 'psychology', 'reproducibility-project', 'science', 'slow-science', 'suffering']
 wp_guid: "http://mattiheino.com/?p=991"
 ---
 [Update 6. March 2016: new figure for the Bayesian RP:P + some minor changes]

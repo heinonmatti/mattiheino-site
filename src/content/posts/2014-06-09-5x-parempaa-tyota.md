@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['tyoskentelytavat']
+tags: ['aikamatkailu', 'paatoksenteko', 'työskentelytavat', 'varautuminen']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=632"
 ---
 Yllätyin iloisesti huomatessani, kuinka paljon käyttökelpoisia ajatuksia sain Heathin veljesten viimeisimmästä kirjasta "Decisive — How to Make Better Choices in Life and Work"\*. Jaottelen alle kolmeen mielivaltaiseen kategoriaan näistä kumpuavia ratkaisevia kysymyksiä, joilla jokainen voi tuunata omaa päätöksentekoarkkitehtuuriaan.

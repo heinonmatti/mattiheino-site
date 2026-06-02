@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['affordance-mapping', 'behaviour-change', 'complexity', 'estuarine-framework', 'interventions']
 wp_guid: "https://mattiheino.com/?p=4746"
 ---
 *I've recently followed with interest Dave Snowden's development of ["Estuarine Mapping", also known as "Affordance Mapping"](https://cynefin.io/wiki/Estuarine_framework). The process is based on a complex systems framework to design and de-risk change initiatives (see link in the end of this post). After taking part in training sessions and facilitating some mapping exercises with groups, I found myself in want of a metaphor that didn't require an understanding of coastal geography.*

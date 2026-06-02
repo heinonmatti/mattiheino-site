@@ -2,11 +2,11 @@
 title: "Pandemia, irtikytkeytymiskyvykkyys ja mitä sitten?"
 description: "Voimmeko lyödä yhteiskunnan verran vetoa, että pandemiat talttuvat koronakriisissä käytetyin keinoin?"
 published: 2021-06-28
-lang: en
+lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['covid-19', 'irtikytkeytymiskyvykkyys', 'varautuminen']
 wp_guid: "https://mattiheino.com/?p=4072"
 ---
 *This post lays out, in a nutshell, why I care about pandemics and how I think we should reasonably treat them.*

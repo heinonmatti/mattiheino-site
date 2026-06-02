@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: true
-tags: ['o-data-punk-english']
+tags: ['uncategorised']
 wp_guid: "http://mattiheino.com/?p=2542"
 ---
 The field of psychology hit a critical mass in the 2010s, when fraud scandals coalesced with extrasensory perception and an increased awareness of a dodgy research practices (see [here](https://osf.io/rfmy3/) if this is news to you). Now, transparency, openness and reproducibility are becoming recognised as necessary elements of science: the Transparency  and Openness Promotion (TOP) [guidelines](https://www.theguardian.com/science/head-quarters/2015/jun/25/the-first-imperative-science-that-isnt-transparent-isnt-science) are already supported by over 700 journals. In Finland, the Ministry of Education and Culture set some [ambitious open science goals](http://openscience.fi/about) for the period 2014-2017.

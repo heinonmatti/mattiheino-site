@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['data-visualisation', 'r', 'testing', 'tools', 'transparency']
 wp_guid: "http://mattiheino.com/?p=3584"
 ---
 *This post summarises what I wanted to say with a recent [paper](https://www.tandfonline.com/doi/full/10.1080/21642850.2019.1646136) published in Health Psychology and Behavioural Medicine, which includes an RMarkdown [website supplement](https://heinonmatti.github.io/baseline-visu/) with code. Related slideshow and a video walkthrough is available [here](https://mattiheino.com/2018/09/04/tools-for-communicating/). Note: If it's not obvious, These are my opinions as the first author, and may or may not be shared with collaborators who are nice people and surely wouldn't use such foul language in public.*

@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: true
-tags: ['ajattelu-ja-paatoksenteko']
+tags: ['ajattelu-ja-päätöksenteko']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=941"
 ---
 > Uutiset tiedeuutisten todenperäisyydestä ovat suuresti liioiteltuja (p<0,05).

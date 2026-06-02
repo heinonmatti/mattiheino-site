@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['kayttaytymisarkkitehtuuri']
+tags: ['antihauras', 'käyttäytymisarkkitehtuuri', 'oppiminen', 'paatoksenteko', 'tiedon-homehtuminen', 'tiedon-vakavuus', 'tuhoutumattomuuden-tiella']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=406"
 ---
 *English summary: In this post I ponder about what leads to growth. I argue that one ought to learn by basing the learning on a solid foundation, without taking knowledge too seriously. I also posit, that if the doing leads to many potentially useful paths, being wrong about any single thing is not too consequential. Finally, to hedge against total ruin, "one should not spend their life eating the menu".*

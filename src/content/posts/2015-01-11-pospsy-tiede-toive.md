@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['terveyspsykologia']
+tags: ['oikotiet-onneen', 'positiivinen-psykologia', 'terveyspsykologia', 'tiede-ja-raivo']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=814"
 ---
 Osallistuin syksyllä Suomen ensimmäiselle yliopistotasoiselle positiivisen psykologian kurssille, sekä tietääkseni ensimmäiselle MOOC-formaatin (Massive Open Online Course) kurssille samasta aiheesta. Ensimmäisestä oli vastuussa Helsingin avoin yliopisto, jälkimmäisestä Berkeleyn yliopisto. Kokemus oli mielenkiintoinen self-help kirjallisuutta valtavat määrät viimeisen 10 vuoden aikana kuluttaneelle (ja suureen osaan pettyneelle) osallistujalle. Alla esittelen lyhyesti, mitä positiivisella psykologialla tarkoitetaan ja mitä usein jätetään kertomatta.

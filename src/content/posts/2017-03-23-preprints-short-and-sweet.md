@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['publishing', 'science', 'slides']
 wp_guid: "http://mattiheino.com/?p=2868"
 ---
 ![preprints_eff](./images/preprints-short-and-sweet/preprints_eff.jpg) Photo courtesy of [Nelli Hankonen](https://twitter.com/NHankonen)

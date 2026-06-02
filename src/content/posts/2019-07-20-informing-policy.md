@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['complex-systems', 'complexity', 'evidence-based-policy', 'scientific-methodology']
 wp_guid: "http://mattiheino.com/?p=3577"
 ---
 *In this post, I vent about anti-interdisciplinarity, introduce some basic perspectives of complexity science, and wonder whether decisions on experimental design actually lead us to end up in a worse place than where we were, before we decided to use experimental evidence to inform social policy.*

@@ -5,19 +5,17 @@ import { cleanSlug } from '../lib/slug';
 
 const items = await allLive();
 
-// Topic chips from tags present in live content. At real import we may switch
-// this to the ~8 WP categories instead of the long-tail of 213 tags.
+// Topic chips: every tag actually attached to a live post, sorted by use.
 const tagCounts = new Map<string, number>();
 for (const e of items) for (const t of e.data.tags ?? []) tagCounts.set(t, (tagCounts.get(t) ?? 0) + 1);
 const tags = [...tagCounts.entries()].sort((a, b) => b[1] - a[1]).map(([t]) => t);
 
-// Server-rendered minimal row data; no JS for dates (no per-row date shown).
 const rows = items.map((e) => ({
   id: e.id,
   href: `/${e.collection}/${cleanSlug(e.id)}/`,
   title: e.data.title,
+  summary: e.data.description,
   lang: e.data.lang as 'en' | 'fi',
-  kind: e.collection === 'posts' ? 'research' : 'applied',
   tags: e.data.tags ?? [],
 }));
 ---
@@ -30,8 +28,11 @@ const rows = items.map((e) => ({
     <div class="lh-pane" data-intro="en" data-dim="0">
       <span class="lbl">English</span>
       <p>
-        This is a blog about behaviour change science and complex systems –
-        in preparedness, health and well-being. Scholarly work is on my
+        This is a blog about behaviour change science and complex systems
+        in preparedness, health and well-being.
+      </p>
+      <p>
+        Scholarly work is on my
         <a href="https://scholar.google.fi/citations?hl=en&user=jrDugIgAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar profile</a>.
         Reach me by email at matti.tj.heino @ this domain (i.e.
         mattiheino.com). You can also find me
@@ -50,6 +51,8 @@ const rows = items.map((e) => ({
       <p>
         Tämä on blogi käyttäytymismuutostieteestä ja kompleksisista
         järjestelmistä – varautumisessa, terveydessä ja hyvinvoinnissa.
+      </p>
+      <p>
         Tutkimusartikkelit löytyvät
         <a href="https://scholar.google.fi/citations?hl=en&user=jrDugIgAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar -profiilistani</a>.
         Tavoitat minut sähköpostitse osoitteesta matti.tj.heino @ tämä
@@ -74,14 +77,6 @@ const rows = items.map((e) => ({
         <button type="button" class="lh-pill" data-lang="fi" data-on="0">Suomeksi</button>
       </div>
     </div>
-    <div class="lh-filter-row">
-      <span class="lh-filter-lbl">Kind</span>
-      <div class="lh-lang" role="group" aria-label="Kind">
-        <button type="button" class="lh-pill" data-kind="all" data-on="1">All</button>
-        <button type="button" class="lh-pill" data-kind="research" data-on="0">Research pieces</button>
-        <button type="button" class="lh-pill" data-kind="applied" data-on="0">Applied musings</button>
-      </div>
-    </div>
     <button type="button" class="lh-fold" id="topicFold" aria-expanded="false">
       <span class="lh-fold-chev" aria-hidden="true">›</span>
       Browse by topic
@@ -101,20 +96,21 @@ const rows = items.map((e) => ({
     }
   </div>
 
-  <p class="lh-section-lbl">writing · newest first</p>
-
   <ul class="lh-list" id="postlist">
     {
       rows.map((r) => (
         <li
           class="lh-item"
           data-lang={r.lang}
-          data-kind={r.kind}
           data-tags={r.tags.join('|')}
           data-href={r.href}
         >
-          <a class="lh-ttl" href={r.href}>{r.title}</a>
-          {r.lang === 'fi' && <span class="lh-fi-tag"> · Suomeksi</span>}
+          <div class="lh-row">
+            <a class="lh-ttl" href={r.href}>{r.title}</a>
+            <button type="button" class="lh-x" data-open="0"
+                    aria-expanded="false" aria-label="Show summary">+</button>
+          </div>
+          <p class="lh-sum-inline" hidden>{r.summary}</p>
         </li>
       ))
     }
@@ -134,7 +130,6 @@ const rows = items.map((e) => ({
     const fiPane = document.querySelector('[data-intro="fi"]');
 
     let lang = 'all';
-    let kind = 'all';
     const activeTags = new Set();
 
     function setPanes() {
@@ -147,10 +142,9 @@ const rows = items.map((e) => ({
       let visible = 0;
       for (const it of items) {
         const okLang = lang === 'all' || it.dataset.lang === lang;
-        const okKind = kind === 'all' || it.dataset.kind === kind;
         const tags = (it.dataset.tags || '').split('|').filter(Boolean);
         const okTag = activeTags.size === 0 || tags.some((t) => activeTags.has(t));
-        const show = okLang && okKind && okTag;
+        const show = okLang && okTag;
         it.hidden = !show;
         if (show) visible++;
       }
@@ -168,23 +162,14 @@ const rows = items.map((e) => ({
       });
     });
 
-    filters.querySelectorAll('[data-kind]').forEach((btn) => {
-      btn.addEventListener('click', () => {
-        kind = btn.dataset.kind;
-        filters.querySelectorAll('[data-kind]').forEach((b) => {
-          b.dataset.on = b === btn ? '1' : '0';
-        });
-        apply();
-      });
-    });
-
     const fold = document.getElementById('topicFold');
     const chips = document.getElementById('topicChips');
     if (fold && chips) {
       fold.addEventListener('click', () => {
         const open = fold.getAttribute('aria-expanded') === 'true';
         fold.setAttribute('aria-expanded', open ? 'false' : 'true');
-        chips.hidden = open;
+        if (open) chips.setAttribute('hidden', '');
+        else chips.removeAttribute('hidden');
       });
     }
 
@@ -199,6 +184,20 @@ const rows = items.map((e) => ({
         });
       });
     }
+
+    list.querySelectorAll('.lh-x').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const open = btn.dataset.open === '1';
+        btn.dataset.open = open ? '0' : '1';
+        btn.setAttribute('aria-expanded', open ? 'false' : 'true');
+        btn.textContent = open ? '+' : '–';
+        const sum = btn.closest('.lh-item').querySelector('.lh-sum-inline');
+        if (sum) {
+          if (open) sum.setAttribute('hidden', '');
+          else sum.removeAttribute('hidden');
+        }
+      });
+    });
 
     const random = document.getElementById('randomBtn');
     if (random) {

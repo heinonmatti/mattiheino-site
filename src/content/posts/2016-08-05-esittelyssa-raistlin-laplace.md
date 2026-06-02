@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['ajattelu-ja-paatoksenteko']
+tags: ['ajattelu-ja-päätöksenteko', 'epaluotettavat-ennusteet', 'epistemologinen-meluyliherkkyys', 'raistlin-laplace', 'tiede-ja-raivo']
 wp_guid: "http://mattiheino.com/?p=1664"
 ---
 [*See English version [here](http://mattiheino.com/2016/08/05/introducing-raistlin-laplace/).*]

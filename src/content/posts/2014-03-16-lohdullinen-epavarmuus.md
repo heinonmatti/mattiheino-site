@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['ajattelu-ja-paatoksenteko']
+tags: ['ajattelu-ja-päätöksenteko', 'antihauras', 'epaluotettavat-ennusteet', 'negatiivinen-kyvykkyys', 'paatoksenteko', 'tuhoutumattomuuden-tiella', 'varautuminen']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=516"
 ---
 *English summary: To manage living in an uncertain world, there's a threefold technique also summarised [here](http://www.epmchannel.com/wp-content/uploads/2012/05/MIT-Why-Forecasts-Fail-and-What-to-Do-Instead.pdf) (see reading list in the end of this post for more on the subject). A quote to follow: "By all means make forecasts — just don't believe them".*

@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['ajattelu-ja-paatoksenteko']
+tags: ['ajattelu-ja-päätöksenteko', 'arkipaska', 'selittamattomat-ilmiot', 'tietoisuustaidot']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=301"
 ---
 *English summary: we're drawn to pay attention to weird things, because they're weird and thus potentially meaningful in some evolutionary sense. But, on the contrary, the "ordinary" things are almost invariably more meaningful to us in an environment, where pseudo-information runs rampant. I make a case for wondering about the "ordinary" stuff, and concentrating less on the things that seem amazing/new/sensational.*

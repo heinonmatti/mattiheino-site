@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['behaviour-change', 'complex-systems', 'complexity', 'health-behavior', 'recurrence-quantification']
 wp_guid: "http://mattiheino.com/?p=3648"
 ---
 *These are slides of a talk given at the Aalto University Complex Systems seminar. Contrasts two views to changing behaviour; the pathway view and the complexity view, the latter being at its infancy. Presents some Secret Analysis Arts of Recurrence, which [Fred Hasselman](https://twitter.com/fredhasselman) doesn't want you to know about. Includes links to resources. If someone perchance saw my mini-moocs ([1](https://mattiheino.com/2018/10/25/naming-assumptions/), [2](https://mattiheino.com/2018/09/04/tools-for-communicating/)) and happened to find them useful, drop me a line and I'll make one of this.*

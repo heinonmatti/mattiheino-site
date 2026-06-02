@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['averages', 'determinants', 'interventions', 'l-homme-moyen']
 wp_guid: "http://mattiheino.com/?p=3497"
 ---
 *In this post, I present a property of averages I found surprising. Undoubtedly this is self-evident to statisticians and people who can think multi-variately, but personally I needed to see it to get a grasp of it. If you're a researcher, make sure you do the **[single-item quiz](https://goo.gl/forms/u6ATv6dhZbnUsccx2)** before reading, to see how well your intuitions compare to those of others!*

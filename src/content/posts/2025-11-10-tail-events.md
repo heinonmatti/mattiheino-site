@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['complex-systems', 'complexity', 'decision-making', 'preparedness', 'risk-management']
 wp_guid: "https://mattiheino.com/?p=4837"
 ---
 ***Context:*** *This post outlines a manuscript in preparation and exhibits some of its visualisations, partly also presented at the European Public Health Conference (November 2025). If a blog format isn't your poison, you can also see* *[this video](https://youtu.be/j3G8X1nCcnU)* *or* *[this one-pager](https://drive.google.com/uc?export=download&id=1DRFi-fA3ImKE6ewjtaE8F_sqvDnm0wD2)* *(conference poster).*

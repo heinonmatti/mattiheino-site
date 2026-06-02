@@ -6,7 +6,7 @@ lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['kayttaytymisarkkitehtuuri']
+tags: ['hyvantahtoisuus', 'käyttäytymisarkkitehtuuri', 'merkitys', 'oikotiet-onneen', 'onnellisuus', 'varautuminen']
 wp_guid: "http://blogs.helsinki.fi/hema/?p=848"
 ---
 Kiinnostuin psykologiasta alun perin, koska halusin tietää, mikä ihmisen tekee onnelliseksi. Minua kiinnosti myös, miksi jotkut ulkopuolisen silmin yltäkylläistä elämää viettävät ihmiset voivat olla hyvin onnettomia, vaikka onnellisuuden luulisi olevan kaikkien äärimmäinen päämäärä. Pohdin alla, mitä onnellisuudesta ajattelen tällä hetkellä.

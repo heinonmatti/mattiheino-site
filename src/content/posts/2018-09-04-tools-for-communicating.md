@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['r', 'science', 'scientific-publishing', 'tools', 'transparency']
 wp_guid: "http://mattiheino.com/?p=3512"
 ---
 ![presen eka slide](./images/tools-for-communicating/presen-eka-slide.png)

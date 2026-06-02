@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['data-analysis', 'interventions', 'philosophy-of-science']
 wp_guid: "http://mattiheino.com/?p=3074"
 ---
 *In the post-replication-crisis world, people are increasingly arguing, that even applied people should actually know what they're doing when they do what they call science. In this post I expand upon some points I made in [these slides](https://mattiheino.com/2017/05/01/evaluating-intervention-program-theories/) about the philosophy of science behind hypothesis testing in interventions.*

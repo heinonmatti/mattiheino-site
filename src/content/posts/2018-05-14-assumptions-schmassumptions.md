@@ -6,7 +6,7 @@ lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
-tags: ['o-data-punk-english']
+tags: ['complexity', 'interventions', 'modelling', 'philosophy-of-science']
 wp_guid: "http://mattiheino.com/?p=3479"
 ---
 *I organised a mini-seminar in Cambridge (ad below), relating to compatibility of theories and models of change. Please find my slides below, or download them [here](https://drive.google.com/file/d/1rQe-Ox2_1M-xhHM-cHQdMbQYyyOaksuN/view?usp=sharing).*
