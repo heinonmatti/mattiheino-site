@@ -1,12 +1,24 @@
 ---
 // Link-through to the existing Listmonk signup at news.mattiheino.com.
 // No embedded form in v1 (keeps this site zero-JS).
+interface Props {
+  lang?: 'en' | 'fi';
+}
+const { lang = 'en' } = Astro.props;
+const copy = lang === 'fi'
+  ? {
+      kicker: 'Kerro kirjekyyhkyille, mistä sinut löytää',
+      body: 'Saat ensimmäisenä tiedon uusista julkaisuista ja muista kuulumisista.',
+      button: 'Tilaa',
+    }
+  : {
+      kicker: 'Tell the pigeons where to find you',
+      body: 'Get notified by email about new posts or other developments.',
+      button: 'Subscribe',
+    };
 ---
 <aside class="newsletter-cta">
-  <p class="cta-kicker">Stay in the loop</p>
-  <p class="cta-body">
-    Occasional notes on complex systems, behaviour change, and civil
-    preparedness &ndash; straight to your inbox.
-  </p>
-  <a class="cta-button" href="https://news.mattiheino.com/">Subscribe</a>
+  <p class="cta-kicker">{copy.kicker}</p>
+  <p class="cta-body">{copy.body}</p>
+  <a class="cta-button" href="https://news.mattiheino.com/">{copy.button}</a>
 </aside>
