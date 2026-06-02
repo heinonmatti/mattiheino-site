@@ -11,22 +11,15 @@ const tagCounts = new Map<string, number>();
 for (const e of items) for (const t of e.data.tags ?? []) tagCounts.set(t, (tagCounts.get(t) ?? 0) + 1);
 const tags = [...tagCounts.entries()].sort((a, b) => b[1] - a[1]).map(([t]) => t);
 
-// Pre-compute the date stack for each row (server-rendered; no JS for dates).
-const rows = items.map((e) => {
-  const d = e.data.published;
-  return {
-    id: e.id,
-    href: `/${e.collection}/${cleanSlug(e.id)}/`,
-    title: e.data.title,
-    summary: e.data.description,
-    lang: e.data.lang as 'en' | 'fi',
-    kind: e.collection === 'posts' ? 'research' : 'applied',
-    tags: e.data.tags ?? [],
-    day: String(d.getDate()).padStart(2, '0'),
-    mo: d.toLocaleDateString('en-GB', { month: 'short' }),
-    yr: d.getFullYear(),
-  };
-});
+// Server-rendered minimal row data; no JS for dates (no per-row date shown).
+const rows = items.map((e) => ({
+  id: e.id,
+  href: `/${e.collection}/${cleanSlug(e.id)}/`,
+  title: e.data.title,
+  lang: e.data.lang as 'en' | 'fi',
+  kind: e.collection === 'posts' ? 'research' : 'applied',
+  tags: e.data.tags ?? [],
+}));
 ---
 <Base title="Matti T.J. Heino – … And Out Come the Systems" bare>
   <div class="lh-hero-head">
@@ -120,19 +113,8 @@ const rows = items.map((e) => {
           data-tags={r.tags.join('|')}
           data-href={r.href}
         >
-          <div class="lh-row">
-            <span class="lh-dt">{r.day} {r.mo}<span class="yr">{r.yr}</span></span>
-            <div class="lh-ttl-wrap">
-              <a class="lh-ttl" href={r.href}>{r.title}</a>
-              <span class="lh-meta">
-                {r.kind === 'research' ? 'Research piece' : 'Applied musing'}
-                {r.lang === 'fi' && <><span class="dot">·</span><span class="fi">Suomeksi</span></>}
-              </span>
-            </div>
-            <button type="button" class="lh-x" data-open="0"
-                    aria-expanded="false" aria-label="Show summary">+</button>
-            <p class="lh-sum-inline" hidden>{r.summary}</p>
-          </div>
+          <a class="lh-ttl" href={r.href}>{r.title}</a>
+          {r.lang === 'fi' && <span class="lh-fi-tag"> · Suomeksi</span>}
         </li>
       ))
     }
@@ -217,17 +199,6 @@ const rows = items.map((e) => {
         });
       });
     }
-
-    list.querySelectorAll('.lh-x').forEach((btn) => {
-      btn.addEventListener('click', () => {
-        const open = btn.dataset.open === '1';
-        btn.dataset.open = open ? '0' : '1';
-        btn.setAttribute('aria-expanded', open ? 'false' : 'true');
-        btn.textContent = open ? '+' : '–';
-        const sum = btn.parentElement.querySelector('.lh-sum-inline');
-        if (sum) sum.hidden = open;
-      });
-    });
 
     const random = document.getElementById('randomBtn');
     if (random) {
