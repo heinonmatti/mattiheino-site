@@ -7,7 +7,7 @@ vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
 tags: ['attractor-landscapes', 'attractors', 'behaviour-change', 'bread-vs-fruit-salad', 'complex-systems', 'complexity', 'non-linearity', 'psychology']
-wp_guid: "https://mattiheino.com/?p=4808"
+wp_guid: "http://mattiheino.com/?p=4808"
 ---
 [![](./images/fruit-salad/image.png)](https://mattiheino.wordpress.com/wp-content/uploads/2025/05/image.png)
 

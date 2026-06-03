@@ -7,7 +7,7 @@ vetting_status: pending
 migration_source: mattiheino-wp
 draft: true
 tags: ['uncategorised']
-wp_guid: "https://mattiheino.com/?p=4624"
+wp_guid: "http://mattiheino.com/?p=4624"
 ---
 [UNDER CONSTRUCTION: I'm testing whether I can mirror materials from the [Citizen Shield Project](https://citizenshield.fi/) unto this page]
 

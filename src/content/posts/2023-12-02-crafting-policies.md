@@ -7,7 +7,7 @@ vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
 tags: ['complexity', 'decision-making', 'development', 'future', 'interventions', 'policy', 'society', 'uncertainty']
-wp_guid: "https://mattiheino.com/?p=4470"
+wp_guid: "http://mattiheino.com/?p=4470"
 ---
 [![](./images/crafting-policies/dalle-illustration-for-crafting-policies.png)](https://mattiheino.com/wp-content/uploads/2023/12/dalle-illustration-for-crafting-policies.png)
 

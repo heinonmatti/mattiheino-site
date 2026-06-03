@@ -7,7 +7,7 @@ vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
 tags: ['behaviour-change', 'behavioural-medicine', 'complex-systems', 'complexity', 'health-psychology', 'interventions', 'paper', 'slides', 'video']
-wp_guid: "https://mattiheino.com/?p=4146"
+wp_guid: "http://mattiheino.com/?p=4146"
 ---
 *This is an introductory post about *[this paper](https://www.mdpi.com/2076-328X/11/5/77)**. *The paper introduces to the object of study in "behaviour change science", i.e. complex systems – which include most human systems from individuals to communities and nations.*
 

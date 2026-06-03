@@ -26,6 +26,7 @@ from pathlib import Path
 
 from lib.categories import categories_to_tags, load_mapping
 from lib.dead_images import DeadImageRow, write_worksheet
+from lib.guid import feed_guid
 from lib.html_to_md import sweep_shortcodes, to_markdown
 from lib.images import (
     GDRIVE_FOLDER, MEDIA_ROOT, build_gdrive_index, build_media_index,
@@ -78,7 +79,7 @@ def _frontmatter(item: WPItem, lang: str, tags: list[str], collection: str, draf
         "migration_source: mattiheino-wp",
         f"draft: {'true' if draft else 'false'}",
         f"tags: [{', '.join(repr(t) for t in tags)}]",
-        f'wp_guid: "{item.guid}"',
+        f'wp_guid: "{feed_guid(item.guid)}"',
         "---",
         "",
     ]

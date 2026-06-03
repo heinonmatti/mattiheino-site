@@ -7,7 +7,7 @@ vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
 tags: ['covid-19', 'käyttäytymisarkkitehtuuri']
-wp_guid: "https://mattiheino.com/?p=4239"
+wp_guid: "http://mattiheino.com/?p=4239"
 ---
 English summary: *This post outlines two key points missing from Finnish public discussion in 2023. It was originally published on January* *16*, *and has been audited for its continuing relevance on August 31. The main scientific points are made [here](https://royalsociety.org/-/media/policy/projects/impact-non-pharmaceutical-interventions-on-covid-19-transmission/covid-19-examining-the-effectiveness-of-non-pharmaceutical-interventions-executive-summary.pdf) (non-pharmaceutical interventions like masks work, particularly when they're combined with other measures; see text for explanation of non-linear compounding), [here](https://doi.org/10.1016/j.lanepe.2022.100574) (mass testing can end the pandemic), [here](https://doi.org/10.1038/s41586-022-05398-2) (international consensus we should not let the pandemic run amok), [here](https://www.nature.com/articles/s41579-022-00846-2) (long covid is a biological disease) and [here](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)02489-8/fulltext) (novel pathogens call for a swift and prudent elimination approach).*
 

@@ -7,7 +7,7 @@ vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
 tags: ['behaviour-change', 'complexity', 'interventions', 'sense-making', 'training']
-wp_guid: "https://mattiheino.com/?p=4512"
+wp_guid: "http://mattiheino.com/?p=4512"
 ---
 *Due to frequent misconceptions about the topic, I wanted to outline a via negativa description of this thing called behaviour change science: in other word*s, what is it not*?* *This is part of a series of posts clarifying the perspective I take in instructing* *[a virtual course on behaviour change in complex systems](https://necsi.edu/complex-social-psychological-systems)* *at the New England Complex Systems Institute (NECSI). The course mixes behaviour change with complex systems science along with practical collaboration tools for making sense of the world in order to* *act in it.*
 

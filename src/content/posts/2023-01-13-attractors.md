@@ -7,7 +7,7 @@ vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
 tags: ['attractors', 'behaviour-change', 'complex-systems', 'complexity', 'covid-19', 'risk-management']
-wp_guid: "https://mattiheino.com/?p=4218"
+wp_guid: "http://mattiheino.com/?p=4218"
 ---
 Back in 2020, our research group was delivering the last of five symposia included in a project called [Behaviour Change Science and Policy (BeSP)](http://www.mattiheino.com/besp). I was particularly excited about this one because the topic was complexity, and the symposia series brought together researchers and policy makers interested in improving the society – without making things worse by assuming an overly narrow view of the world.
 

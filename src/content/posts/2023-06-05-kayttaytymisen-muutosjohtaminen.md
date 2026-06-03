@@ -7,7 +7,7 @@ vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
 tags: ['ajattelu-ja-päätöksenteko', 'käyttäytymisarkkitehtuuri', 'kayttaytymisen-muutos', 'kayttaytymisen-muutosjohtaminen', 'paatoksenteko', 'työskentelytavat']
-wp_guid: "https://mattiheino.com/?p=4314"
+wp_guid: "http://mattiheino.com/?p=4314"
 ---
 *Kirjoitus tiivistää artikkelissa [Itsekontrolli on yhteisöponnistus: Systeemisiä näkökulmia käyttäytymisen muutokseen](https://content-webapi.tuni.fi/proxy/public/2022-09/muutostentiet_heino-hankonen_v4.pdf) esiteltyjä perusajatuksia käyttäytymisen ymmärtämisestä ja muuttamisesta. Kannustan aiheesta kiinnostuneita tutustumaan Sosten julkaisuun [Muutosten tiet kietoutuvat yhteen](https://www.soste.fi/ajankohtaista/sosten-julkaisut/muutosten-tiet-kietoutuvat-yhteen/), jossa artikkeli ilmestyi.* *Perinteisen muutosjohtamisen ja kompleksisuuden yhteyksistä ja ristiriidoista kiinnostuneille suosittelen *keskustelukumppanini*, pitkän linjan muutosjohtaja Gary Wongin esityksiä ([1](https://www.youtube.com/watch?v=KE1RYBLRnGo), [2](https://www.youtube.com/watch?v=xI4sWoGQ3EM)).*
 

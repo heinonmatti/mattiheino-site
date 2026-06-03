@@ -7,7 +7,7 @@ vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
 tags: ['covid-19', 'irtikytkeytymiskyvykkyys', 'varautuminen']
-wp_guid: "https://mattiheino.com/?p=4072"
+wp_guid: "http://mattiheino.com/?p=4072"
 ---
 *This post lays out, in a nutshell, why I care about pandemics and how I think we should reasonably treat them.*
 

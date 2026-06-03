@@ -7,7 +7,7 @@ vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
 tags: ['ennakointi', 'hairiokysynta', 'käyttäytymisarkkitehtuuri', 'kokemusasiantuntijat-politiikkatoimessa', 'kompleksiset-jarjestelmat', 'pitkittynyt-koronatauti', 'terveydenhuolto']
-wp_guid: "https://mattiheino.com/?p=4482"
+wp_guid: "http://mattiheino.com/?p=4482"
 ---
 ![](./images/palvelupolut/image.png)
 > "Olen long covidin vuoksi lähes työkyvytön. Haluaisin ja voisin olla osan viikosta töissä, mutta aika ja voimat menevät byrokratiaan ja työterveydessä käymiseen. Työterveydessä ei ole yli kuukauden aikana saatu aikaan asianmukaista diagnoosia, selvitetty toivomaani osasairauspäivärahaa, eikä ole annettu sairauteeni hoitoa tai edes neuvontaa. Työterveyslääkäri ilmoitti, että minulla on joko mielenterveysongelmia tai olen työkykyinen. Hän uhkasi, että jos en saa psykiatrilta mielenterveysdiagnoosia, joudun maksamaan myös aiempia sairauspäivärahoja takaisin työpaikalle. Nyt on sitten diagnoosina määrittämätön mielialahäiriö. Long covidin oireet on tulkittu mielialaoireiksi."
