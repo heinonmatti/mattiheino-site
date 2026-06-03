@@ -11,7 +11,8 @@
     "build": "astro build",
     "postbuild": "pagefind --site dist",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "sync:msm-redirects": "node scripts/sync-msm-redirects.mjs"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.18",
