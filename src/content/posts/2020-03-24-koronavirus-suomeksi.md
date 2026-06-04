@@ -2,7 +2,7 @@
 title: "Suomenkielisiä työkaluja COVID-19 taisteluun; yksilöille, yrityksille ja päätöksentekijöille"
 description: "Kootut suomenkieliset lähteet koronavirus-pandemiaa vastaan taistelemiseen."
 published: 2020-03-24
-lang: en
+lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false

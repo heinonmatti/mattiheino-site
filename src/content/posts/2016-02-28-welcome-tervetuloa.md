@@ -62,7 +62,6 @@ Nota bene: I instruct an[online course for the New England Complex Systems Insti
 - [Coronavirus, lifestyle diseases and the Shadow Mean](https://mattiheino.com/2020/03/01/shadow-mean/)
 - [CARMA: Syllabus for an “Everything I wasn’t told during my master’s degree” course](https://mattiheino.com/2019/09/04/carma/)
 - [Networks in social and other sciences](https://mattiheino.com/2019/08/27/networks-in-social-and-other-sciences/)
-- [Pathways and complexity in behaviour change research](https://mattiheino.com/2019/08/12/pathways-and-complexity/)
 - [Why you should share Data Nudes instead of just Shitty Tables](https://mattiheino.com/2019/07/28/shitty-tables/)
 - [Randomised experiments (mis?)informing social policy in complex systems](https://mattiheino.com/2019/07/20/informing-policy/)
 - [Idiography illustrated: Things you miss when averaging people](http://www.mattiheino.com/idiography-illustrated)

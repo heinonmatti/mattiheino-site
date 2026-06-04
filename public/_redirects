@@ -218,9 +218,6 @@ https://www.motivationselfmanagement.com/*   https://mattiheino.com/applied-musi
 /shitty-tables/  /posts/shitty-tables/  301
 /2019/07/shitty-tables/  /posts/shitty-tables/  301
 /2019/07/28/shitty-tables/  /posts/shitty-tables/  301
-/pathways-and-complexity/  /posts/pathways-and-complexity/  301
-/2019/08/pathways-and-complexity/  /posts/pathways-and-complexity/  301
-/2019/08/12/pathways-and-complexity/  /posts/pathways-and-complexity/  301
 /networks-in-social-and-other-sciences/  /posts/networks-in-social-and-other-sciences/  301
 /2019/08/networks-in-social-and-other-sciences/  /posts/networks-in-social-and-other-sciences/  301
 /2019/08/27/networks-in-social-and-other-sciences/  /posts/networks-in-social-and-other-sciences/  301
@@ -339,3 +336,7 @@ https://www.motivationselfmanagement.com/*   https://mattiheino.com/applied-musi
 /2025/12/infection-spread/  /posts/infection-spread/  301
 /2025/12/13/infection-spread/  /posts/infection-spread/  301
 # === END WP slug redirects ===
+
+# Renamed route: /archive/ -> /library/
+/archive/  /library/  301
+/archive  /library/  301

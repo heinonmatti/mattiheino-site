@@ -179,21 +179,6 @@ img { max-width: 100%; height: auto; display: block; }
                           margin: 0 0.55em;
                           font-style: normal; }
 
-.lh-nav {
-  display: flex;
-  gap: 26px;
-  font-family: var(--font-sans);
-  font-size: 14px;
-  font-weight: 500;
-}
-.lh-nav a {
-  color: var(--ink);
-  text-decoration: none;
-  padding-bottom: 2px;
-  border-bottom: 1px solid transparent;
-}
-.lh-nav a:hover { border-bottom-color: var(--ink); color: var(--ink); }
-
 /* ─────────── Main + foot ─────────── */
 
 .site-main {
@@ -234,62 +219,51 @@ img { max-width: 100%; height: auto; display: block; }
   letter-spacing: 0.2em;
 }
 
-/* ─────────── Home: hero + diptych ─────────── */
+/* ─────────── Home: welcome ─────────── */
 
-.lh-hero-head {
+.lh-welcome {
   text-align: center;
-  margin-bottom: 36px;
+  margin-bottom: 8px;
 }
-.lh-hero-head h1 {
+.lh-avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center 26%;
+  margin: 0 auto 22px;
+  border: 3px solid var(--cream-deep);
+  box-shadow: 0 2px 12px rgba(33, 29, 24, 0.10);
+}
+.lh-langtoggle {
+  display: inline-flex;
+  gap: 8px;
+  margin-bottom: 28px;
+}
+.lh-intro {
+  font-family: var(--font-serif);
+  font-size: 1.08em;
+  line-height: 1.55;
+  color: var(--ink);
+  max-width: 600px;
+  margin-inline: auto;
+  text-align: left;
+}
+.lh-intro[hidden] { display: none; }
+.lh-intro h1 {
   font-family: var(--font-serif);
   font-weight: 500;
   font-size: var(--step-3);
   line-height: 1.0;
   letter-spacing: -0.025em;
-  margin: 0;
+  margin: 0 0 0.5em;
   color: var(--ink);
+  text-align: center;
 }
-.lh-hero-head .slash {
-  color: var(--ink-faint);
-  font-style: italic;
-  font-weight: 400;
-  margin: 0 0.1em;
-}
-
-.lh-diptych {
-  display: grid;
-  grid-template-columns: 1fr 1px 1fr;
-  gap: 48px;
-  margin-top: 8px;
-}
-.lh-diptych .rule { background: var(--rule); width: 1px; }
-.lh-pane {
-  font-family: var(--font-serif);
-  font-size: 1.08em;
-  line-height: 1.55;
-  color: var(--ink);
-  transition: opacity .2s ease;
-  max-width: var(--measure);
-}
-.lh-pane[data-dim="1"] { opacity: 0.38; }
-.lh-pane .lbl {
-  display: block;
-  font-family: var(--font-sans);
-  font-size: 11px;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-  color: var(--ink-faint);
-  margin-bottom: 14px;
-  font-weight: 600;
-}
-.lh-pane p { margin: 0 0 0.85em; }
-.lh-pane p:last-child { margin: 0; }
-.lh-pane em { font-style: italic; color: var(--ink-soft); }
-
-@media (max-width: 720px) {
-  .lh-diptych { grid-template-columns: 1fr; gap: 24px; }
-  .lh-diptych .rule { width: auto; height: 1px; }
-}
+.lh-intro p { margin: 0 0 0.85em; }
+.lh-intro p:last-child { margin: 0; }
+.lh-intro em { font-style: italic; color: var(--ink-soft); }
+.lh-intro a { color: var(--ink); }
 
 /* ─────────── Home: filter row ─────────── */
 
@@ -522,6 +496,31 @@ img { max-width: 100%; height: auto; display: block; }
   letter-spacing: -0.02em;
 }
 
+/* Library back-links: subtle, sans, one above the title and one after the CTA. */
+.post-backlink {
+  display: inline-block;
+  margin-bottom: 16px;
+  font-family: var(--font-sans);
+  font-size: 13px;
+  color: var(--ink-faint);
+  text-decoration: none;
+  letter-spacing: 0.02em;
+}
+.post-backlink:hover { color: var(--red); }
+
+.post-tolibrary {
+  margin: var(--gap) 0 0;
+  text-align: right;
+}
+.post-tolibrary a {
+  font-family: var(--font-sans);
+  font-size: 13px;
+  color: var(--ink-faint);
+  text-decoration: none;
+  letter-spacing: 0.02em;
+}
+.post-tolibrary a:hover { color: var(--red); }
+
 .date-stamp {
   font-family: var(--font-sans);
   font-size: 12px;
@@ -554,6 +553,21 @@ img { max-width: 100%; height: auto; display: block; }
   font-style: italic;
 }
 .post-infographic { margin: var(--gap) 0; }
+
+/* Responsive video embeds (converted WordPress [youtube]/[vimeo]/[embed] shortcodes). */
+.video-embed {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  margin: 1.5em 0;
+}
+.video-embed iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  border-radius: 6px;
+}
 
 .companion-link {
   margin-top: var(--gap);
@@ -664,6 +678,27 @@ img { max-width: 100%; height: auto; display: block; }
   font-weight: 400;
   margin-bottom: 12px;
 }
+
+/* Library topic filter (Pagefind content search sits above) */
+.lib-search { margin: 6px 0 28px; }
+.lib-topics { margin: 0 0 36px; }
+.lib-topics-lbl {
+  display: block;
+  font-family: var(--font-sans);
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+.lib-chips {
+  justify-content: flex-start;
+  max-width: none;
+  margin-bottom: 6px;
+}
+.lib-topics .lh-fold { margin: 6px 0; }
+section[hidden] { display: none; }
 
 /* ─────────── Pagefind search reskin (light touch) ─────────── */
 

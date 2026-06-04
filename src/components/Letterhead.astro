@@ -4,9 +4,9 @@
  *
  * Brand contract: locked in BRAND.md §4. Logo dissolves into --sky,
  * wordmark sets the visual hierarchy, bylines carry the bilingual identity.
- * Only "Library" lives in the nav slot; section navigation (Research
- * pieces / Applied musings) lives in the home page filter row, and full-text
- * search sits inside the Library page.
+ * No nav slot: the Library is reached from the home list and from the
+ * "to the library" links on each post; full-text search sits inside the
+ * Library page.
  */
 import { Image } from 'astro:assets';
 import logo from '../assets/ajatuspaa.jpg';
@@ -29,7 +29,4 @@ import logo from '../assets/ajatuspaa.jpg';
       </span>
     </span>
   </a>
-  <nav class="lh-nav" aria-label="Site">
-    <a href="/archive/">Library</a>
-  </nav>
 </header>

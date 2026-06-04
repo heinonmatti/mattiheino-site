@@ -14,10 +14,10 @@ wp_guid: "http://blogs.helsinki.fi/hema/?p=501"
 Törmäsin aikanaan [Tuhkalapset](http://www.tuhkalapset.fi/fi/)-nimiseen shokkikampanjaan ja jäin miettimään pelon merkitystä käyttäytymisen muutoksessa.
 
 Jos et tunne kampanjaa, puhun siis tästä:
-[youtube http://www.youtube.com/watch?v=LQV9VKuyLf0?rel=0]
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/LQV9VKuyLf0" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 Vuoden 2016 loppupuolella toinen kampanja tähtäsi mobiililaitteiden käyttöön samoin asein:
-[youtube https://www.youtube.com/watch?v=O57kQIpnt4c]
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/O57kQIpnt4c" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 (Huom. Suosittelen vahvasti visionäärinero Kasper Strömmanin [analyysia](http://kasperstromman.com/2016/11/15/varo-helsinkilaista-korppiarmeijaa/) kampanjasta.)
 

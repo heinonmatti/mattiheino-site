@@ -19,7 +19,7 @@ Itsensä henkisestä ja fyysisestä kehittämisestä kiinnostunut ystäväni py
 
 Netissä AlphaBRAIN on saanut paljon näkyvyyttä moniosaaja Joe Roganin hehkutuksesta johtuen. Pikainen googlaus näyttää, kuinka eräs bloggaaja [kertoo](http://nootropicsguy.com/alpha-brain-review-part-2/ " The Nootropics Guy: Testing and Reviewing Nootropics") lähes puolittaneensa "aivojensa iän" ja toinen saavuttaneensa [upean unenlaadun](http://www.pwnfitness.com/2013/06/13/does-alpha-brain-work/ "Pwn Fitness: Your trusted source of information regarding bodybuilding, fitness and supplements"). Tuotteen esittelyvideokin näyttää melkoisen vakuuttavalta:
 
-[youtube http://www.youtube.com/watch?v=f5ifneSt-Xg?feature=player\_embedded]
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/f5ifneSt-Xg" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 Kuulostaa tietenkin hienolta, mutta ikävä kyllä väitteet hyödyistä osoittautuvat tarkemmassa tarkastelussa roskaksi. Siinä nyt ei sinänsä ole mitään uutta, mutta asian tekee huomionarvoiseksi se, että yrityksen itsensä tekemä poikkeuksellisen tieteellinen [tutkimus](https://www.onnit.com/files/Onnit_AlphaBrain_Clinical.pdf "Results from Alpha BRAIN™ Pilot Study: PDF of the poster") näyttäisi tukevan samaa havaintoa. Keskityn alla tuohon mainittuun tutkimukseen - muita tuotteen markkinointikäytössä olevia tutkimuksia on ruodittu [toisaalla](http://www.sciencebasedmedicine.org/alpha-brain-whats-wrong-with-the-supplement-industry/ "Alpha Brain – What’s Wrong with the Supplement Industry").
 

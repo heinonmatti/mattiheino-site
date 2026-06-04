@@ -1,5 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
+import { Image } from 'astro:assets';
+import portrait from '../assets/portrait.png';
 import { allLive } from '../lib/collections';
 import { cleanSlug } from '../lib/slug';
 
@@ -20,13 +22,16 @@ const rows = items.map((e) => ({
 }));
 ---
 <Base title="Matti T.J. Heino – … And Out Come the Systems" bare>
-  <div class="lh-hero-head">
-    <h1>Welcome <span class="slash">/</span> Tervetuloa</h1>
-  </div>
+  <div class="lh-welcome">
+    <Image src={portrait} alt="Matti T.J. Heino" class="lh-avatar" widths={[150, 300]} sizes="150px" />
 
-  <div class="lh-diptych">
-    <div class="lh-pane" data-intro="en" data-dim="0">
-      <span class="lbl">English</span>
+    <div class="lh-langtoggle" role="group" aria-label="Welcome language">
+      <button type="button" class="lh-pill" data-welcome="en" data-on="1">English</button>
+      <button type="button" class="lh-pill" data-welcome="fi" data-on="0">Suomeksi</button>
+    </div>
+
+    <div class="lh-intro" data-intro="en">
+      <h1>Welcome</h1>
       <p>
         This is a blog about behaviour change science and complex systems
         in preparedness, health and well-being.
@@ -45,9 +50,9 @@ const rows = items.map((e) => ({
         where to find you, you'll be first to know about new posts.
       </p>
     </div>
-    <div class="rule"></div>
-    <div class="lh-pane" data-intro="fi" data-dim="0">
-      <span class="lbl">Suomeksi</span>
+
+    <div class="lh-intro" data-intro="fi" hidden>
+      <h1>Tervetuloa</h1>
       <p>
         Tämä on blogi käyttäytymismuutostieteestä ja kompleksisista
         järjestelmistä – varautumisessa, terveydessä ja hyvinvoinnissa.
@@ -120,23 +125,30 @@ const rows = items.map((e) => ({
 
 <script is:inline>
   (() => {
+    // Welcome-language toggle — controls only the welcome text (English default).
+    const wbtns = [...document.querySelectorAll('[data-welcome]')];
+    const intros = {
+      en: document.querySelector('.lh-intro[data-intro="en"]'),
+      fi: document.querySelector('.lh-intro[data-intro="fi"]'),
+    };
+    wbtns.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const w = btn.dataset.welcome;
+        wbtns.forEach((b) => { b.dataset.on = b === btn ? '1' : '0'; });
+        if (intros.en) intros.en.hidden = w !== 'en';
+        if (intros.fi) intros.fi.hidden = w !== 'fi';
+      });
+    });
+
+    // Post list — language filter, topic chips, random, expand.
     const filters = document.getElementById('filters');
     const list = document.getElementById('postlist');
     const empty = document.getElementById('empty');
     if (!filters || !list) return;
 
     const items = [...list.querySelectorAll('.lh-item')];
-    const enPane = document.querySelector('[data-intro="en"]');
-    const fiPane = document.querySelector('[data-intro="fi"]');
-
     let lang = 'all';
     const activeTags = new Set();
-
-    function setPanes() {
-      if (!enPane || !fiPane) return;
-      enPane.dataset.dim = lang === 'fi' ? '1' : '0';
-      fiPane.dataset.dim = lang === 'en' ? '1' : '0';
-    }
 
     function apply() {
       let visible = 0;
@@ -157,7 +169,6 @@ const rows = items.map((e) => ({
         filters.querySelectorAll('[data-lang]').forEach((b) => {
           b.dataset.on = b === btn ? '1' : '0';
         });
-        setPanes();
         apply();
       });
     });

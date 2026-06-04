@@ -1,0 +1,124 @@
+---
+import Base from '../layouts/Base.astro';
+import { allLive, type Item } from '../lib/collections';
+import { cleanSlug } from '../lib/slug';
+
+const all = await allLive();
+const byYear = new Map<number, Item[]>();
+for (const e of all) {
+  const y = e.data.published.getFullYear();
+  if (!byYear.has(y)) byYear.set(y, []);
+  byYear.get(y)!.push(e);
+}
+const years = [...byYear.keys()].sort((a, b) => b - a);
+const fmt = (d: Date) => d.toLocaleDateString('en-GB', { month: 'short', day: 'numeric' });
+
+// Topic chips: every tag on a live post, sorted by use. Top 25 shown; the
+// long tail sits behind a "More topics" fold.
+const tagCounts = new Map<string, number>();
+for (const e of all) for (const t of e.data.tags ?? []) tagCounts.set(t, (tagCounts.get(t) ?? 0) + 1);
+const sortedTags = [...tagCounts.entries()].sort((a, b) => b[1] - a[1]).map(([t]) => t);
+const topTags = sortedTags.slice(0, 25);
+const restTags = sortedTags.slice(25);
+---
+<Base title="Library – Matti T.J. Heino">
+  <h1>Library</h1>
+
+  <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+  <div id="search" class="lib-search"></div>
+  <script is:inline src="/pagefind/pagefind-ui.js"></script>
+  <script is:inline>
+    window.addEventListener('DOMContentLoaded', () => {
+      new PagefindUI({ element: '#search', showSubResults: true });
+    });
+  </script>
+
+  <div class="lib-topics">
+    <span class="lib-topics-lbl">Filter by topic</span>
+    <div class="lh-chips lib-chips">
+      {topTags.map((t) => (
+        <button type="button" class="lh-chip" data-tag={t} data-on="0">{t}</button>
+      ))}
+    </div>
+    {
+      restTags.length > 0 && (
+        <>
+          <button type="button" class="lh-fold" id="moreFold" aria-expanded="false">
+            <span class="lh-fold-chev" aria-hidden="true">›</span>
+            More topics
+          </button>
+          <div class="lh-chips lib-chips" id="moreChips" hidden>
+            {restTags.map((t) => (
+              <button type="button" class="lh-chip" data-tag={t} data-on="0">{t}</button>
+            ))}
+          </div>
+        </>
+      )
+    }
+  </div>
+
+  <div id="libList">
+    {
+      years.map((y) => (
+        <section>
+          <h2>{y}</h2>
+          <ul class="post-list">
+            {byYear.get(y)!.map((e) => (
+              <li data-tags={(e.data.tags ?? []).join('|')}>
+                <a href={`/${e.collection}/${cleanSlug(e.id)}/`}>{e.data.title}</a>
+                <span class="meta"> &middot; {fmt(e.data.published)}</span>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))
+    }
+    <p class="lh-empty" id="libEmpty" hidden>No posts under those topics.</p>
+  </div>
+</Base>
+
+<script is:inline>
+  (() => {
+    const root = document.getElementById('libList');
+    if (!root) return;
+    const chips = [...document.querySelectorAll('.lib-chips .lh-chip')];
+    const items = [...root.querySelectorAll('li')];
+    const sections = [...root.querySelectorAll('section')];
+    const empty = document.getElementById('libEmpty');
+    const active = new Set();
+
+    function apply() {
+      let visible = 0;
+      for (const li of items) {
+        const tags = (li.dataset.tags || '').split('|').filter(Boolean);
+        const show = active.size === 0 || tags.some((t) => active.has(t));
+        li.hidden = !show;
+        if (show) visible++;
+      }
+      for (const sec of sections) {
+        sec.hidden = ![...sec.querySelectorAll('li')].some((li) => !li.hidden);
+      }
+      if (empty) empty.hidden = visible !== 0;
+    }
+
+    chips.forEach((c) =>
+      c.addEventListener('click', () => {
+        const t = c.dataset.tag;
+        const on = c.dataset.on === '1';
+        if (on) { active.delete(t); c.dataset.on = '0'; }
+        else    { active.add(t);    c.dataset.on = '1'; }
+        apply();
+      }),
+    );
+
+    const fold = document.getElementById('moreFold');
+    const more = document.getElementById('moreChips');
+    if (fold && more) {
+      fold.addEventListener('click', () => {
+        const open = fold.getAttribute('aria-expanded') === 'true';
+        fold.setAttribute('aria-expanded', open ? 'false' : 'true');
+        more.hidden = open;
+      });
+    }
+  })();
+</script>

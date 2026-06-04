@@ -2,7 +2,7 @@
 title: "Onnistujan on epäonnistuttava"
 description: "Onnistujan on epäonnistuttava"
 published: 2015-02-04
-lang: en
+lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: true

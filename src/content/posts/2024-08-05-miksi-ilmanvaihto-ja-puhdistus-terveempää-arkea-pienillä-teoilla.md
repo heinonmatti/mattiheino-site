@@ -2,7 +2,7 @@
 title: "Miksi ilmanvaihto ja -puhdistus? Terveempää arkea pienillä teoilla"
 description: "[UNDER CONSTRUCTION: I'm testing whether I can mirror materials from the Citizen Shield Project unto this page]"
 published: 2024-08-05
-lang: en
+lang: fi
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: true

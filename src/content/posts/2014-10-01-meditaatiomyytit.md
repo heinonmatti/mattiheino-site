@@ -15,7 +15,7 @@ Osallistuin tänään Helsingin Avoimen yliopiston positiivisen psykologian kurs
 
 Sanottakoon aivan ensiksi, että olen harrastanut meditaatiota/mindfulnessia viimeiset 15 vuotta muodossa tai toisessa ja viimeiset viitisen vuotta päivittäin; en siis pidä sitä millään muotoa puhtaana roskana tai ajanhukkana. Kuitenkin tapa, jolla aiheesta mediassa puhutaan, on suosion kasvun myötä sukeltanut sameisiin (ja pahanhajuisiin) syvyyksiin. Nostan havainnollistavaksi esimerkiksi tämän videopätkän, joka kiteyttää monta ongelmaa:
 
-[youtube http://www.youtube.com/watch?v=FAcTIrA2Qhk?feature=player\_embedded]
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/FAcTIrA2Qhk" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 ## 1. "Tiede käskee meditoimaan"
 
@@ -27,7 +27,7 @@ Myöskään yhteys neuropsykologisen tutkimuksen löydöksistä käytännön vai
 
 Kun mindfulness ja meditaatio revitään irti siitä filosofisesta kontekstista, jossa ne ovat syntyneet, saattaa syntyä [vakavia seurauksia](http://www.theatlantic.com/health/archive/2014/06/the-dark-knight-of-the-souls/372766/ "For some, meditation has become more curse than cure. Willoughby Britton wants to know why. ").
 
-[vimeo 70483499 w=500 h=281]
+<div class="video-embed"><iframe src="https://player.vimeo.com/video/70483499" title="Vimeo video" loading="lazy" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
 
 Aihepiiriin on paneutunut Willoughby Brittonin tutkimusryhmä projektissa nimeltä "Varieties of Contemplative Experience" (ent. Dark Night Project), jonka [löydökset](http://vimeo.com/18819660 "http://vimeo.com/18819660") pitävät sisällään ajatteluun (minuuden rakenteen hajoaminen, epämiellyttävät hallusinaatiot, vaikeudet keskittyä tai orientoitua ympäristöön, muistiongelmat), tuntemiseen (paniikki, pelkotilat, mania, mielialan heilahtelut) ja kehoon (kiputilat, ei-tahdonalaiset liikkeet) liittyviä ongelmia.
 

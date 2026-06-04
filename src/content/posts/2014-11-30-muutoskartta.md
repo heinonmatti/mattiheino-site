@@ -23,7 +23,7 @@ Muutosteoriat pääosin jakavat käyttäytymisen muutoksen kahteen vaiheeseen: e
 
 Lisäksi konstruaalitasoteorian mukaan, mitä lähempänä jokin asia on, sitä käytännöllisemmin siihen suhtaudutaan – vastaavasti kaukaisempia asioita ajatellaan abstraktimmin. Tätä hahmottaa jaottelu kysymysten "miten teen jotain" (suuri konkretia, läheiset asiat) ja "miksi teen jotain" (pieni konkretia, kaukaiset asiat) välillä. Yksi etäisyyden mitta on aika: on yleensä vähemmän stressaavaa ajatella tekevänsä jotain ensi viikolla kuin heti seuraavana aamuna. Ilmiöllä on hyvät ja huonot puolensa: toisaalta voimme päätyä kuvittelemaan ratkaisevamme ongelmamme "sitten joskus" ja näin varmistaa niiden pysyvyyden kuten Homer alla. Toisaalta voimme myös huijata laiskaa nykyisyyden mieltämme tekemään muutossuunnitelman Tulevaisuuden Minän toteutettavaksi.
 
-[embed]https://www.youtube.com/watch?v=jQvvmT3ab80[/embed]
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/jQvvmT3ab80" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 Juoni on kolmivaiheinen.
 
