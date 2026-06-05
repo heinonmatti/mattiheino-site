@@ -15,7 +15,7 @@ wp_guid: "http://mattiheino.com/?p=3512"
 
 Please find a 14min video walkthrough of the slides (which can be found [here](https://drive.google.com/file/d/1kYYYeQdG4NyLJmpr4fY3oyYvOz85xkj1/view)) below. The site presented in the slides is [here](http://heinonmatti.github.io/baseline-visu), and the tutorial by the most awesome [Lisa DeBruine](https://twitter.com/lisadebruine) is [here](https://debruine.github.io/acadweb/)!
 
-https://www.youtube.com/watch?v=6rJaIRYLSLY
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/6rJaIRYLSLY" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 After the talk, I saw what was probably the best tweet about a presentation of mine ever. For a fleeting moment, I was happy to exist:
 

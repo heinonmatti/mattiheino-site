@@ -27,7 +27,7 @@ Here's a quick test to see if it might be valuable to you. Have a look at this t
 
 I also made a video introduction to the topic. If you're in a rush, you can just run through a [pdf of the slides](https://drive.google.com/uc?export=download&id=1PB2CxutpBkniE0QYTBQiubK0BDB22ycR).
 
-https://youtu.be/fn5g5WgYtLQ
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/fn5g5WgYtLQ" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 If you're in an even bigger rush, the picture below gives a quick synopsis. To find out more, check out [this post](http://www.mattiheino.com/besp). You might also be interested in [What Behaviour Change Science is Not](https://mattiheino.com/2024/04/25/behaviour-change-via-negativa/).
 

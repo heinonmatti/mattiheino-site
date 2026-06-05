@@ -11,7 +11,7 @@ wp_guid: "http://mattiheino.com/?p=3975"
 ---
 I had the opportunity to interview [Fred Hasselman](https://complexity-methods.github.io/), the main architect of *[casnet](https://fredhasselman.com/casnet/): An R toolbox for studying Complex Adaptive Systems and NETworks*. We spoke of how compatible the complex systems perspective is with some methods widely used in social sciences.
 
-https://youtu.be/rut6mdWYA9g
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/rut6mdWYA9g" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 A few notes:
 

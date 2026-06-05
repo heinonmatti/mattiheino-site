@@ -15,7 +15,7 @@ Note: [The next episode](https://youtu.be/kWvalC2at2E) is scheduled to take plac
 
 **S01E01: [Complexity in psychological self-ratings](https://www.youtube.com/watch?v=3bhsEUTBT4Y&feature=youtu.be).**
 
-https://www.youtube.com/watch?v=3bhsEUTBT4Y&feature=youtu.be
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/3bhsEUTBT4Y" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 We discussed Merlijn Olthof's new paper [Complexity in psychological self-ratings: implications for research and practice](https://doi.org/10.1186/s12916-020-01727-2). Links are found in video comments on the YouTube page, but here are some extras:
 

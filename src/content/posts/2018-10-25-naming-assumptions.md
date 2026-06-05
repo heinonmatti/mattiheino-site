@@ -19,6 +19,6 @@ SLIDE DECK:
 
 Mini-MOOC:
 
-https://youtu.be/FW7tCplWbOY
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/FW7tCplWbOY" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 Note: Jan Vanhove thinks we shouldn't  become paranoid with model assumptions; check his related blog post [here](https://janhove.github.io/analysis/2018/04/25/graphical-model-checking)!

@@ -19,7 +19,7 @@ Päätöksentekotutkimuksesta tiedämme, että yksilöinä tilannekuvakysymystä
 
 Voit kokea prosessin katsomalla alla olevan kahden minuutin videon. Huomaatko vastauksesi kysymykseen “Mistä tässä on kyse?” muuttuvan?
 
-https://www.youtube.com/watch?v=Yt3GVbH\_uuE
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/Yt3GVbH_uuE" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 #### **Toimintaympäristöjen luonne**
 

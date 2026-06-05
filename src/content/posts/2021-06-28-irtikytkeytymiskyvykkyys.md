@@ -60,7 +60,7 @@ Kiinnostuneille tutkimusviitteitä alla.
 
 Tässä vielä 3,5 minuuttia pähkinänkuorta siitä, mitä "laipiointi" eliminaatio- / segmentaatiostrategiassa tarkoittaa. Video on pätkä [Arjen Resilienssi -webinaarista](https://blogi.thl.fi/elamaa-koronaviruksen-kanssa-nelja-keinoa-vahvistaa-arjen-resilienssia-pandemiassa/); sanon siinä tartuntojen olevan menossa kohti nollaa, koska tapahtuma oli ennen kesäkuun lopun deltaorgioita.
 
-https://www.youtube.com/watch?v=BG2cvShKpk4
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/BG2cvShKpk4" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 **Lukemistoa:**
 

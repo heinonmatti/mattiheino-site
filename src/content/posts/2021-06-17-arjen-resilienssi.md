@@ -2,7 +2,7 @@
 title: "Self-determined and self-organised: Fighting pandemics on the appropriate scales"
 description: "Empowered individuals may make surprisingly good choices, when you give them the chance and consider the appropriate scale."
 published: 2021-06-17
-lang: fi
+lang: en
 vetting_status: pending
 migration_source: mattiheino-wp
 draft: false
@@ -11,7 +11,7 @@ wp_guid: "http://mattiheino.com/?p=4055"
 ---
 *The video is a Finnish talk I gave as part of a [webinar series](https://thl.fi/fi/web/hyvinvoinnin-ja-terveyden-edistamisen-johtaminen/ajankohtaista/tapahtumat/koronan-yhteiskunnalliset-vaikutukset-webinaarisarja) of the Institute for Health and Welfare (THL). I discuss the three scales of pandemic response: That of a) self-determined individuals, b) self-organised communities and c) governmental strategy choice in aiding these. Related, highly unpolished thoughts in English below.* Slides [here](https://drive.google.com/uc?export=download&id=1ZNKoaobihfRWd3j9KsROe8OqFh0G8Q7m)!
 
-https://youtu.be/WAskvZXBdAI
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/WAskvZXBdAI" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 How should we think about changing people's behaviour to mitigate pandemic threat? The starting point is to consider targets of interventions as complex systems. This means that biopsychosocial determinants such as capability, opportunity and motivation act together to create the current state of a system which is a person; aggregates of individuals define the state of a system which is a household, aggregates of which form a community, a society, and so forth. Each of these systems is of a different size, i.e. scale, and fulfills multiple roles in pandemic response – the redundancy brought about by overlap of functions performed by each element (say, individuals’ social distancing, and a community’s agreement to postpone cultural events to mitigate physical contact) is what largely ensures resilience of a system in crisis situations. In other words, information about intervention targets need to be framed as taking place within multi-level socio-ecological system, where tradeoffs between intervention nuance and scale exist. Figure below depicts this idea, and also underlines the mismatch when a large-scale unit, such as the government, attempts to dictate specifics of how e.g. schools or kindergartens should arrange their safety procedures, instead of acknowledging that “people are experts of their own environment”.
 
