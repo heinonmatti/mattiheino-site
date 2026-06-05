@@ -19,4 +19,4 @@ The spirit of my dissertation is reflected in the [CARMA syllabus](https://matti
 
 ---
 
-[slideshare id=65174344&doc=stateofaffairsehps2016dsm160817-160819211047]
+<div class="slide-embed"><iframe src="https://drive.google.com/file/d/1qyPOQACVeSUaydFtaNRUHaIcFQV99v6U/preview" title="Presentation slides" loading="lazy" allowfullscreen></iframe></div>

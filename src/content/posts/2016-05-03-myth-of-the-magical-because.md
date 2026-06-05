@@ -19,8 +19,6 @@ One study that intrigued me was done in the 70's, and has since gained huge publ
 
 Long story short, I was able to experiment in a within-trial setting of a health psychology intervention. Here's a slideshow adapted from what I presented in the annual conference of the European Health Psychology Society:
 
-[slideshare id=61639428&doc=heinoblog-160503194435&w=429&h=357]
-
 **[No use reasoning with adolescents? A randomised controlled trial comparing persuasive messages](//www.slideshare.net/MatinHeino/no-use-reasoning-with-adolescents-a-randomised-controlled-trial-comparing-persuasive-messages "No use reasoning with adolescents? A randomised controlled trial comparing persuasive messages ")**  from **[Matti Heino](//www.slideshare.net/MatinHeino)**
 
 *Things I'm happy about:*

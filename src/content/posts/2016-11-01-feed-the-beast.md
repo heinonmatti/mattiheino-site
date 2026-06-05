@@ -17,7 +17,7 @@ We had big fun with [Markus Mattsson](https://twitter.com/markus_tm) and Leo Aar
 
 The slides for my talk are here:
 
-[slideshare id=68000836&doc=nutupsychcrisis-161101163916]
+<div class="slide-embed"><iframe src="https://drive.google.com/file/d/0B1e6QwtA-tDVT01Memh3SWtmM0E/preview?resourcekey=0-Pq5yH-SnGfdNRkhEKeKVZQ" title="Presentation slides" loading="lazy" allowfullscreen></iframe></div>
 
 If you're interested in more history and solutions, check out [Felix Schönbrodt](https://twitter.com/nicebread303)'s slides [here](https://osf.io/tajp5/). Some pictures were made adapting code from a wonderful Coursera [MOOC](https://www.coursera.org/learn/statistical-inferences/home/welcome) by [Daniel Lakens](https://twitter.com/lakens). For Bayes, check out [Alexander Etz](https://twitter.com/alxetz)'s [blog](http://alexanderetz.com/).
 

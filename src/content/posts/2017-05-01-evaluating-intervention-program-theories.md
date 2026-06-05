@@ -13,6 +13,6 @@ wp_guid: "http://mattiheino.com/?p=2905"
 
 TLDR: is there a reason, why evaluating intervention program theories shouldn’t follow the process of scientific inference?
 
-[slideshare id=75576062&doc=programtheoryevaluation-170501192220]
+<div class="slide-embed"><iframe src="https://drive.google.com/file/d/0B1e6QwtA-tDVZGlEZkZRYkJyVGs/preview?resourcekey=0-tmquYYYYUVKpGmm-H2cz2w" title="Presentation slides" loading="lazy" allowfullscreen></iframe></div>
 
 ![summary](./images/evaluating-intervention-program-theories/summary.png)

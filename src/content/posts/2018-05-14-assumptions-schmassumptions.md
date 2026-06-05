@@ -11,6 +11,6 @@ wp_guid: "http://mattiheino.com/?p=3479"
 ---
 *I organised a mini-seminar in Cambridge (ad below), relating to compatibility of theories and models of change. Please find my slides below, or download them [here](https://drive.google.com/file/d/1rQe-Ox2_1M-xhHM-cHQdMbQYyyOaksuN/view?usp=sharing).*
 
-[slideshare id=97216356&doc=modelingchangecambridgeshareable-180515210246]
+<div class="slide-embed"><iframe src="https://drive.google.com/file/d/1rQe-Ox2_1M-xhHM-cHQdMbQYyyOaksuN/preview" title="Presentation slides" loading="lazy" allowfullscreen></iframe></div>
 
 ![bsg advert pic](./images/assumptions-schmassumptions/bsg-advert-pic.png)

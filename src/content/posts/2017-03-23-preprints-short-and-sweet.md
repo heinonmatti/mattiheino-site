@@ -21,4 +21,4 @@ UPDATE: There's a new (September 2019) [paper](https://researchintegrityjournal.
 
 ps. if you prefer video, [this](https://www.youtube.com/watch?v=2zMgY8Dx9co) explains things in four minutes :)
 
-[slideshare id=73562658&doc=preprints-170323210454]
+<div class="slide-embed"><iframe src="https://drive.google.com/file/d/16sO7JrfUfkbl_JQmzOG0ZL-5jc23Thx1/preview" title="Presentation slides" loading="lazy" allowfullscreen></iframe></div>

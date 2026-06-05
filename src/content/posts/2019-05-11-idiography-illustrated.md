@@ -13,7 +13,7 @@ wp_guid: "http://mattiheino.com/?p=3561"
 
 (Almost the same presentation with some narration is included in [this thread](https://threadreaderapp.com/thread/1125840462709952515.html), in case you want more explanation.)
 
-[slideshare id=144993337&doc=190508teammeetingwithin-individualstrangephenomena-190511161104]
+<div class="slide-embed"><iframe src="https://drive.google.com/file/d/1lsRtXgjXDVyQd_woLufzvCdyrdG316f5/preview" title="Presentation slides" loading="lazy" allowfullscreen></iframe></div>
 
 Here's one more illustration of why you need the right sampling frequency for whatever it is you study – and the less you know, the denser sampling you need initially. From a paper I'm drafting:
 
