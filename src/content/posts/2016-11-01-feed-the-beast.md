@@ -9,7 +9,7 @@ draft: false
 tags: ['psychology', 'scientific-methodology']
 wp_guid: "http://mattiheino.com/?p=1763"
 ---
-*This is a presentation I held for the young researchers branch of the Finnish Psychological Society. I show how low power and lack of transparency can lead to weird situations, where the published literature con**tains little or no knowledge.*
+*This is a presentation I held for the young researchers branch of the Finnish Psychological Society. I show how low power and lack of transparency can lead to weird situations, where the published literature contains little or no knowledge.*
 
 ![nutu_markuspanorama_cartoonise](./images/feed-the-beast/nutu_markuspanorama_cartoonise.jpg)
 

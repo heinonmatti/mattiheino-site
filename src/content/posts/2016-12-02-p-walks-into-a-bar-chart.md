@@ -59,7 +59,7 @@ Let's look at one more visualisation of the same thing:
 
 ![pcurveplot_quick.gif](./images/p-walks-into-a-bar-chart/pcurveplot_quick.gif) Figure 6. The percentages of "statistically significant" p-values evolving as sample size increases. If the gif doesn't show, you'll find it [here](https://mattiheino.com/wp-content/uploads/2016/12/pcurveplot_quick.gif).
 
-*Aside: when the effect one studies is enormous, sample size naturally matters less. I calculated Cohen’s d for the Asch* 2 *line segment study, and a whopping d = 1.59 emerged. This is surely a very unusual effect size in psychological experiments, and leads to high statistical power even un**der low sample sizes. In such a case, by the logic presented above, one should be extremely cautious of p-values closer to 0.05 than zero.*
+*Aside: when the effect one studies is enormous, sample size naturally matters less. I calculated Cohen’s d for the Asch 2 line segment study, and a whopping d = 1.59 emerged. This is surely a very unusual effect size in psychological experiments, and leads to high statistical power even under low sample sizes. In such a case, by the logic presented above, one should be extremely cautious of p-values closer to 0.05 than zero.*
 
 Understanding all this is vital in interpreting past research. We never know what the data generating system has been (i.e. are p-values extracted from a distribution under the null, or under the alternative), but the data gives us hints about what is more likely. Let us take an example from a social psychology classic, Moscovici’s “Towards a theory of conversion behaviour” 3. The article reviews results, which are then used to support a nuanced theory of minority influence. Low p-values are taken as evidence for an effect.
 

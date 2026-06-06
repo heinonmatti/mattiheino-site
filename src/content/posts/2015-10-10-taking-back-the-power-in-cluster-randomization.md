@@ -21,7 +21,7 @@ Statistical power is the probability of finding an effect of a specified size, *
 
 This doesn't mean the problem is eradicated. In social psychology research, power still seems to be [less than 50%](https://replicationindex.wordpress.com/2015/09/15/replicability-ranking-of-100-social-psychology-departments/). It gets worse in neuroscience: the median power is estimated to be [around 20%](http://www.nature.com/nrn/journal/v14/n5/full/nrn3475.html). So, if an effect is real, you have a 1-in-5 probability of finding it with your test. If you still happen to find the effect, it most probably is grossly overestimated, because when an effect happens to look big just by chance, it crosses the p<0.05 threshold more easily. (See [paper](http://dcscience.net/ioannidis-associations-2008.pdf) by John Ioannidis; "Why Most Discovered True Associations Are Inflated".)
 
-Once more: *if your study is underpowered, you* *not only fail to detect possible effects, but also get unrealistic estimates when you do*.
+Once more: *if your study is underpowered, you not only fail to detect possible effects, but also get unrealistic estimates when you do*.
 
 Recently, I've had the interesting experience of having to figure out how to do sample size calculations in a cluster-randomised setting. This essentially means that you're violating the assumption of independent observations, because your participants come clustered in e.g. classrooms, and people in one classroom tend to be more like each other than people in another classroom.
 

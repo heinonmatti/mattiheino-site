@@ -33,6 +33,6 @@ So, to continue: I don't know how difficult it really is to make such a thing. I
 
 *ps. If I'd do the R Markdown all over again, I'd do more and better plots, as well as put more emphasis on readability, including better annotation of my code and decisions. Some of that code is from when I first learned R, and it's a bit ... rough. (In the last moment before submitting my Master's thesis I decided, in a small state of frustrated fury, to re-do all analyses in R so that I needn't mention SPSS or Excel in the thesis...)*
 
-*pps. In the manuscript, I link to the page via a GitHub Pages url shortener, but provide permalink (web page stored with the* *[Wayback Machine](https://archive.org/web/)**) in the references. We'll see what the journal thinks of that.*
+*pps. In the manuscript, I link to the page via a GitHub Pages url shortener, but provide permalink (web page stored with the [Wayback Machine](https://archive.org/web/)) in the references. We'll see what the journal thinks of that.*
 
 *ppps. There are probably errors lurking around, so please notify me when you see them :)*

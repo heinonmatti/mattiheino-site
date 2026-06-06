@@ -23,7 +23,7 @@ Länsimaisessa kulttuurissa menestys nähdään usein onnellisuuden edellytyksen
 
 *Josvain Sitku, zombien kansoittama saari Tyynellämerellä* [(](http://farm4.static.flickr.com/3630/3365509189_258fab8409.jpg)[Kuvalähde](http://www.daringtodo.com/wp-content/uploads/2010/07/800px-Montecristo_islet.jpg))
 
-## **2. Harha: "Onnellisuus on yksinpeli, jossa eniten kerännyt** ****voittaa**"**
+## **2. Harha: "Onnellisuus on yksinpeli, jossa eniten kerännyt voittaa"**
 
 Yllä mainittu ajatusmaailma vaikuttaa tottelevaisen ja kyseenalaistamattoman työläisen ihanteelta; sellaiselta, joka vastasi aikanaan teollisuusyhteiskunnan tarpeisiin. Haluaisin esitellä vaihtoehtoisen ajattelutavan. Entä jos pyrkisimmekin etsimään myönteisiä asioita juuri tästä elämäntilanteestamme (positiiviset tuntemukset), asettaen tärkeäksi kokemiamme pidemmän tähtäimen tavoitteita (merkityksen tunne) ja tehdessämme jotain, keskittyisimme vain ja ainoastaan siihen (flow-kokemusten lisääminen)?
 

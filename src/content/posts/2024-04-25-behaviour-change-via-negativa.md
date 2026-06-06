@@ -9,7 +9,7 @@ draft: false
 tags: ['behaviour-change', 'complexity', 'interventions', 'sense-making', 'training']
 wp_guid: "http://mattiheino.com/?p=4512"
 ---
-*Due to frequent misconceptions about the topic, I wanted to outline a via negativa description of this thing called behaviour change science: in other word*s, what is it not*?* *This is part of a series of posts clarifying the perspective I take in instructing* *[a virtual course on behaviour change in complex systems](https://necsi.edu/complex-social-psychological-systems)* *at the New England Complex Systems Institute (NECSI). The course mixes behaviour change with complex systems science along with practical collaboration tools for making sense of the world in order to* *act in it.*
+*Due to frequent misconceptions about the topic, I wanted to outline a via negativa description of this thing called behaviour change science: in other words, what is it not? This is part of a series of posts clarifying the perspective I take in instructing [a virtual course on behaviour change in complex systems](https://necsi.edu/complex-social-psychological-systems) at the New England Complex Systems Institute (NECSI). The course mixes behaviour change with complex systems science along with practical collaboration tools for making sense of the world in order to act in it.*
 
 Behaviour change science refers to an interdisciplinary approach, which often hails from social psychology, and studies changing human behaviour. The approach is motivated by the fact that many large problems we face today – be they about spreading misinformation, preventing non-communicable diseases, taking climate action, or preparing for pandemics – contain human action as major parts of both the problems and their solutions.
 

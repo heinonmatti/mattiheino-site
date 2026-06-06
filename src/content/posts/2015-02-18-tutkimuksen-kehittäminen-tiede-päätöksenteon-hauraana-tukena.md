@@ -35,6 +35,7 @@ Funder ym. (2014) esittävät seitsemän suositusta tutkimuskäytännöille:
 
 Gigerenzer (2010) peräänkuuluttaa “psykologian tärkeimpänä tehtävänä” pyrkimystä mallien sekamelskan yhdistämiseksi laajemman teoriakaton alle, ja myös positiivisen psykologian tutkijoita on kehotettu palaamaan perusasioiden, kuten teorianmuodostuksen, ääreen (Gorin, 2010).
 
+talebin silent risk https://drive.google.com/file/d/0B8nhAlfIk3QIRGRNUzN6RXRaZk0/view?pli=1
 
 Principle 2.3 (The Necessity of Layering).
 
