@@ -17,7 +17,7 @@ Kuten jokainen yrittäjä ja onnettomien romanssien jälkeen upean kumppanin lö
 
 Inhottavaa on, että me emme yksinkertaisesti tiedä. Positiivista on, että meidän ei välttämättä tarvitsekaan tietää.
 
-[![](http://mattiheino.com/wp-content/uploads/2014/03/koira-dwc.jpg "Putkeen menee!")](./images/lohdullinen-epavarmuus/koira-dwc.jpg) Ei se mitään, ensi kerralla suojakäsineen kanssa! Kuva: Ismo Pitkänen
+![](./images/lohdullinen-epavarmuus/koira-dwc.jpg "Putkeen menee!") Ei se mitään, ensi kerralla suojakäsineen kanssa! Kuva: Ismo Pitkänen
 
 Kirjassaan Dance with Chance ([kirjan idea tiivistettynä](http://www.epmchannel.com/wp-content/uploads/2012/05/MIT-Why-Forecasts-Fail-and-What-to-Do-Instead.pdf "Why Forecasts Fail. What to Do Instead. - MIT Sloan Management Review")) kolme alansa huippua – päätöksenteon tutkija, tilastotieteilijä ja psykologi – pyrkivät vastaamaan kysymykseen "Miksi ennusteet epäonnistuvat, ja mitä tehdä niiden sijasta?". He ehdottavat kolmiosaista taktiikkaa, jonka olen suomentanut vapaalla kädellä Hyväksy–Arvioi–Laajenna (HAL) -taktiikaksi.
 

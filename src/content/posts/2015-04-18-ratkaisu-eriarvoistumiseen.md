@@ -21,7 +21,7 @@ Olen aiemminkin kirjoittanut siitä, miten epätodennäköiseen tutkimukseen kan
 
 Näistä innostuneena kaadoin itselleni kupin kahvia ja kävin kiinnostuksella tutkimukseen kiinni.
 
-[![](https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/j%20psychiatry%20l%C3%B6nnqvist.PNG)](./images/ratkaisu-eriarvoistumiseen/j psychiatry lönnqvist.png)
+![](./images/ratkaisu-eriarvoistumiseen/j-psychiatry-lonnqvist.png)
 
 ## Mitä artikkelissa painotetaan?
 
@@ -39,7 +39,7 @@ Hyvältä näyttää; on siis kehitetty tehokas ja edullinen työkalu huono-osai
 
 Tässä kohtaa mieleeni tuli kaivaa esille, millaisia vaikutukset olivat suuruudeltaan, koska usein tutkimuksissa on tapana päätellä p-arvon perusteella ilmiön olemassaolo, kiinnittämättä huomiota siihen, [onko vaikutus täysin mitätön käytännön elämälle](http://www.deirdremccloskey.com/articles/stats/preface_ziliak.php "The Cult of Statistical Significance: How the Standard Error Costs Us Jobs, Justice, and Lives "). Asiat kävivät kuitenkin hieman vaikeaselkoisemmiksi, ja huomioni kiinnittyi tällaiseen taulukkoon artikkelin toiseksi viimeisellä sivulla (ja kummallisesti "methodological issues"-otsikon alla):
 
-[![](https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/j%20psychiatry%20l%C3%B6nnqvist%20table2.PNG)](./images/ratkaisu-eriarvoistumiseen/j psychiatry lönnqvist table2.png)
+![](./images/ratkaisu-eriarvoistumiseen/j-psychiatry-lonnqvist-table2.png)
 
 Anna kun kerron, miksi meinasin tässä kohtaa sisäänhengittää kahvini.
 
@@ -47,7 +47,7 @@ Anna kun kerron, miksi meinasin tässä kohtaa sisäänhengittää kahvini.
 
 Taulukosta nähdään, että onnellisuusharjoituksia tehneiden ryhmässä onnellisuuspistemäärät nousivat 7,31 yksikköä (asteikko 1-100) ja liikuntaryhmässä 7,07 yksikköä. Okei, liikunta ja onnellisuustehtävät ovat siis hyväksi? Mutta mutta... Plaseboryhmällä (eli onnellisuusfilosofisia tekstikatkelmia lukeneilla) onnellisuuspistemäärät nousivat 6,28 yksikköä! Eli kuitenkin siis vähemmän kuin muilla ryhmillä? Ehkä hieman yllättäen, vastaus on ei. Syy johtuu taulukossa sulkujen sisällä näkyvistä keskihajonnoista, joita voi ajatella eräänlaisena virhemarginaalina\*. Lähtöpistemäärät huomioitaessakin vaikutuskooksi tulee laskutavasta riippuen noin yksittäinen hattivatti aavikolla. Vielä kerran: plaseboryhmä "onnellistui" yhtä paljon kuin liikunta- ja onnellisuusharjoitusryhmät! Kirjoittajat käyttävät artikkelin reilusta 8000 sanasta noin kaksikymmentä tämän tuloksen puimiseen.
 
-[![hattivatti ](http://mattiheino.com/wp-content/uploads/2015/04/hattivatti.png)](./images/ratkaisu-eriarvoistumiseen/hattivatti.png) Hattivatti, hyvin hämillään lukemastaan.
+![hattivatti ](./images/ratkaisu-eriarvoistumiseen/hattivatti.png) Hattivatti, hyvin hämillään lukemastaan.
 
 Tarkkasilmäinen lukija löytää myös kohdan, jossa ensin esitellään, kuinka depressio-oireet parantuivat osallistujilla ja miten sukupuoli vaikutti niiden vähentymiseen. Osion keskellä nimittäin käytetään kymmenen sanaa ohimennen kertomaan, ettei onnellisuusharjoituksilla ollut vaikutusta myöskään depressiopistemääriin.
 
@@ -59,7 +59,7 @@ Pitäisikö siis artikkelista päätellä, että onnellisuutta pohdiskelevien s�
 
 Miksi kirjoittajat eivät sitten kerro selkeästi ja läpinäkyvästi todellisista tuloksista? Yksi syy (ja muita on turha spekuloida) on epäilemättä perverssi akateeminen julkaisujärjestelmä, jossa "ei vaikutusta"-tulosten julkaiseminen on edelleen äärimmäisen hankalaa. Jos et ole vielä lukenut siitä, kuinka yksi arvostetuimmista sosiaalipsykologian lehdistä päätyi julkaisemaan parapsykologisen tutkimuksen yliaistillisesta havaitsemisesta ja kieltäytyi myöhemmin julkaisemasta epäonnistuneita toistokokeita, halunnet selailla [tämän](http://www.nature.com/news/replication-studies-bad-copy-1.10634 "Nature – Replication studies: Bad copy") läpi.
 
-[![](https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/replikaatiokriisi%20Roger%20Giner-Sorolla.jpg)](./images/ratkaisu-eriarvoistumiseen/replikaatiokriisi roger giner-sorolla.jpg) Roger Giner-Sorolla piti Helsingissä maaliskuussa 2015  luennon roskatieteen painon alla muuttuvasta akatemiasta. "Not much happened in response to similar concerns raised in the 1960's and 1970's... But 2013 surprised me. This time things may be different!"
+![](./images/ratkaisu-eriarvoistumiseen/replikaatiokriisi-roger-giner-sorolla.jpg) Roger Giner-Sorolla piti Helsingissä maaliskuussa 2015  luennon roskatieteen painon alla muuttuvasta akatemiasta. "Not much happened in response to similar concerns raised in the 1960's and 1970's... But 2013 surprised me. This time things may be different!"
 
 Akateeminen julkaisujärjestelmä on mätä, mutta on helppo ehdottaa amputaatiota kun ei ole itse luonut elämäntyötään sen säännöillä pelaten. [Avoin tiede](http://en.wikipedia.org/wiki/Center_for_Open_Science#Open_Science_Framework "Wikipedia: Open science framework") lienee tällä hetkellä tutkijan paras ase (mainio podcast aiheesta [täällä](http://www.econtalk.org/archives/2012/09/nosek_on_truth.html "Nosek on Truth, Science, and Academic Incentives")).
 

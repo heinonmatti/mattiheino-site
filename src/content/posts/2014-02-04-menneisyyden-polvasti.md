@@ -13,7 +13,7 @@ wp_guid: "http://blogs.helsinki.fi/hema/?p=475"
 
 En tiedä teistä, mutta oma menneisyyden minäni on ollut melkoinen hölmöläinen. Naiivi paskiainen, joka on tai ei ole tiennyt, mikä itselleen ja muille on parhaaksi, muttei ainakaan ole osannut toimia sen mukaisesti. Nykyisyyden minäni tietenkin tietää paremmin ja hänellä on tapana katsoa menneisyyden minääni päätään pyöritellen. Olen tietenkin iloinen, että nykyisyyden minä on fiksumpi kaveri kuin menneisyyden minä, mutta herää kysymys: mitä tulevaisuuden minä ajattelee nykyisyyden minästä? Ja entäs sitten, kun katsomme *nykyisyyden yhteiskunnan* silmin *menneisyyden yhteiskuntaa* ja mietimme *tulevaisuuden yhteiskunnan* ajatuksia molemmista?
 
-[![Kuva: Ismo Pitkänen](http://mattiheino.com/wp-content/uploads/2014/02/menneisyyden-minc3a4c3a4-kohtaan-koettu-antipatia.jpg)](./images/menneisyyden-polvasti/menneisyyden-minc3a4c3a4-kohtaan-koettu-antipatia.jpg) Kuva: Ismo Pitkänen
+![Kuva: Ismo Pitkänen](./images/menneisyyden-polvasti/menneisyyden-minc3a4c3a4-kohtaan-koettu-antipatia.jpg) Kuva: Ismo Pitkänen
 
 On olemassa filosofinen näkökulma (nk. pessimistinen metainduktio), jonka mukaan hienot teoriat ihmiskunnan historiassa ovat aina jossain vaiheessa osoittautuneet vääriksi – emme enää usko sellaisiin intuitiivisiin itsestäänselvyyksiin, kuten eetteriin avaruuden täyttäjänä tai flogistoniin tulen polttoaineena. Miksi meillä siis olisi syytä uskoa, että yhteiskunnassa tai omassa päässämme tosina pidetyt ajatukset olisivat sen enempää totta, kuin mitä olivat aikaisempien sukupolvienkaan käsitykset?
 

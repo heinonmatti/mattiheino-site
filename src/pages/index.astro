@@ -39,7 +39,7 @@ const rows = items.map((e) => ({
       <p>
         Scholarly work is on my
         <a href="https://scholar.google.fi/citations?hl=en&user=jrDugIgAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar profile</a>.
-        Reach me by email at matti.tj.heino @ this domain (i.e.
+        Reach me by email at matti @ this domain (i.e.
         mattiheino.com). You can also find me
         <a href="https://www.linkedin.com/in/heinonmatti">on LinkedIn</a>.
         Preparedness-related projects live at
@@ -60,7 +60,7 @@ const rows = items.map((e) => ({
       <p>
         Tutkimusartikkelit löytyvät
         <a href="https://scholar.google.fi/citations?hl=en&user=jrDugIgAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar -profiilistani</a>.
-        Tavoitat minut sähköpostitse osoitteesta matti.tj.heino @ tämä
+        Tavoitat minut sähköpostitse osoitteesta matti @ tämä
         domain (eli mattiheino.com). Löydät minut myös
         <a href="https://www.linkedin.com/in/heinonmatti">LinkedInistä</a>.
         Varautumiseen liittyviä projekteja löytyy
@@ -82,14 +82,16 @@ const rows = items.map((e) => ({
         <button type="button" class="lh-pill" data-lang="fi" data-on="0">Suomeksi</button>
       </div>
     </div>
-    <button type="button" class="lh-fold" id="topicFold" aria-expanded="false">
-      <span class="lh-fold-chev" aria-hidden="true">›</span>
-      Browse by topic
-    </button>
-    <button type="button" class="lh-random" id="randomBtn" aria-label="Open a random entry">
-      <span class="lh-random-dice" aria-hidden="true">⚄</span>
-      Random
-    </button>
+    <div class="lh-filter-row">
+      <button type="button" class="lh-random" id="randomBtn" aria-label="Open a random entry">
+        <span class="lh-random-dice" aria-hidden="true">⚄</span>
+        Random
+      </button>
+      <button type="button" class="lh-fold" id="topicFold" aria-expanded="false">
+        <span class="lh-fold-chev" aria-hidden="true">›</span>
+        Browse by topic
+      </button>
+    </div>
     {
       tags.length > 0 && (
         <div class="lh-chips" id="topicChips" hidden>
@@ -100,6 +102,15 @@ const rows = items.map((e) => ({
       )
     }
   </div>
+
+  <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+  <div id="search" class="lib-search"></div>
+  <script is:inline src="/pagefind/pagefind-ui.js"></script>
+  <script is:inline>
+    window.addEventListener('DOMContentLoaded', () => {
+      new PagefindUI({ element: '#search', showSubResults: true });
+    });
+  </script>
 
   <ul class="lh-list" id="postlist">
     {

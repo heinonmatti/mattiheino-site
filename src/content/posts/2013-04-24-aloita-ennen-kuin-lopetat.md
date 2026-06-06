@@ -19,7 +19,7 @@ Tuottavuuden kannalta on paradoksaalista, että asioita pitää aloittaa jotta n
 
 Jotta voitaisiin keskittyneesti hoitaa yksi vihollinen (työtehtävä) alta pois ja sen jälkeen keskittyä täysillä seuraavaan, on Z vaiennettava. Tämä onnistuu yksinkertaisella niksillä: vakuuttamalla sille, että on olemassa suunnitelma. Kun kirjoittaa jonkinlaiselle listalle seuraavan, konkreettisen askeleen jonkin asian edistämiseksi, sitä koskevat ajatukset helpottavat kummasti.
 
-[![](http://mattiheino.com/wp-content/uploads/2013/04/seuraava-askel.jpg)](./images/aloita-ennen-kuin-lopetat/seuraava-askel.jpg)
+![](./images/aloita-ennen-kuin-lopetat/seuraava-askel.jpg)
 
 Zeigarnik-vaikutusta voi mielestäni hyvin verrata nalkuttamiseen. Jos sinulle nalkutetaan siitä, kuinka tiskit on pesemättä, saatat pestäkin ne jossain vaiheessa. Jos sen lisäksi nalkutetaan jatkuvasti siitä, että asunto on imuroimatta, pyykit ripustamatta, vatsaläskit sulattamatta ja muutenkin olisi aika hommata oikea työ ja mennä parturiin, helposti noiden väliltä jättää valitsematta ja katsoo vielä yhden tv-ohjelman.
 

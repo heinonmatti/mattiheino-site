@@ -15,7 +15,7 @@ wp_guid: "http://blogs.helsinki.fi/hema/?p=844"
 
 [Turvallisuuskomitea](http://www.turvallisuuskomitea.fi/index.php/fi/) järjesti 18.5.2015 kutsuvierasseminaarin aiheella *henkinen kriisinkestävyys* (tiivistelmää seminaarista ja Martti Ahtisaaren puhe kokonaisuudessaan [täällä](http://turvallisuuskomitea.fi/index.php/fi/20-ajankohtaista/110-henkisen-kriisinkestavyyden-seminaari-18-5-2016)). Pääsin tilaisuudessa osallistumaan mielenkiintoiseen keskusteluun kriiseistä selviytymisestä ja niihin varautumisesta.
 
-[![](https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/kriisit_ennaltaehkaisyn%20vaiheet.jpg)](./images/henkinen-kriisinkestavyys/kriisit_ennaltaehkaisyn vaiheet.jpg) Psykologi, avustustyöntekijä Ferdinand Garoff kertoo kriisin vaiheista. Missä kohdassa uskot yksilöllä olevan eniten vaikutusmahdollisuuksia?
+![](./images/henkinen-kriisinkestavyys/kriisit_ennaltaehkaisyn-vaiheet.jpg) Psykologi, avustustyöntekijä Ferdinand Garoff kertoo kriisin vaiheista. Missä kohdassa uskot yksilöllä olevan eniten vaikutusmahdollisuuksia?
 
 Kansallisella tasolla Puolustusvoimat [määrittelee](http://www.puolustusvoimat.fi/wcm/Erikoissivustot/kokonaisturvallisuus/Suomeksi/11/11.1/ "11.1 Henkisen kriisinkestävyyden lähtökohtana Yhteiskunnan turvallisuusstrategia") henkisen kriisinkestävyyden näin: *"Henkisellä kriisinkestävyydellä tarkoitetaan kansakunnan kykyä kestää turvallisuustilanteiden aiheuttamat henkiset paineet, selviytyä niiden vaikutuksilta ja nopeuttaa kriiseistä toipumista"*. Yhteiskunnan turvallisuusstrategian kolme tehtävää ovat opetustoimen ylläpito, kulttuuri-identiteetin vaaliminen (mm. muinaismuistoja suojelemalla) ja hengellisten palveluiden turvaaminen (mm. kansankirkon toiminnan ylläpito).
 
@@ -57,7 +57,7 @@ Sivuhuomio: joillekin ihmisille on helpottavaa ajatella kaikilla tapahtumilla ol
 
 Tässä kuvailtuun suhtautumistavan harjoittamiseen ei juurikaan liity riskejä, kunhan muistaa, että tulevien (ei menneiden) tapahtumien *todennäköisyyksiin* voi usein vaikuttaa.
 
-[![](https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/IMG_20150320_175146.jpg)](./images/henkinen-kriisinkestavyys/img_20150320_175146.jpg) Ensimmäinen nuoli: työpaikan kahvinkeitin ilmoittaa eräänä perjantai-iltapäivänä kriisin alkaneen. Toinen nuoli: itku ja hammasten kiristys?
+![](./images/henkinen-kriisinkestavyys/img_20150320_175146.jpg) Ensimmäinen nuoli: työpaikan kahvinkeitin ilmoittaa eräänä perjantai-iltapäivänä kriisin alkaneen. Toinen nuoli: itku ja hammasten kiristys?
 
 **Riskitaso II: Opettele kohtaamaan elämä kokonaisuudessaan**
 
@@ -83,7 +83,7 @@ Kerron toisen [tarinan](http://blogs.psychcentral.com/mindfulness/2010/10/is-you
 
 Yhdysvaltalainen psykoterapeutti Mark Epstein matkusti 70-luvulla thaimaalaiseen metsäluostariin tavatakseen nimekkään meditaatio-opettaja Ajahn Chahn. Kysyttyään tältä tämän opetuksen ytimestä, tuimakasvoinen munkki hymyili ottaen vesilasin käteensä. *"Näetkö tämän maljan? Minulle se on jo rikki. Pidän siitä kovin; se pitää vettä ihailtavasti ja joskus heijastaa auringonvalossa kauniita kuvioita. Jos napautan sitä, siitä lähtee heleä ääni. Mutta kun laitan tämän lasin pöydälle ja tuuli tai oma kyynärpääni pudottaa sen pirstaleiksi lattialle, sanon 'Tietenkin'. Kun ymmärrän, että lasi on jo rikki, jokainen hetki sen kanssa on arvokas."*
 
-[![](https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/kriisinkest%C3%A4vyys.jpg)](./images/henkinen-kriisinkestavyys/kriisinkestävyys.jpg) Ei ole mitään, mikä ei helpottuisi tottumuksen voimasta. Siispä tutustuessani pieniin harmeihin, minun pitäisi oppia kärsivällisesti hyväksymään suuremmatkin harmit. (Shantideva)
+![](./images/henkinen-kriisinkestavyys/kriisinkestavyys.jpg) Ei ole mitään, mikä ei helpottuisi tottumuksen voimasta. Siispä tutustuessani pieniin harmeihin, minun pitäisi oppia kärsivällisesti hyväksymään suuremmatkin harmit. (Shantideva)
 
 Onko tällainen näkökulma masentava, negatiivinen, toivoton? On, jos joko luulemme asioiden ympärillämme olevan ikuisia, tai pyrimme välttämään pysymättömyyden ajattelemista... Missä tapauksessa minulla on huonoja uutisia; jokainen ihminen vanhenee, sairastuu ja lopulta kuolee.
 
@@ -95,7 +95,7 @@ Tällainen ajattelu saattaa aiheuttaa toivottomuutta, masennusta, tai halua vier
 
 *Nihil perditi* – en ole menettänyt mitään, kaikki omistamani on mukanani – kerrotaan eräässä stoalaisessa tekstissä valtakuntansa, perheensä ja vapautensa menettäneen kuninkaan lausuneen. Jokainen voinee valita, haluaako mennä ihan näin pitkälle.
 
-[![](https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/kriisit_yksilokohtaiset%20stressitekijat.jpg)](./images/henkinen-kriisinkestavyys/kriisit_yksilokohtaiset stressitekijat.jpg) Dosentti, psykiatrian erikoislääkäri Markus Henriksson kertoo mielenterveydestä poikkeusoloissa. Huomaa toiseksi viimeinen kohta.
+![](./images/henkinen-kriisinkestavyys/kriisit_yksilokohtaiset-stressitekijat.jpg) Dosentti, psykiatrian erikoislääkäri Markus Henriksson kertoo mielenterveydestä poikkeusoloissa. Huomaa toiseksi viimeinen kohta.
 
 # Yhteenveto
 

@@ -15,7 +15,7 @@ Osallistuin syksyllä Suomen ensimmäiselle yliopistotasoiselle positiivisen psy
 
 Positiivisen psykologian syntytarina kertoo sen muodostuneen vastavoimaksi patologiselle, eli tautiopin näkökulmasta harjoitettavalle psykologialle. Sen peruspiirteisiin kuuluu ehkäiseminen parantamisen sijaan ja toimintakyvyltään normaalien ihmisten voimistaminen. [1]
 
-[![](https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/pospsygoogle.png)](./images/pospsy-tiede-toive/pospsygoogle.png) Google-kuvahakutuloksia termille "positive psychology". Klikkaa suuremmaksi.
+![](./images/pospsy-tiede-toive/pospsygoogle.png) Google-kuvahakutuloksia termille "positive psychology". Klikkaa suuremmaksi.
 
 Erään alkusysäyksen ajattelulle antoi Aaron Antonovsky [2], joka esitteli ns. *salutogeenisen* – terveyden alkuperään keskittyvän – ajattelumallinsa. Siinä sairauksien aiheuttajien sijasta etsitään asioita, jotka pitävät ihmiset terveinä ja nähdään ihminen lähtökohtaisesti epätäydellisenä ja alttiina sairauksille. Salutogeeninen lähestymistapa ei erottele ihmisiä sen mukaan, ovatko he terveitä vai sairaita, vaan asettaa *kaikki* ihmiset eri kohtiin terve–sairas -jatkumoa niin, että kysymys ”kuinka tämän henkilön terveyttä voidaan edistää?” ei keskity vain tautien parantamiseen. [3]
 
@@ -29,9 +29,9 @@ Joissain tutkimuksissa on todettu, että esimerkiksi onnellisuuden tunne ei ole 
 
 Yhtenä viimeisimmistä käänteistä positiivisen psykologian uranuurtaja Barbara Fredricksonin klassikkotutkimus positiivisten ja negatiivisten tunteiden inhimilliselle kukoistukselle tärkeästä suhdeluvusta [13] vedettiin kohun saattelemana takaisin American Psychologist -lehdestä [14] artikkelissa käytettyjen matemaattisten menetelmien tolkuttomuuden vuoksi. Sittemmin Fredrickson on joutunut uusiin ongelmiin genomin ja hyvinvoinnin yhteyttä käsittelevän tutkimuksensa johdosta [15].
 
-[![](https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/lottalosada.jpg)](./images/pospsy-tiede-toive/lottalosada.jpg) Lotta Uusitalo-Malmivaara kertomassa Losadan suhdeluvusta (mainiten sen olevan "kritisoitu"). Klikkaa suuremmaksi.
+![](./images/pospsy-tiede-toive/lottalosada.jpg) Lotta Uusitalo-Malmivaara kertomassa Losadan suhdeluvusta (mainiten sen olevan "kritisoitu"). Klikkaa suuremmaksi.
 
-[![](https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/Lottakorjaus.PNG)](./images/pospsy-tiede-toive/lottakorjaus.png) Kurssifoorumilla käydyn keskustelun tuloksena (onneksi!) korjattu slide. Klikkaa suuremmaksi.
+![](./images/pospsy-tiede-toive/lottakorjaus.png) Kurssifoorumilla käydyn keskustelun tuloksena (onneksi!) korjattu slide. Klikkaa suuremmaksi.
 
 Edellä mainituista asioista oltiin melkolailla hissukseen sekä avoimen, että Berkeleyn yliopiston kursseilla. [Lotta Uusitalo-Malmivaara](http://blogs.helsinki.fi/lmuusita/ "Lotan blogi") 17.09.2014 tosin luennollaan viittasi Losadan tapaukseen, ohimennen ja turha huolta osoittamatta. Ja eihän aihetta huoleen välttämättä olekaan, jos tieteellistä päättelyä seurataan, tutkimustulokset altistetaan kriittiselle arvioinnille ja *yksittäisille tutkimuksille ei anneta juurikaan painoarvoa*. Erityisesti Berkeleyn kurssilla viimeinen pointti ohitettiin hyvin selkeästi. Välillä tuntuu, että tutkijat (ja tietenkin lehdistön edustajat) laittavat hypetyksen ja julkaisemisen etusijalle, asettaen hyvältä kuulostavat, mutta tarkemmassa syynissä tehottomat parannuskeinot ansaitsemattomalle jalustalle. Älkäämme siis unohtako [korvavalon](http://www.hs.fi/tiede/a1404616448010 "HS.fi: Valkee loi optisen harhan korvavalollaan") opetuksia; jos jokin olisi *toimiessaan* upealla tapaa hyödyllinen idea, se ei vielä tarkoita sen olevan hyödyllinen idea.
 

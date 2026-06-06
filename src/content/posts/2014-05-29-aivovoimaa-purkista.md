@@ -39,7 +39,7 @@ Tästä voi edelleen päätellä, että keskimäärin joka kahdeskymmenes testi 
 
 > "[T]hese preliminary data do indicate the potential for efficacy in several areas of cognitive functioning"
 
-[![Tulokset](http://mattiheino.com/wp-content/uploads/2014/05/alphabrain.png)](./images/aivovoimaa-purkista/alphabrain.png)Katso seuraavaksi saraketta ”Baseline”. Siinä näkyvät tulokset silloin, kun molemmat ryhmät on popsineet kaksi viikkoa lumepillereitä ennen varsinaisen kokeen alkamista. Eroja näkyy kolmella muuttujalla, mutta yhdessäkään näistä ei ero näy enää seuraavalla mittauskerralla! Tällä tavoin testit antavat hyvin vaihtelevia tuloksia, ja sattumalla on iso vaikutus tuloksiin, koska muuttujia on niin monta (16 kpl).
+![Tulokset](./images/aivovoimaa-purkista/alphabrain.png)Katso seuraavaksi saraketta ”Baseline”. Siinä näkyvät tulokset silloin, kun molemmat ryhmät on popsineet kaksi viikkoa lumepillereitä ennen varsinaisen kokeen alkamista. Eroja näkyy kolmella muuttujalla, mutta yhdessäkään näistä ei ero näy enää seuraavalla mittauskerralla! Tällä tavoin testit antavat hyvin vaihtelevia tuloksia, ja sattumalla on iso vaikutus tuloksiin, koska muuttujia on niin monta (16 kpl).
 
 Tuomio: tutkimuksen tuloksista on vaikea innostua hyvällä tahdollakaan, koska samat tulokset olisi ihan hyvin voinut saada smartieseja popsimalla (paitsi että niissä on sokeria, joka varmaankin aiheuttaa hetkellistä boostia).
 

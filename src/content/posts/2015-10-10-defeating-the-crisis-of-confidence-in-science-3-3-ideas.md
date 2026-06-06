@@ -23,7 +23,7 @@ The number of "successes" in different fields of psychology depends on how you c
 
 My thoughts and beliefs often torment the hell out of me, so I've learned to celebrate when they turn out to be false. Thus, I ended up informing people at Helsinki University's discipline of social psychology by replicating a "Friday-cake-for-no-reason" from a month earlier by one awesome colleague:
 
-[![Behold; the Replicake!](https://mattiheino.com/wp-content/uploads/2015/10/replicake.png)](./images/defeating-the-crisis-of-confidence-in-science-3-3-ideas/replicake.png) Behold; the Replicake!
+![Behold; the Replicake!](./images/defeating-the-crisis-of-confidence-in-science-3-3-ideas/replicake.png) Behold; the Replicake!
 
 The messenger cake worked well in Helsinki, but unfortunately the news were too bitter a dish to many. The results raised several confused reactions from psychologists who refused to believe the sorry state of status quo. I like the term "hand-wringling" as a description, the loudest arguments being (in no specific order):
 

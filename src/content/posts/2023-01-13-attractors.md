@@ -23,7 +23,7 @@ This is non-linearity in action: instead of "productively" writing a little ever
 
 [The paper](https://doi.org/10.1080/17437199.2022.2146598) turned out very non-boring to me, and I was particularly happy the aforementioned flagship journal (the one which rejected the earlier piece) accepted it with *no* requests for edits – despite being based on the same underlying ideas as the earlier one.
 
-[![Graphical abstract of the attractor landscapes paper; courtesy of Daniele Proverbio. Describes two types of tipping points in systems with attractors.](https://mattiheino.com/wp-content/uploads/2023/01/image.png)](./images/attractors/image.png)
+![Graphical abstract of the attractor landscapes paper; courtesy of Daniele Proverbio. Describes two types of tipping points in systems with attractors.](./images/attractors/image.png)
 
 *Graphical abstract of the [attractor landscapes paper](https://doi.org/10.1080/17437199.2022.2146598); courtesy of Daniele Proverbio.*
 

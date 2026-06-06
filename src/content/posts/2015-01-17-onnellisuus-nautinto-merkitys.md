@@ -13,7 +13,7 @@ Kiinnostuin psykologiasta alun perin, koska halusin tietää, mikä ihmisen teke
 
 Mitä ensinnäkään on onnellisuus ja miten se nivoutuu hyvinvointiin? Koska onnellisuudelle tai hyvinvoinnille ei ole olemassa yleisesti hyväksyttyä määritelmää, hieman mutkia suoristaen voi ajatella onnellisuuden olevan “hyvää hyvinvointia”, jotakin pelkkää asioista tyydyttävästi suoriutumista mukavampaa (onnellisuuden määritelmästä voi lukea tarkemmin Frank Martelan [kirjoituksesta](http://filosofia.fi/node/6578 "Onnellisuus / Frank Martela (julkaistu 11.8.2013, muokattu 23.9.2014)")).
 
-[![](https://017f78a8ef2e75364393781012bdcf164e72b925.googledrive.com/host/0B1e6QwtA-tDVNTVMc1hta0x1WEE/hedonia.jpg)](./images/onnellisuus-nautinto-merkitys/hedonia.jpg) Näkökulmia nautintoon.
+![](./images/onnellisuus-nautinto-merkitys/hedonia.jpg) Näkökulmia nautintoon.
 
 Tavallisiin onnellisuuden komponentteihin liitetään myönteiset tunteet, merkityksellisyyden kokemukset ja yleinen tyytyväisyys elämään. Tutkijat yleensä edelleen palaavat jollain tasolla antiikin ajatteluun, jossa onni jaettiin hedoniseen (mielihyvän tunteet) ja eudaimoniseen (merkityksellisen elämän eläminen). Aloitetaan siis niistä.
 
