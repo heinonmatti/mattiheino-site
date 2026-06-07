@@ -126,7 +126,7 @@ Finally: This is not fearmongering or a call for hysteria. Cold-headed rational 
 
 Relevant resources and references:
 
-- On why the highly interconnected world is ill-suited for suppression of pathogens: [Systemic Risk of Pandemic via Novel Pathogens – Coronavirus: A Note](https://mattiheino.com/wp-content/uploads/2020/03/b72e0-systemic_risk_of_pandemic_via_novel_path.pdf).
+- On why the highly interconnected world is ill-suited for suppression of pathogens: [Systemic Risk of Pandemic via Novel Pathogens – Coronavirus: A Note](/files/b72e0-systemic_risk_of_pandemic_via_novel_path.pdf).
 - On how to mitigate the spread: [Public Health Policies for Mitigating the Spread of COVID-19 in the United States](https://drive.google.com/file/d/17yrtgiMXt_ZAFS8tJMaQ-VqgHTTkQbxm/view?fbclid=IwAR3PzoUIMVnpsy9Oug5i8YoweWUavGE0RYdDKZGBh9AbOmJCt8V028nGGjA).
 - Cochrane Collaboration freezes ongoing reviews on controlling upper respiratory viral syndromes, as nobody knows anything about the mechanisms of influenza vaccines and new evidence is not arriving: [Why have three long-running Cochrane Reviews on influenza vaccines been stabilised?](https://community.cochrane.org/news/why-have-three-long-running-cochrane-reviews-influenza-vaccines-been-stabilised?fbclid=IwAR3YWWP3Bu3MIZpCyIpfrBdGtfDTSwN6-jVcnofxjFeWn0ufCJwZMYdarjM)
 - Nassim Taleb on "Naive empricism": [Tweet 1](https://twitter.com/nntaleb/status/1224714952604254210), [Tweet 2](https://twitter.com/nntaleb/status/1234093143089434624).

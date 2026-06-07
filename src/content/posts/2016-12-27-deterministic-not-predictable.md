@@ -33,7 +33,7 @@ We're pretending this model is *the* reality. This is so that we can perfectly c
 
 Imagine we measure a person, who obeys this model with a constant motivation of 3.9, and starts out on day 1 reaching 50% of their maximum exercise amount. But let's say there is a slight measurement error: instead of 50.000%, we measure 50.001%. In the graph below we can observe, how the error (red line) quickly diverges from the actual (blue line). The predictions we make from our model after around day 40 do not describe our target person's behaviour at all. The slight deviation from the deterministic system has made it practically chaotic and random to us.
 
-![chaosplot_animation.gif](./images/deterministic-not-predictable/chaosplot_animation.gif) Predicting this simple, fully deterministic system becomes impossible to predict in a short time due to a measurement error of 0.001%-points. Blue line depicts actual, red line the measured values. They diverge around day 35 and are soon completely off. [[Link to gif](https://mattiheino.com/wp-content/uploads/2016/12/chaosplot_animation.gif)]
+![chaosplot_animation.gif](./images/deterministic-not-predictable/chaosplot_animation.gif) Predicting this simple, fully deterministic system becomes impossible to predict in a short time due to a measurement error of 0.001%-points. Blue line depicts actual, red line the measured values. They diverge around day 35 and are soon completely off. [[Link to gif](/files/chaosplot_animation.gif)]
 
 # What are the consequences?
 

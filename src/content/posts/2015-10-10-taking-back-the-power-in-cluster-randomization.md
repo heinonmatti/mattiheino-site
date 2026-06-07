@@ -59,6 +59,6 @@ One of the big boogiemen, to me at least, of the whole enterprise was the intra-
 
 Here's the dream crusher. In the "Justifications..."-sheet you'll find mathematical formulas and the logic behind the machine, but it's not super obvious for us mortals. I managed to make it work in Excel by combining pieces of code from all over the internet; I'm hoping you don't need to do the same.
 
-Download the Excel-file **[HERE](https://mattiheino.com/wp-content/uploads/2015/10/power-for-cluster-randomisation_matti-heino_v151009-beta1.xlsx)**.
+Download the Excel-file **[HERE](/files/power-for-cluster-randomisation_matti-heino_v151009-beta1.xlsx)**.
 
 Have fun and let me know if you find errors! All other comments are of course welcome, too.

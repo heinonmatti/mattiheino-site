@@ -41,11 +41,11 @@ Now, if we would do just five studies with the parameters laid out above, we cou
 
 The senior scholar, who was mentioned in the beginning, was studying correlations. They work the same way. The animation below shows, how p-values are distributed for different sample sizes, if we do 10 000 studies with every sample size (i.e. every frame is 10 000 studies with that sample size). The samples are from a population where the real correlation is 0.3. The red dotted line is p = 0.05.
 
-![corrplot_varyspeed](./images/p-walks-into-a-bar-chart/corrplot_varyspeed.gif) Figure 3. P-value distributions for different sample sizes, when studying a real correlation of 0.3. Each frame is 10 000 replications with a given sample size. If pic doesn't show, click [here](https://mattiheino.com/wp-content/uploads/2016/12/corrplot_varyspeed.gif) for the gif (and/or try another browser).
+![corrplot_varyspeed](./images/p-walks-into-a-bar-chart/corrplot_varyspeed.gif) Figure 3. P-value distributions for different sample sizes, when studying a real correlation of 0.3. Each frame is 10 000 replications with a given sample size. If pic doesn't show, click [here](/files/corrplot_varyspeed.gif) for the gif (and/or try another browser).
 
 The next animation zooms in on “significant” p-values in the same way as in figure 2 (though the largest bar goes off the roof quickly here). As you can see, it is almost impossible to get a p-value close to 5% with large power. Thus, there is no way we should “*expect*” a p-value over 0.01 when we replicate a real effect with large power. Very low p-values are always more probable than “barely significant” ones.
 
-![zoomplot_quick](./images/p-walks-into-a-bar-chart/zoomplot_quick.gif) Figure 4. Zooming in on the "significant" p-values. It is more probable to get a very low p than a barely significant one, even with small samples. If pic doesn't show, click [here](https://mattiheino.com/wp-content/uploads/2016/12/zoomplot_quick.gif) for the gif.
+![zoomplot_quick](./images/p-walks-into-a-bar-chart/zoomplot_quick.gif) Figure 4. Zooming in on the "significant" p-values. It is more probable to get a very low p than a barely significant one, even with small samples. If pic doesn't show, click [here](/files/zoomplot_quick.gif) for the gif.
 
 But what if there is no effect? In this case, every p-value is equally likely (see Figure 5). This means, that in the long run, getting a p = 0.01 is just as likely as getting a p = 0.97, and by implication, 5% of all p-values are under 0.05. Therefore, the number of studies that generated a p between 0.04 and 0.05, is 1%. Remember, how this percentage was 0.5% (five in a thousand) when the alternative hypothesis was true under 97.5% power? Indeed, when power is high, these “barely significant” p-values may actually speak for the null, not the alternative hypothesis! Same goes for e.g. p=0.024, when power is 99% [[see here](http://daniellakens.blogspot.fi/2014/05/the-probability-of-p-values-as-function.html)].
 
@@ -57,7 +57,7 @@ Consider the lottery machine analogy again. Does it make better sense now?
 
 Let's look at one more visualisation of the same thing:
 
-![pcurveplot_quick.gif](./images/p-walks-into-a-bar-chart/pcurveplot_quick.gif) Figure 6. The percentages of "statistically significant" p-values evolving as sample size increases. If the gif doesn't show, you'll find it [here](https://mattiheino.com/wp-content/uploads/2016/12/pcurveplot_quick.gif).
+![pcurveplot_quick.gif](./images/p-walks-into-a-bar-chart/pcurveplot_quick.gif) Figure 6. The percentages of "statistically significant" p-values evolving as sample size increases. If the gif doesn't show, you'll find it [here](/files/pcurveplot_quick.gif).
 
 *Aside: when the effect one studies is enormous, sample size naturally matters less. I calculated Cohen’s d for the Asch 2 line segment study, and a whopping d = 1.59 emerged. This is surely a very unusual effect size in psychological experiments, and leads to high statistical power even under low sample sizes. In such a case, by the logic presented above, one should be extremely cautious of p-values closer to 0.05 than zero.*
 
