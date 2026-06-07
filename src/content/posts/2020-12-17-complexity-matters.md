@@ -33,6 +33,6 @@ We discussed Merlijn Olthof's new paper [Complexity in psychological self-rating
 - [Course slides](http://www.mattiheino.com/carma) from CARMA: Critical Appraisal of Research Methods and Analysis
 - [Me interviewing Fred Hasselman](http://www.mattiheino.com/interaction-not-interaction) on issues regarding mediation, moderation and interaction
 
-[![](./images/complexity-matters/image.png)](https://mattiheino.com/wp-content/uploads/2020/12/image.png)
+![](./images/complexity-matters/image.png)
 
-[![](./images/complexity-matters/image-1.png)](https://mattiheino.com/wp-content/uploads/2020/12/image-1.png)
+![](./images/complexity-matters/image-1.png)

@@ -63,6 +63,6 @@ Jos sisäilmaa ei ole mahdollista puhdistaa, sairastumisen riskiä voi pienentä
 
 ## Keinot sopivat moneen tilaan!
 
-[![](./images/ilmahygienia-keinot/image.png)](https://mattiheino.com/wp-content/uploads/2024/08/image.png)
+![](./images/ilmahygienia-keinot/image.png)
 
 \*Ota huomioon kunkin tilan omat ohjeistukset siitä, saako ikkunoita avata itsenäisesti.

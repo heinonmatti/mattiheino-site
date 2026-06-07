@@ -17,7 +17,7 @@ Mutta mitä vapautta tämä on? Jos vain reagoi muiden tekemisiin, antaa toisill
 
 Jos haluaa olla itsenäinen ja aidosti vapaa, on fiksumpaa toimia omien arvojensa mukaisesti, riippumatta muiden tekemisistä. Kuinkakohan usein ylipäätään kukaan on mykkäkoululla ”antanut toiselle opetuksen”, josta on ollut pitkän tähtäimen hyötyä?
 
-[![](./images/harjoitukset-alkavat/kanto.png)](http://mattiheino.com/wp-content/uploads/2012/12/kanto.png)
+![](./images/harjoitukset-alkavat/kanto.png)
 
 Jos et ole vielä miettinyt strategiaasi tälle vuodelle, kokeile halutessasi anteliaisuutta ja ole mukava kaikille, *odottamatta mitään* heidän käytökseltään sinua kohtaan. Silloin kun joku tekee jotakin mielestäsi ärsyttävää, voit myös yrittää löytää hänen tekojensa taustat. Sanoiko hän pahasti, koska on ilkeä, vai oliko hänellä huono päivä? Voiko olla, että hän oli vain peloissaan? Entä pitäisikö sinun samalla olla vihainen hänen sanoilleen, hänen persoonalleen tai tyylilleen, hänet kasvattaneille vanhemmille, hänen vanhempiensa vanhemmille vai alkuräjähdykselle, jonka tuloksena loppujen lopuksi itsekin olet parhaillaan tätä lukemassa?
 

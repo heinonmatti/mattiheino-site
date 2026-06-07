@@ -17,7 +17,7 @@ Tarina on raju, mutta se sai ajattelemaan, miksi väite onnettomuuksien kullekin
 
 Asian ydin on tässä: kun joku selviää merkittävästä vastoinkäymisestä, tämä usein kertoo kasvamistarinan. Kun joku ei selviä merkittävästä vastoinkäymisestä, tämä harvemmin kertoo mitään. Samasta syystä muistamme useampia tarinoita henkilöistä, jotka onnettomuutta ennen rukoiltuaan selvisivät siitä hengissä,  kuin niistä, jotka rukoilusta huolimatta eivät selvinneet. Villin lännen sananlaskun mukaan, ”dead men tell no tales” – tarinaniskentää varten on parempi olla elossa.
 
-[![](./images/mita-jai-kertomatta/601130_10152470645630593_642370228_n.jpg)](http://mattiheino.com/wp-content/uploads/2013/01/601130_10152470645630593_642370228_n.jpg)
+![](./images/mita-jai-kertomatta/601130_10152470645630593_642370228_n.jpg)
 
 Miksi tämä on tärkeää? Ihmismielen ominaisuuksiin kuuluu vaikeus kuvitella mainitsematta jätettyjä asioita, mutta usein tärkeintä on juuri se, mitä jätettiin kertomatta. Kuva yllä havainnollistaa näkökenttäämme. Jos sanon, että siinä on laiskiainen puussa, mitä kaikkea jätänkään kertomatta?
 

@@ -17,7 +17,7 @@ Käsittelen kuitenkin seuraavassa kahta tärkeintä asiaa, joiden viestinnässä
 
 # 1. Tartuntoja kannattaa torjua
 
-[![](./images/tartuntojen-torjunta/nature-preventio-vain.png)](https://mattiheino.com/wp-content/uploads/2023/01/nature-preventio-vain.png)
+![](./images/tartuntojen-torjunta/nature-preventio-vain.png)
 
 *Kuva 1: Kansainvälisen 386 asiantuntijaa sisältäneen paneelin tärkeimmät ennaltaehkäisyä koskevat pandemiasuositukset. Klikkaa suuremmaksi. [Lähde](https://doi.org/10.1038/s41586-022-05398-2).*
 
@@ -25,11 +25,11 @@ Vuonna 2021 Suomessa siirryttiin torjumaan tartuntojen sijaan vakavaa sairastumi
 
 Miksi tartuntoja kannattaa torjua? Koska yhden tartunnan torjumalla torjuu samalla koko ketjun tartuntojen seurauksia. Tätä sanotaan kansanterveystieteessä *preventioksi*; myös muita tauteja, kuten tyypin 2 diabetesta on huomattavasti halvempaa hoitaa ennaltaehkäisevästi, kuin kalliita hoitoja ja sairaspaikkoja lisäämällä. Päätöspuudiagrammi alla tiivistää, miten paljon jossittelua voi vähentää välttämällä tartunnan.
 
-[![](./images/tartuntojen-torjunta/korona-paatospuu.png)](https://mattiheino.com/wp-content/uploads/2023/01/korona-paatospuu.png)
+![](./images/tartuntojen-torjunta/korona-paatospuu.png)
 
 *Kuva 2: Yksinkertaistettu heuristinen päätöspuu riskinhallinnan suunnitteluun. Sakset sisältävät jäljempänä kohdassa 2. esitellyt suojatoimet, jotka poistavat yhtälöstä kaikki katkoviivan alla olevat polut. Kuva keskittyy yksilöön ja siitä puuttuu esim. tartunnan levittämisen seuraukset läheisiin, sekä sairaspoissaolojen vaikutukset kansantaloudelle.*
 
-[![](./images/tartuntojen-torjunta/long-covid-nature-2.png)](https://mattiheino.com/wp-content/uploads/2023/01/long-covid-nature-2.png)
+![](./images/tartuntojen-torjunta/long-covid-nature-2.png)
 
 *Kuva 3: Mille kaikelle koronatartunta altistaa? Klikkaa suuremmaksi. [Lähde](https://www.nature.com/articles/s41579-022-00846-2).*
 
@@ -55,7 +55,7 @@ Edellä mainituissa Lancet-laskelmissa näkyy strategian erinomainen vakaus; se 
 
 Kuva alla näyttää vielä kertaalleen, mistä tartuntojen torjunnassa on kyse. Julkisessa keskustelussa peräänkuulutettu sairaalapaikkojen [ja krematorioiden](https://yle.fi/a/74-20011931) lisääminen on varmasti tärkeää, vertautuen linnan sisimpiin suojarakenteisiin. **Meidän pitäisi kuitenkin työskennellä sen eteen, että niitä tarvittaisiin entistä vähemmän.**
 
-[![](./images/tartuntojen-torjunta/linnoitus-1.png)](https://mattiheino.com/wp-content/uploads/2023/01/linnoitus-1.png)
+![](./images/tartuntojen-torjunta/linnoitus-1.png)
 
 *Kuva 4: Suojatoimet käsitteellistettyinä linnan osiksi. Kirjoitushetkellä (syksy 2023) Suomessa laskusilta on vielä ala-asennossa. Muokattu Kashif Pirzadan [alkuperäisversiosta](https://twitter.com/KashPrime/status/1495481310546178048).*
 

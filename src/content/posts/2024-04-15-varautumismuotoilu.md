@@ -9,7 +9,7 @@ draft: false
 tags: ['käyttäytymisarkkitehtuuri', 'osallistaminen', 'osallisuus', 'riskinhallinta', 'sekalaista', 'turvallisuus']
 wp_guid: "http://mattiheino.com/?p=4503"
 ---
-[![](./images/varautumismuotoilu/image.png)](https://mattiheino.com/wp-content/uploads/2024/04/image.png)
+![](./images/varautumismuotoilu/image.png)
 
 PÄIVITYS | Turvallisuustapahtumassa syntyneitä ajatuksia löytyy tästä postauksesta: [“Mistä tässä tilanteessa on kyse?”: Henkisestä kriisinkestävyydestä yhteisölliseen kriisitoimijuuteen](https://mattiheino.com/2024/05/29/turvallisuustapahtuma/).
 

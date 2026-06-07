@@ -25,13 +25,13 @@ Voit kokea prosessin katsomalla alla olevan kahden minuutin videon. Huomaatko va
 
 On ensisijaisen tärkeää ymmärtää erilaisten toimintaympäristöjen luonne. Monimutkaisissa (complicated) ympäristöissä ongelmat ovat usein selkeästi määriteltävissä, optimoitavissa ja ratkaistavissa tarkan analyysin ja asiantuntemuksen avulla. Kompleksisissa (complex), epävarmuuden ympäristöissä sen sijaan konteksti on jatkuvasti muuttuva ja ennalta-arvaamaton, mikä vaatii joustavaa ja mukautuvaa lähestymistapaa. VUCA-maailmassa (Volatility, Uncertainty, Complexity, Ambiguity) toimiminen edellyttää kykyä käsitellä epävarmuutta ja hyödyntää satunnaisuutta tulematta sen hämäämäksi.
 
-[![](./images/turvallisuustapahtuma/image.png)](https://mattiheino.com/wp-content/uploads/2024/05/image.png)
+![](./images/turvallisuustapahtuma/image.png)
 
 Toiminta*ympäristöjä* koskeva dia esityksestäni. Ks. myös aihetta koskeva [kurssi](https://necsi.edu/complex-social-psychological-systems).
 
 Varsinkaan epävarmuuden toimintaympäristöissä emme voi koskaan huomioida kaikkea, sillä yksityiskohtia on liikaa älykkäimmällekin yksilölle.  Koska taipumuksemme on jumiutua ensimmäiseen “mistä tässä on kyse?”-kysymykseen sopivalta tuntuvaan vastaukseen, tilannekuvan muodostus vaatii monien näkökulmien mukaan ottamista. Vain monipuolisen tilannekuvan avulla voidaan luoda kestäviä ja tehokkaita ratkaisuja VUCA-ympäristössä, välttyen [ryhmäajattelun](https://tieteentermipankki.fi/wiki/Sosiaalipsykologia:ryhm%C3%A4ajattelu) vaaroilta. Ikävä kyllä, vaikka olisikin hienoa pystyä aidosti “astumaan toisen saappaisiin”, ihmisen kyky tehdä sitä on rajallinen. Siksi toisten näkökulmat täytyy ottaa mukaan päätöksentekoon sellaisina, kuin ne tulevat *heiltä*.
 
-[![](./images/turvallisuustapahtuma/image-1.png)](https://mattiheino.com/wp-content/uploads/2024/05/image-1.png)
+![](./images/turvallisuustapahtuma/image-1.png)
 
 Toiminta*tapoja* koskeva dia esityksestäni. Ks. myös aihetta koskeva [kurssi](https://necsi.edu/complex-social-psychological-systems).
 
@@ -49,7 +49,7 @@ Samoin kuin tilannekuvan muodostamisessa, onnistuminen strategiatyössä edellyt
 
 Tapahtumassa korostettiin myös ennaltaehkäisevän työn merkitystä. Vaikka “ennaltaehkäisevä työ on edullisinta työtä”, kuten monesti kuului, säästöpaineiden alla hyvinvointi, terveys ja turvallisuus ovat usein ensimmäisinä leikkauslistalla. Keskusteluissa huomioitiin myös se, ettei kukaan säästöjä toteuttava taho kuitenkaan väitä em. asioiden olevan vähäarvoisia; “niihin ei vain ole varaa”. Pitkällä aikavälillä toki on enemmän kuin vähän hankalaa, jos kustannuksia siirretään tulevaisuuteen samalla heikentäen yhteisöjen kykyä vastata häiriötilanteisiin.
 
-[![](./images/turvallisuustapahtuma/image-2.png)](https://mattiheino.com/wp-content/uploads/2024/05/image-2.png)
+![](./images/turvallisuustapahtuma/image-2.png)
 
 Monissa menestyvissä yrityksissä työntekijät saavat käyttää osan työajastaan omiin, itselleen tärkeisiin projekteihin. Tämä itseohjautuvuus voi tuntua houkuttelevalta säästökohteelta vakaissa oloissa, mutta epävarmoissa tilanteissa se luo tarpeellista diversiteettiä ja työkaluja, joita yhdistelemällä voidaan luoda ennalta-arvaamattomia ratkaisuja ennalta-arvaamattomiin tilanteisiin.
 
@@ -59,7 +59,7 @@ Tämä periaate voisi hyödyttää myös julkista sektoria ja vapaaehtoistoimijo
 
 Yksi keskeisistä aihepiireistä tapahtumassa oli *henkinen kriisinkestävyys*. Sosiaalipsykologian näkökulmasta on tärkeää huomioida, että kriiseissä yhteisövasteet ja sosiaaliset (turva)verkot ovat olennaisempia kuin yksilön kestävyys. Siksi pohdinkin, olisiko henkisen kriisinkestävyyden rinnalla – tai sen sijaan – hyödyllistä puhua "yhteisöllisestä kriisitoimijuudesta"? Tämä korostaisi yksilöiden sietokyvyn sijaan yhteisön roolia ja kollektiivisia toimintatapoja kriisien hallinnassa ja niistä selviämisessä.
 
-[![](./images/turvallisuustapahtuma/image-3.png)](https://mattiheino.com/wp-content/uploads/2024/05/image-3.png)
+![](./images/turvallisuustapahtuma/image-3.png)
 
 Vastikään julkaistussa [tutkimusartikkelissani](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1346542/full) kuvaan sitä, kuinka turvallisuuden tunnetta ei ole yleensä hyödyllistä parantaa *tunteeseen* vaikuttamalla, vaan vaalimalla yhteisöjen kykyä *vastata* turvallisuusuhkiin. Asiaa avataan myös VNK:n *käyttäytymistieteellinen ennakointi ja tieto tulevaisuuden hallinnossa* -työryhmämme raportissa: [Varautumisosaaminen, yhteisöllisyys ja selkeät toimintasuositukset lisäävät kriisivalmiutta](https://api.hankeikkuna.fi/asiakirjat/2a086d9c-2eef-454c-b430-1a7cc5aff6d9/df72fd3b-a482-4fde-b652-7573b5335a5a/RAPORTTI_20220412130449.pdf).
 

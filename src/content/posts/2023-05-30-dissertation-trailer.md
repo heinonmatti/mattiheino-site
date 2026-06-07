@@ -9,7 +9,7 @@ draft: false
 tags: ['behaviour-change', 'complex-systems']
 wp_guid: "http://mattiheino.com/?p=4296"
 ---
-[![](./images/dissertation-trailer/table-of-contents-dissertation-preprint_you-are-here-1.png)](https://mattiheino.com/wp-content/uploads/2023/06/table-of-contents-dissertation-preprint_you-are-here-1.png)
+![](./images/dissertation-trailer/table-of-contents-dissertation-preprint_you-are-here-1.png)
 
 *"**Understanding and shaping complex social psychological systems: Lessons from an emerging paradigm to thrive in an uncertain world**" is the working title of my recently submitted dissertation on human action and change therein, which I've been working on as a side project. This is an executive summary (or a teaser trailer if you like) for non-academic readers.* *A pre-print can be found [**here**](https://psyarxiv.com/qxa4n).*
 

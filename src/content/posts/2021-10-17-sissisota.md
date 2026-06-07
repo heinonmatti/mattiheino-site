@@ -21,7 +21,7 @@ En ole ennen kokenut samanlaista ristiriitaa kansainvälisiin kokemuksiin perust
 
 Alla olevasta kuvasta näkyy, että yli 75% kansalaisista pitää suojautumistoimia edelleen tarpeellisena:
 
-[![](./images/sissisota/tarpeellisuus_kansalaispulssi_taloustutkimus.png)](https://mattiheino.com/wp-content/uploads/2021/10/tarpeellisuus_kansalaispulssi_taloustutkimus.png)
+![](./images/sissisota/tarpeellisuus_kansalaispulssi_taloustutkimus.png)
 
 Olen yrittänyt kertoa ihmisten jatkuvaa suojautumista ihmetteleville toimittajille, [etteivät ihmiset ole suosituksia sokeasti noudattavia robotteja](https://yle.fi/uutiset/3-12091118), vaan sopeuttavat toimintaansa tilannekohtaisesti ja ajan myötä muuttuvaan riskiarvioon pohjaten. Tämä on ollut monille vaikea ymmärtää, ja koko pandemian ajan hallitukset ja "asiantuntijat" ovat pelänneet laajamittaista paniikkia, jos ihmisille annetaan liian huolestuttavaa informaatiota. Aiheesta on olemassa [erinomainen blogipostaus](https://erehdys.wordpress.com/2021/09/30/pelkopandemia/) ja olen itsekin kirjoittanut [itseohjautuvuuden tärkeydestä](https://mattiheino.com/2020/08/17/itseohjautuvuus/), joten sanottakoon vain, että tämä on [tieteellisen kirjallisuuden näkökulmasta päätöntä](https://twitter.com/M_B_Petersen/status/1447907514964656131?s=20). Keinotekoisen turvallisuudentunteen pakkosyöttäminen kansalaisille johtaa ongelmiin.
 
@@ -35,7 +35,7 @@ b) Toinen kategoria sisältää keinoja, joilla saavutetaan pieniä paikallisia 
 
 Mutta emmekö voisi vain *suojella riskiryhmiä*? Toki, mutta vaikkei tämä tarkoittaisikaan miljoonan ihmisen eristämistä, on mahdotonta tietää, tuleeko tapaamasi henkilö tapaamaan jonkun, joka ei ole voinut ottaa rokotetta – tai on ottanut 1-2 annosta, mutta teho on ehtinyt hiipua. Onneksi tämä toimii myös toisin päin: suojautumalla voi suojata paljon suurempaa porukkaa, kuin tulee ajatelleeksi. Kysymykseksi muodostuukin: "Ketään ei jätetä" vai "ketäs jätettäisiin jotta ei tarvitsisi tehdä vaivalloisia asioita?"
 
-[![](./images/sissisota/image.png)](https://mattiheino.com/wp-content/uploads/2021/10/image.png)
+![](./images/sissisota/image.png)
 > Kysymykseksi muodostuukin: "Ketään ei jätetä" vai "ketäs jätettäisiin jotta ei tarvitsisi tehdä vaivalloisia asioita"?
 
 Suomessa on pitkälti tukahdutettu keskustelu [eliminaatiostrategiasta](https://mattiheino.com/2021/06/28/irtikytkeytymiskyvykkyys/), vaikka se onkin ainoa tunnettu pitkän tähtäimen ratkaisu pandemioihin, jotka aiheuttavat yleisvaarallista tartuntatautia. Poliitikkojen ja virkamiesten on kuitenkin vaikea sitoutua mihinkään, mikä saattaisi nostaa heidät tikunnokkaan. Viranhaltijalle on turvallista tehdä niin, kuin kaikki muutkin tekevät; parasta politiikkaa on vastuuttaa kansalaisia sen sijaan, että virkakoneisto lähtisi suorittamaan jotain vaivalloista, mikä voi epäonnistua. Nyt, kun tälle linjalle on lähdetty uuden maskisuosituksen myötä, realisti valmistautuu pitkään sissisotaan, jossa yllämainitun a-osaston keinoihin ei voi luottaa – vaikka toivo toki elää.

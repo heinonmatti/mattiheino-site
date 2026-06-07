@@ -23,4 +23,4 @@ Ilmahygieniaa koskeva tiede on edennyt valtavin harppauksin viime vuosina. Täm�
 
 Tutkimustiedon karttuessa, myös nämä tiedot saattavat edelleen päivittyä. Eräs näiden sivujen tarkoitus on altistaa materiaaleja yhteiskunnallisen parviälyn huomioille. Kommentit ja kehitys-/korjausehdotukset voi osoittaa [minulle](mailto:matti.tj.heino@mattiheino.com)!
 
-[![](./images/ilmahygienia-aloitus/image-2.png)](https://mattiheino.com/wp-content/uploads/2024/08/image-2.png)
+![](./images/ilmahygienia-aloitus/image-2.png)

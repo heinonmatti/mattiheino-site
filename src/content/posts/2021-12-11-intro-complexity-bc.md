@@ -23,7 +23,7 @@ In a [recent paper](http://mdpi.com/2076-328X/11/5/77) about behaviour change as
 
 Here's a quick test to see if it might be valuable to you. Have a look at this table, and if you think all is clear, you can skip the piece with good conscience:
 
-[![](./images/intro-complexity-bc/image.png)](https://mattiheino.com/wp-content/uploads/2021/12/image.png)
+![](./images/intro-complexity-bc/image.png)
 
 I also made a video introduction to the topic. If you're in a rush, you can just run through a [pdf of the slides](https://drive.google.com/uc?export=download&id=1PB2CxutpBkniE0QYTBQiubK0BDB22ycR).
 
@@ -31,4 +31,4 @@ I also made a video introduction to the topic. If you're in a rush, you can just
 
 If you're in an even bigger rush, the picture below gives a quick synopsis. To find out more, check out [this post](http://www.mattiheino.com/besp). You might also be interested in [What Behaviour Change Science is Not](https://mattiheino.com/2024/04/25/behaviour-change-via-negativa/).
 
-[![](./images/intro-complexity-bc/promo-pic-intro-complexity2.png)](https://mattiheino.com/wp-content/uploads/2021/12/promo-pic-intro-complexity2.png)
+![](./images/intro-complexity-bc/promo-pic-intro-complexity2.png)

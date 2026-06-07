@@ -33,6 +33,6 @@ A few notes:
   - [A workshop](https://mattiheino.com/2020/03/31/complexity-channel/) by Fred Hasselman (scroll to the end for an extensive reading list).
   - [University of Helsinki course](https://mattiheino.com/2019/09/04/carma/) by Matti: *CARMA – Critical Appraisal of Research Methods and Analysis*.
 
-[![](./images/interaction-not-interaction/rohrer-troete.jpg)](https://mattiheino.com/wp-content/uploads/2020/11/rohrer-troete.jpg)
+![](./images/interaction-not-interaction/rohrer-troete.jpg)
 
 Because every post needs an image, here's *[Julia Rohrer](http://www.twitter.com/dingding_peng)'s (2017) [Theory of Regulation of Empty Theories (TROETE)](https://twitter.com/dingding_peng/status/933253692131647488)*

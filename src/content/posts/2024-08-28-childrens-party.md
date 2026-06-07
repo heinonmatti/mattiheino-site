@@ -23,7 +23,7 @@ Now, you'd draw a line in the top right corner. Everything above this line is be
 
 The result might look something like this:
 
-[![](./images/childrens-party/image-9.png)](https://mattiheino.com/wp-content/uploads/2024/08/image-9.png)
+![](./images/childrens-party/image-9.png)
 
 The exciting part is the middle area. Here's where you can actually make changes to improve the party; the things you can manage. But you can also try to make some elements more manageable via (de)stabilisation efforts, or remove some altogether.
 

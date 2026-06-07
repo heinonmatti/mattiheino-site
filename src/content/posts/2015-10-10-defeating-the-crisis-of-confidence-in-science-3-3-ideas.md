@@ -27,7 +27,7 @@ My thoughts and beliefs often torment the hell out of me, so I've learned to cel
 
 The messenger cake worked well in Helsinki, but unfortunately the news were too bitter a dish to many. The results raised several confused reactions from psychologists who refused to believe the sorry state of status quo. I like the term "hand-wringling" as a description, the loudest arguments being (in no specific order):
 
-[![If you're a researcher in the psychological sciences, denial of troubles isn't a real option.](./images/defeating-the-crisis-of-confidence-in-science-3-3-ideas/this-is-fine-dog.png)](https://mattiheino.com/wp-content/uploads/2015/09/this-is-fine-dog.png) Don't just sit there, go make the world a better place!
+![If you're a researcher in the psychological sciences, denial of troubles isn't a real option.](./images/defeating-the-crisis-of-confidence-in-science-3-3-ideas/this-is-fine-dog.png) Don't just sit there, go make the world a better place!
 
 1. The replicators didn't know what they were doing.
 2. The studies replicated weren't representative of the actual state of art.
@@ -88,7 +88,7 @@ The field I'm most interested in is health psychology. So when [one](https://twi
 
 [Susan Michie](https://twitter.com/SusanMichie) addressed the reproducibility problem in her talk at the annual conference of the European Health Psychology Society, with an emphasis on behavior change. She mostly addressed reporting, but [questionable research practices](https://www.authorea.com/users/2013/articles/31568/_show_article) are undoubtedly important, too.
 
-[![Susan Michie presenting in EHPS 2015. Click to enlarge.](./images/defeating-the-crisis-of-confidence-in-science-3-3-ideas/img_20150903_180844.jpg)](https://mattiheino.com/wp-content/uploads/2015/10/img_20150903_180844.jpg) Susan Michie presenting in EHPS 2015. Click to enlarge.
+![Susan Michie presenting in EHPS 2015.](./images/defeating-the-crisis-of-confidence-in-science-3-3-ideas/img_20150903_180844.jpg) Susan Michie presenting in EHPS 2015.
 
 This became clear in the very same conference, when a PHD student told me how a professor reacted to his null results: "Ok, send me your data and you'll have a statistically significant finding in two weeks". I have hope that young researchers are getting more savvy with methods and more confident that the game of publishing can be changed. This opens the door for fraudulent authority figures to exit the researcher pool like [Diederik Stapel](https://en.wikipedia.org/wiki/Diederik_Stapel) – by the hands of their students, instead of a failed peer-review process.
 

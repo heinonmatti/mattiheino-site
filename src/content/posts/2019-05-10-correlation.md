@@ -28,17 +28,17 @@ Many promising options are based on [mutual information](https://medium.com/swlh
 
 Let us first look at the [Anscombe's Quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet), which should be familiar to everyone who ever sat in a stats class. I have added linear regression lines as a visualisation of correlation.
 
-[![](./images/correlation/anscombe_quartet.png)](https://mattiheino.com/wp-content/uploads/2019/05/anscombe_quartet.png)
+![](./images/correlation/anscombe_quartet.png)
 
 Anscombe originally created these plots to illustrate the importance of data visualisation. They all have the same mean, variance, and Pearson correlation, but tell a wildly different story about the data. It seems like MIC most clearly depicts the expected behaviour: low on the bottom-right plot, while high on the others. There are only 11 data points, though, so it's limited what we can infer from the measures' performance. The next two plots picked from the [Datasaurus Dozen](https://www.research.autodesk.com/publications/same-stats-different-graphs/) also have the matching mean, variance, and correlation:
 
-[![](./images/correlation/datasaurus_duo.png)](https://mattiheino.com/wp-content/uploads/2019/05/datasaurus_duo.png)
+![](./images/correlation/datasaurus_duo.png)
 
 As we can see, traditional correlation measures fail miserably, and distance correlation is not great either. MIC and BCMI see the dinosaur. It is also quite curious that Xi fails to see the circle.
 
 Finally, let's illustrate the Dead Man Bias with an imaginary sample. So, imagine the vertical axis being one performance measure, and the horizontal axis another one. 20% of people got the hammer (scoring zero on both measures) while the rest performed randomly. This sample has the same number of points as the earlier plot, making it possible to compare performances. Points are jittered to avoid overplotting.
 
-[![](./images/correlation/taleb_deadman2.png)](https://mattiheino.com/wp-content/uploads/2019/05/taleb_deadman2.png)
+![](./images/correlation/taleb_deadman2.png)
 
 As we can see, while Pearson correlation is driven entirely by the hammered folks, Spearman is *even worse*. MIC shows a perfect relationship, illustrating the issue we discussed earlier when introducing Xi. But Xi is seeing a much interdependence as with the dinosaur, which isn't great. Of course, none of these measures know about the hammer routine, so maybe it's not entirely their fault.
 

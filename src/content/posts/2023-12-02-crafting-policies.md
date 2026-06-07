@@ -9,7 +9,7 @@ draft: false
 tags: ['complexity', 'decision-making', 'development', 'future', 'interventions', 'policy', 'society', 'uncertainty']
 wp_guid: "http://mattiheino.com/?p=4470"
 ---
-[![](./images/crafting-policies/dalle-illustration-for-crafting-policies.png)](https://mattiheino.com/wp-content/uploads/2023/12/dalle-illustration-for-crafting-policies.png)
+![](./images/crafting-policies/dalle-illustration-for-crafting-policies.png)
 
 This piece has been originally published as: *Heino, M. T. J., Bilodeau, S., Fox, G., Gershenson, C., & Bar-Yam, Y. (2023). Crafting Policies for an Interconnected World. WHN Science Communications, 4(10), 1–1. <https://doi.org/10.59454/whn-2310-348>*
 

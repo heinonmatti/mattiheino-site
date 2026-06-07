@@ -17,7 +17,7 @@ Nota bene: In June 2024, this topic is part of an [online course for the New Eng
 
 ### The Pitfall of a False Sense of Safety
 
-[![](./images/sense-of-safety/image-5.png)](https://mattiheino.com/wp-content/uploads/2024/05/image-5.png)
+![](./images/sense-of-safety/image-5.png)
 
 In the paper we first of all argue that we should understand so-called disaster myths, a prominent one being the myth of mass panic. This refers to the idea that people tend to lose control and go crazy during crises when they worry or fear too much, which implies we need to intervene on risk perceptions. But in fact, no matter what disaster movies or news reports show you, actual panic situations are rare. During crises, people tend to act prosocially. Hence, decision-makers should shift their focus from mitigating fear and worry – potentially leading to a false sense of safety – towards empowering communities to autonomously launch effective responses. This approach fosters resilience rather than complacency.
 
@@ -25,11 +25,11 @@ In the paper we first of all argue that we should understand so-called disaster 
 
 Secondly, we represent some basic ideas of decision making under uncertainty, via the concept of [attractor landscapes](http://At-tractor what-tractor? Tipping points in behaviour change science, with applications to risk management). I now hope we would've talked about stability landscapes, but that ship already sailed. The idea can be understood like this: Say your society is the red ball, and each tile a state it's in (e.g. "revolt", "thriving", "peace", etc.) The society moves through a path of states.
 
-[![](./images/sense-of-safety/image-7.png)](https://mattiheino.com/wp-content/uploads/2024/05/image-7.png)
+![](./images/sense-of-safety/image-7.png)
 
 These states are not equally probable; some are more "sticky" and harder to escape, like valleys in a landscape. These collections of states are called attractors. The area between two attractors is a tipping point (or here, kind of a "tipping ridge").
 
-[![](./images/sense-of-safety/image-9.png)](https://mattiheino.com/wp-content/uploads/2024/05/image-9.png)
+![](./images/sense-of-safety/image-9.png)
 
 I wholeheartedly encourage you to spend five minutes on Nicky Case's interactive introduction to attractor landscapes [here](https://ncase.me/attractors/). It's truly enlightening. The main thing to know about tipping points: as you cross them, nothing happens for a long time... Until everything happens at once.
 
@@ -37,7 +37,7 @@ I wholeheartedly encourage you to spend five minutes on Nicky Case's interactive
 
 All attractors are not made equal, though. For some, when you enter, you'll never escape. These are called "ruin risks" (orange tile). If there is possibility of ruin in your landscape, probability dictates you will eventually reach it, obliterating all future aspirations.
 
-[![](./images/sense-of-safety/image-10.png)](https://mattiheino.com/wp-content/uploads/2024/05/image-10.png)
+![](./images/sense-of-safety/image-10.png)
 
 As a basic principle, it does not make sense to see how close to the ledge you can walk and not fall. In personal life, you can take ruin risks to impress your friends or shoot for a Darwin Award. But keep your society away from the damned cliff.
 
@@ -47,11 +47,11 @@ As Nassim Nicholas Taleb teaches us: Risk is ok, ruin is not.
 
 In reality, not all states are visible from the start. Policymakers often face a "fog of war" (grey areas). Science can sometimes highlight where the major threats lie ("Here be Dragons"), but the future often remains opaque.
 
-[![](./images/sense-of-safety/image-11.png)](https://mattiheino.com/wp-content/uploads/2024/05/image-11.png)
+![](./images/sense-of-safety/image-11.png)
 
 To make things worse for traditional planning, as you move a step from the starting position, the tiles may change. So you defined an ideal state, a Grand Vision (yellow) and set the milestones to reach it? If you remain steadfast, you could now be heading at a dead end or worse. Uh-oh.
 
-[![](./images/sense-of-safety/image-12.png)](https://mattiheino.com/wp-content/uploads/2024/05/image-12.png)
+![](./images/sense-of-safety/image-12.png)
 
 (nb. due to space constraints, this image didn't make it to the paper)
 

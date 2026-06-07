@@ -50,7 +50,7 @@ Atlantinpuolisessa Kanadassa, Australiassa ja Uudessa-Seelannissa on viimeisen r
 3. Kansalaisvaltioiden lisääntynyt riippuvuus lääkeyhtiöjättiläisistä. Onko se toivottavaa?
 4. Seuraava pandemia. Jos emme muuta mitään, kuinka paljon haluamme lyödä vetoa sen puolesta, että saamme ensi kerralla rokotteen ennen kuin korjaamaton vahinko on tapahtunut?
 
-[![](./images/irtikytkeytymiskyvykkyys/image-2.png)](https://mattiheino.com/wp-content/uploads/2021/12/image-2.png)
+![](./images/irtikytkeytymiskyvykkyys/image-2.png)
 
 Kuten THL:n seminaarissa [esitin](https://twitter.com/Heinonmatti/status/1406631493783412738), meidän tulisi tehdä kansana päätöksiä siitä, millaisia arvoja haluamme toteuttaa pandemiauhkien kanssa toimiessa. Kun tämä on yhdessä sovittu, pienemmille yksiköille (AVIt, maakunnat, kaupungit, kylät, naapurustot, perheet, yksilöt) täytyy antaa autonomiaa toteuttaa koonsa puolesta omaan vaikutuspiirinsä kuuluvia käytännön torjuntatoimien toteutuksia, omia vahvuuksiaan hyödyntäen. Mutta parasta olisi, jos proaktiivinen ja tehokas viranomaisvaste pääosiltaan poistaisi kansalaisten *tarpeen* käyttää omia resurssejaan tartuntataudin selättämiseksi.
 

@@ -43,19 +43,19 @@ Here's what's in the file:
 
 ## 2-level cluster randomization: sample size aide
 
-[![2-level cluster randomization sample size aide](./images/taking-back-the-power-in-cluster-randomization/2-level1.png)](https://mattiheino.com/wp-content/uploads/2015/10/2-level1.png)
+![2-level cluster randomization sample size aide](./images/taking-back-the-power-in-cluster-randomization/2-level1.png)
 
 Use this sheet to calculate sample size for 2-level cluster randomization when you know power and a bunch of other stuff. Some links and guidance is included. Also includes two toys (the rightmost and the bottom yellow blocks) that give you optimistic estimates of whether your "discovery" is false. These are based on this [paper](http://rsos.royalsocietypublishing.org/content/1/3/140216). I highly recommend it if you want to make sense of p-values.
 
 ## Find the ICC (intra-class correlation) in SPSS and R
 
-[![ICC](./images/taking-back-the-power-in-cluster-randomization/icc.png)](https://mattiheino.com/wp-content/uploads/2015/10/icc.png)
+![ICC](./images/taking-back-the-power-in-cluster-randomization/icc.png)
 
 One of the big boogiemen, to me at least, of the whole enterprise was the intra-class correlation (apparently, often used synonymously with "intra-cluster" correlation). I jotted down instructions that I wish I had when I began meddling with this stuff.
 
 ## Power calculator for a 3-level cluster randomized design
 
-[![3-level](./images/taking-back-the-power-in-cluster-randomization/3-level.png)](https://mattiheino.com/wp-content/uploads/2015/10/3-level.png)
+![3-level](./images/taking-back-the-power-in-cluster-randomization/3-level.png)
 
 Here's the dream crusher. In the "Justifications..."-sheet you'll find mathematical formulas and the logic behind the machine, but it's not super obvious for us mortals. I managed to make it work in Excel by combining pieces of code from all over the internet; I'm hoping you don't need to do the same.
 

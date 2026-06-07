@@ -19,7 +19,7 @@ Koska ihminen ei ole eristetty olento, käyttäytymisen muutos ei yleensä ole a
 
 Ihmisen toimintaa sisältävien ongelmien hahmottamisessa apuun tulee COM-B -malli, joka sisältää kolme pääosa-aluetta: motivaation, kyvykkyyden ja tilaisuudet. Mallin avulla voidaan hahmottaa, miten nämä osa-alueet vaikuttavat käsillä olevaan ongelmaan ja millaiset muutokset voisivat olla tehokkaita. Usein esimerkiksi ajatellaan, että tarjoamalla *oikeaa tietoa*, ihmisen toiminta muuttuu. Näemme kuitenkin mallista heti, että tämä on vain yksi muutoksen osatekijä. Joskus myös lukkiudumme ajatukseen, että ongelmassa on kyse *motivaation* puutteesta, jolloin ratkaisut typistyvät palkkioihin ja rangaistuksiin. Mutta jos ajattelemme ravintolatupakoinnin äkillistä loppumista, kyse oli enemmänkin siitä, että järjestelmä oli valmis ottamaan vastaan lain, joka poisti tupakoinnin *tilaisuudet* – mikä taas vaikutti motivaatioon ja vahvisti muuttunutta käyttäytymistä.
 
-[![](./images/kayttaytymisen-muutosjohtaminen/image.png)](https://mattiheino.com/wp-content/uploads/2023/06/image.png)
+![](./images/kayttaytymisen-muutosjohtaminen/image.png)
 
 **Kuva 1.** COM-B -malli (Capability, Opportity, Motivation, Behaviour; Michie et al., 2011), johon on lisätty muiden käyttäytyminen. Mallia voidaan käyttää työkaluna toimenpiteiden suunnittelussa, vaikkei se sisälläkään todellisuuden kompleksisuutta.
 
@@ -45,7 +45,7 @@ Mikä sitten olisi muutoksen todellisuutta paremmin kuvastava viitekehys? Jotta 
 
 Muutoksia kuvaillaan usein maastoissa, joissa on yksi tai useampi laakso, ja yhden laakson pohjalla sijaitsee pallo, jonka sijainti kuvastaa järjestelmän nykytilaa. Maaston muoto määrittyy kaikkien niiden yhteenkytkeytyneiden tekijöiden perusteella, jotka ilmiöön vaikuttavat.
 
-[![](./images/kayttaytymisen-muutosjohtaminen/image-1.png)](https://mattiheino.com/wp-content/uploads/2023/06/image-1.png)
+![](./images/kayttaytymisen-muutosjohtaminen/image-1.png)
 
 **Kuva 2.** Äkillisten muutosten tapahtumisen tavat. Muutosmaasto sisältää kaksi vaihtoehtoista laaksoa jotka kuvastavat asioiden tilaa (esim. sota ja rauha). Pallon sijainti kuvastaa järjestelmän kunkinhetkistä tilannetta (esim. onko yhteiskunta tällä hetkellä sodan vai rauhan tilassa). Äkillinen muutos voi tapahtua keskellä olevan kummun – ns. keikahdus- tai leimahduspisteen – ylityttyä kahdella tavalla ("pysyvämpi" vs. "pinnallinen" muutosreitti).
 

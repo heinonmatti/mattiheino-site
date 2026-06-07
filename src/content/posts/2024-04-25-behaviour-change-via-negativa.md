@@ -31,7 +31,7 @@ Understanding and influencing human behavior is usually not a simple endeavor. B
 
 If you want a schematic of how I see behaviour change science, it might be something like the triangle below. It's a somewhat silly representation, but what the triangle tries to convey, is that complex systems expertise sets out strategic priorities: Which futures should we pursue, and what kinds of methods make sense to get us going (key word is often *evolution*).
 
-[![](./images/behaviour-change-via-negativa/image-1.png)](https://mattiheino.com/wp-content/uploads/2024/04/image-1.png)
+![](./images/behaviour-change-via-negativa/image-1.png)
 
 Behaviour change science, on the other hand, is much more tactical, offering tools and frameworks to understand how to make things happen closer to where the rubber hits the road.
 
