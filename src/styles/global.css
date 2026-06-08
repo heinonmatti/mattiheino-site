@@ -16,6 +16,27 @@
 @import '@fontsource-variable/newsreader/wght-italic.css';
 @import '@fontsource-variable/inter/index.css';
 
+/* Metric-matched fallback faces (generated with capsize from the shipped woff2).
+   Georgia/Arial are scaled to occupy the EXACT space of Newsreader/Inter, so when
+   the web fonts swap in there is no reflow (kills the font half of the CLS). The
+   web fonts still load and apply — this only adjusts the brief fallback, not the
+   locked design. Regenerate if the primary fonts change. */
+@font-face {
+  font-family: "Newsreader Variable Fallback";
+  src: local('Georgia');
+  ascent-override: 76.4676%;
+  descent-override: 27.5699%;
+  size-adjust: 96.1192%;
+}
+@font-face {
+  font-family: "Inter Variable Fallback";
+  src: local('Arial'), local('ArialMT');
+  ascent-override: 90.4365%;
+  descent-override: 22.518%;
+  line-gap-override: 0%;
+  size-adjust: 107.1194%;
+}
+
 :root {
   /* ─────── Colour ─────── */
   --cream: #faf5ec;
@@ -32,10 +53,10 @@
   --rule-soft: #ece4d2;
 
   /* ─────── Type ─────── */
-  --font-serif: 'Newsreader Variable', 'Newsreader', Georgia, 'Iowan Old Style',
-                'Palatino Linotype', 'Times New Roman', serif;
-  --font-sans: 'Inter Variable', 'Inter', system-ui, -apple-system, 'Segoe UI',
-                Roboto, Helvetica, Arial, sans-serif;
+  --font-serif: 'Newsreader Variable', 'Newsreader Variable Fallback', 'Newsreader',
+                Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif;
+  --font-sans: 'Inter Variable', 'Inter Variable Fallback', 'Inter', system-ui,
+                -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
 
   --body-size: 17px;
   --body-line: 1.55;
@@ -683,7 +704,8 @@ img { max-width: 100%; height: auto; display: block; }
 }
 
 /* Library topic filter (Pagefind content search sits above) */
-.lib-search { margin: 6px 0 28px; }
+/* min-height reserves the box so Pagefind's late JS injection causes no layout shift. */
+.lib-search { margin: 6px 0 28px; min-height: 51px; }
 .lib-topics { margin: 0 0 36px; }
 .lib-topics-lbl {
   display: block;

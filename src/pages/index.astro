@@ -2,6 +2,7 @@
 import Base from '../layouts/Base.astro';
 import { Image } from 'astro:assets';
 import portrait from '../assets/portrait.png';
+import SearchBox from '../components/SearchBox.astro';
 import { allLive } from '../lib/collections';
 import { cleanSlug } from '../lib/slug';
 
@@ -103,14 +104,7 @@ const rows = items.map((e) => ({
     }
   </div>
 
-  <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
-  <div id="search" class="lib-search"></div>
-  <script is:inline src="/pagefind/pagefind-ui.js"></script>
-  <script is:inline>
-    window.addEventListener('DOMContentLoaded', () => {
-      new PagefindUI({ element: '#search', showSubResults: true });
-    });
-  </script>
+  <SearchBox />
 
   <ul class="lh-list" id="postlist">
     {

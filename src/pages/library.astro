@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import SearchBox from '../components/SearchBox.astro';
 import { allLive, type Item } from '../lib/collections';
 import { cleanSlug } from '../lib/slug';
 
@@ -24,37 +25,37 @@ const restTags = sortedTags.slice(25);
 <Base title="Library – Matti T.J. Heino">
   <h1>Library</h1>
 
-  <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
-  <div id="search" class="lib-search"></div>
-  <script is:inline src="/pagefind/pagefind-ui.js"></script>
-  <script is:inline>
-    window.addEventListener('DOMContentLoaded', () => {
-      new PagefindUI({ element: '#search', showSubResults: true });
-    });
-  </script>
+  <SearchBox />
 
   <div class="lib-topics">
-    <span class="lib-topics-lbl">Filter by topic</span>
-    <div class="lh-chips lib-chips">
-      {topTags.map((t) => (
-        <button type="button" class="lh-chip" data-tag={t} data-on="0">{t}</button>
-      ))}
+    <button type="button" class="lh-fold" id="topicFold" aria-expanded="false">
+      <span class="lh-fold-chev" aria-hidden="true">›</span>
+      Browse by topic
+    </button>
+    {/* Chips hidden by default: a wrapping chip block above the list re-flows on
+        font load and shifts the list (CLS). Folded, like the home page. */}
+    <div id="topicChips" hidden>
+      <div class="lh-chips lib-chips">
+        {topTags.map((t) => (
+          <button type="button" class="lh-chip" data-tag={t} data-on="0">{t}</button>
+        ))}
+      </div>
+      {
+        restTags.length > 0 && (
+          <>
+            <button type="button" class="lh-fold" id="moreFold" aria-expanded="false">
+              <span class="lh-fold-chev" aria-hidden="true">›</span>
+              More topics
+            </button>
+            <div class="lh-chips lib-chips" id="moreChips" hidden>
+              {restTags.map((t) => (
+                <button type="button" class="lh-chip" data-tag={t} data-on="0">{t}</button>
+              ))}
+            </div>
+          </>
+        )
+      }
     </div>
-    {
-      restTags.length > 0 && (
-        <>
-          <button type="button" class="lh-fold" id="moreFold" aria-expanded="false">
-            <span class="lh-fold-chev" aria-hidden="true">›</span>
-            More topics
-          </button>
-          <div class="lh-chips lib-chips" id="moreChips" hidden>
-            {restTags.map((t) => (
-              <button type="button" class="lh-chip" data-tag={t} data-on="0">{t}</button>
-            ))}
-          </div>
-        </>
-      )
-    }
   </div>
 
   <div id="libList">
@@ -110,6 +111,16 @@ const restTags = sortedTags.slice(25);
         apply();
       }),
     );
+
+    const topicFold = document.getElementById('topicFold');
+    const topicChips = document.getElementById('topicChips');
+    if (topicFold && topicChips) {
+      topicFold.addEventListener('click', () => {
+        const open = topicFold.getAttribute('aria-expanded') === 'true';
+        topicFold.setAttribute('aria-expanded', open ? 'false' : 'true');
+        topicChips.hidden = open;
+      });
+    }
 
     const fold = document.getElementById('moreFold');
     const more = document.getElementById('moreChips');
