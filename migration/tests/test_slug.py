@@ -52,8 +52,15 @@ def test_redirect_lines_for_empty_wp_slug_returns_empty():
 
 
 def test_redirect_lines_for_changed_slug_bare_variant():
+    # The bare slug is emitted in BOTH the trailing-slash and the no-slash
+    # form. Cloudflare Pages does not add a missing trailing slash before it
+    # matches _redirects, so /<slug> (no slash) 404s unless it has its own
+    # rule. WordPress resolved the bare slug directly; this preserves that.
     lines = redirect_lines_for(wp_slug="old-name", new_slug="new-name", new_path="/posts/new-name/")
-    assert lines == ["/old-name/  /posts/new-name/  301"]
+    assert lines == [
+        "/old-name/  /posts/new-name/  301",
+        "/old-name  /posts/new-name/  301",
+    ]
 
 
 def test_redirect_lines_for_dated_wp_url_when_year_month_given():
@@ -63,6 +70,9 @@ def test_redirect_lines_for_dated_wp_url_when_year_month_given():
     )
     assert "/2014/11/old-name/  /posts/new-name/  301" in lines
     assert "/old-name/  /posts/new-name/  301" in lines
+    assert "/old-name  /posts/new-name/  301" in lines  # no-slash bare twin
+    # Dated forms keep the trailing slash only — no no-slash twin.
+    assert "/2014/11/old-name  /posts/new-name/  301" not in lines
 
 
 def test_redirect_lines_for_full_dated_url_when_day_given():
@@ -75,6 +85,10 @@ def test_redirect_lines_for_full_dated_url_when_day_given():
     assert "/2014/11/03/old-name/  /posts/new-name/  301" in lines
     assert "/2014/11/old-name/  /posts/new-name/  301" in lines
     assert "/old-name/  /posts/new-name/  301" in lines
+    assert "/old-name  /posts/new-name/  301" in lines  # no-slash bare twin
+    # Only the bare slug gets a no-slash twin; dated forms do not.
+    assert "/2014/11/old-name  /posts/new-name/  301" not in lines
+    assert "/2014/11/03/old-name  /posts/new-name/  301" not in lines
 
 
 def test_redirect_lines_for_same_slug_still_emits_prefix_change_rules():
@@ -85,5 +99,15 @@ def test_redirect_lines_for_same_slug_still_emits_prefix_change_rules():
         year="2015", month="04", day="18",
     )
     assert "/thing/  /posts/thing/  301" in lines
+    assert "/thing  /posts/thing/  301" in lines  # no-slash bare twin
     assert "/2015/04/thing/  /posts/thing/  301" in lines
     assert "/2015/04/18/thing/  /posts/thing/  301" in lines
+
+
+def test_redirect_lines_for_no_slash_twin_targets_canonical_slashed_path():
+    # Regression for the /besp 404: the no-slash twin must point at the
+    # canonical /posts/<slug>/ (WITH slash), so a bare inbound link reaches
+    # the real page in a single hop.
+    lines = redirect_lines_for(wp_slug="besp", new_slug="besp", new_path="/posts/besp/")
+    assert "/besp/  /posts/besp/  301" in lines
+    assert "/besp  /posts/besp/  301" in lines
