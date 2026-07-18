@@ -573,7 +573,7 @@ img { max-width: 100%; height: auto; display: block; }
   color: var(--ink-soft);
   font-style: italic;
 }
-.post-infographic { margin: var(--gap) 0; }
+.post-hero { margin: var(--gap) 0; }
 
 /* Responsive video + slide embeds (converted WP [youtube]/[vimeo]/[embed]/[slideshare]). */
 .video-embed,

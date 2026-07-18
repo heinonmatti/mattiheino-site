@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "prebuild": "node scripts/check-msm-drafts.mjs && node scripts/check-rss-guids.mjs",
+    "prebuild": "node scripts/check-msm-drafts.mjs && node scripts/check-rss-guids.mjs && node scripts/check-images.mjs",
     "build": "astro build",
     "postbuild": "pagefind --site dist",
     "preview": "astro preview",

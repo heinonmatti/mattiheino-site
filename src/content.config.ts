@@ -3,7 +3,7 @@ import { glob } from 'astro/loaders';
 import { z } from 'astro/zod';
 
 // Shared schema for both registers. `image()` is provided by the schema
-// context so infographics get Astro's asset pipeline (AVIF/WebP, hashing).
+// context so hero images get Astro's asset pipeline (AVIF/WebP, hashing).
 const postSchema = ({ image }: { image: () => any }) =>
   z.object({
     title: z.string(),
@@ -22,7 +22,9 @@ const postSchema = ({ image }: { image: () => any }) =>
       .enum(['native', 'mattiheino-wp', 'motivationselfmanagement'])
       .default('native'),
 
-    infographic: z
+    // Hero image: renders under the title and becomes the post's share card.
+    // (Renamed from `infographic` 2026-07-19, before any post used it.)
+    hero: z
       .object({
         src: image(),
         alt: z.string(),
@@ -41,7 +43,9 @@ const postSchema = ({ image }: { image: () => any }) =>
         whatsapp_status: z.string().optional(),
       })
       .optional(),
-    // queued -> the cross-poster Action fans out on next push, then flips to posted.
+    // Manual bookkeeping only. No cross-poster automation exists (verified
+    // 2026-07-18) - sharing is done by hand. Feasibility scope lives in the
+    // personal-assistant wiki: projects/Personal/mattiheino-site/threads/.
     social_status: z.enum(['skip', 'queued', 'posted']).default('skip'),
 
     // Cross-links between the two registers.

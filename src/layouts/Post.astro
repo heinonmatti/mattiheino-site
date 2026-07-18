@@ -3,19 +3,58 @@ import Base from './Base.astro';
 import DateStamp from '../components/DateStamp.astro';
 import AppliedDisclaimer from '../components/AppliedDisclaimer.astro';
 import NewsletterCTA from '../components/NewsletterCTA.astro';
-import { Image } from 'astro:assets';
+import { Image, getImage } from 'astro:assets';
+import type { ImageMetadata } from 'astro';
 
 interface Props {
   data: any;
   collection: 'posts' | 'applied-musings';
+  /** Raw Markdown body – lets the share card fall back to the first body image. */
+  body?: string;
 }
-const { data, collection } = Astro.props;
+const { data, collection, body } = Astro.props;
 const isApplied = collection === 'applied-musings';
 
 // Cross-link the other register if a companion is named.
 const companionSlug = isApplied ? data.rigorous_companion : data.applied_companion;
+
+// Share-card image, WordPress-featured-image style: the hero if declared,
+// else the first ./-relative raster image in the body, else the site portrait
+// (Base's default). GIFs and remote images are skipped. jpg output because
+// LinkedIn's link scraper has patchy WebP support.
+const bodyImages = import.meta.glob<{ default: ImageMetadata }>(
+  '../content/*/images/**/*.{png,jpg,jpeg,webp,PNG,JPG,JPEG,WEBP}'
+);
+let shareSrc: ImageMetadata | undefined;
+let shareAlt = '';
+if (data.hero) {
+  shareSrc = data.hero.src;
+  shareAlt = data.hero.alt;
+} else if (body) {
+  const m = body.match(/!\[([^\]]*)\]\(\s*\.\/([^)\s]+\.(?:png|jpe?g|webp))\s*\)/i);
+  const loader = m && bodyImages[`../content/${collection}/${m[2]}`];
+  if (m && loader) {
+    const candidate = (await loader()).default;
+    // Icons and badges make bad share cards; below 400 px wide keep the portrait.
+    if (candidate.width >= 400) {
+      shareSrc = candidate;
+      shareAlt = m[1] || data.title;
+    }
+  }
+}
+const share = shareSrc
+  ? await getImage({ src: shareSrc, width: 1200, format: 'jpg' })
+  : undefined;
 ---
-<Base title={data.title} description={data.description} ogType="article">
+<Base
+  title={data.title}
+  description={data.description}
+  ogType="article"
+  ogImage={share ? new URL(share.src, Astro.site).href : undefined}
+  ogImageAlt={share ? shareAlt : undefined}
+  ogImageWidth={share?.attributes.width}
+  ogImageHeight={share?.attributes.height}
+>
   <article class="post">
     <a class="post-backlink" href="/library/" data-pagefind-ignore>← to the library</a>
     {isApplied && <AppliedDisclaimer companionSlug={data.rigorous_companion} />}
@@ -30,11 +69,11 @@ const companionSlug = isApplied ? data.rigorous_companion : data.applied_compani
     </header>
 
     {
-      data.infographic && (
-        <figure class="post-infographic">
+      data.hero && (
+        <figure class="post-hero">
           <Image
-            src={data.infographic.src}
-            alt={data.infographic.alt}
+            src={data.hero.src}
+            alt={data.hero.alt}
             widths={[480, 800, 1200]}
             sizes="(max-width: 800px) 100vw, 800px"
           />
