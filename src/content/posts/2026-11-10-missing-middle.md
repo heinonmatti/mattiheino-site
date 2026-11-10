@@ -3,8 +3,7 @@ title: "The Missing Middle: Understanding and Shaping Community Resilience"
 description: "Slides and abstract of my talk at the 19th European Public Health Conference, Bilbao, 12 November 2026."
 published: 2026-11-10
 lang: en
-vetting_status: done
-vetted_on: 2026-11-10
+vetting_status: pending
 draft: true
 tags: []
 ---
