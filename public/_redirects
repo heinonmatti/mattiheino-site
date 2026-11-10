@@ -443,3 +443,8 @@ https://www.motivationselfmanagement.com/*   https://mattiheino.com/applied-musi
 # Renamed route: /archive/ -> /library/
 /archive/  /library/  301
 /archive  /library/  301
+
+# EPH 2026 talk: the QR code on the slides points at /missing-middle.
+# 302 rather than 301, so browsers do not cache it if the page ever moves.
+/missing-middle  /posts/missing-middle/  302
+/missing-middle/  /posts/missing-middle/  302
