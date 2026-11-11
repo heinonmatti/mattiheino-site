@@ -32,6 +32,16 @@ const postSchema = ({ image }: { image: () => any }) =>
       })
       .optional(),
 
+    // Share card only: the picture LinkedIn, WhatsApp etc. show for the link.
+    // Never rendered on the page; wins over the hero and the first body image.
+    // Best at 1200 x 630 px (the 1.91:1 shape the platforms show uncropped).
+    card: z
+      .object({
+        src: image(),
+        alt: z.string().trim().min(1),
+      })
+      .optional(),
+
     social_copy: z
       .object({
         linkedin: z.string().optional(),

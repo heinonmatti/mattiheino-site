@@ -127,11 +127,27 @@ folder.** Some existing images are near 5 MB; the build now warns about any file
 in a native post.
 
 **The share card picks itself, WordPress-style.** Every post's share picture is chosen in
-this order: the `hero` if you set one, else the first picture in the post body, else the
-site portrait. So a post with any decent image advertises itself with no extra work.
+this order: the `card` if you set one (below), else the `hero`, else the first picture in
+the post body, else the site portrait. So a post with any decent image advertises itself
+with no extra work.
 Pictures under 400 px wide are skipped (icons make bad cards), GIFs are skipped, and the
 card is served as JPG because LinkedIn's link reader handles WebP unreliably. Old imported
 posts with images get their cards too – verified on built pages 2026-07-19.
+
+**A share card that is not on the page.** For a link picture that never shows on the page
+itself – a talk's title slide, say – add this to the frontmatter:
+
+```yaml
+card:
+  src: ./images/missing-middle/share-card-title-slide.png
+  alt: "Title slide of the talk ‘The Missing Middle: …’ by Matti T. J. Heino"
+```
+
+It wins over the hero and the body pictures, for the share card only. Make the picture
+1200 × 630 pixels: that is the shape LinkedIn, Facebook and Bluesky show without cropping.
+A 16:9 slide with a white background fits by shrinking it to 1120 × 630 and centring it on
+white, so nothing is cut off. The build stops if the file is missing or the alt text is
+empty. First used 2026-11-11, on the EPH 2026 talk page.
 
 ---
 

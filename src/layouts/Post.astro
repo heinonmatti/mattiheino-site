@@ -18,16 +18,20 @@ const isApplied = collection === 'applied-musings';
 // Cross-link the other register if a companion is named.
 const companionSlug = isApplied ? data.rigorous_companion : data.applied_companion;
 
-// Share-card image, WordPress-featured-image style: the hero if declared,
-// else the first ./-relative raster image in the body, else the site portrait
-// (Base's default). GIFs and remote images are skipped. jpg output because
+// Share-card image, WordPress-featured-image style: the card if declared
+// (share card only, never shown on the page), else the hero, else the first
+// ./-relative raster image in the body, else the site portrait (Base's
+// default). GIFs and remote images are skipped. jpg output because
 // LinkedIn's link scraper has patchy WebP support.
 const bodyImages = import.meta.glob<{ default: ImageMetadata }>(
   '../content/*/images/**/*.{png,jpg,jpeg,webp,PNG,JPG,JPEG,WEBP}'
 );
 let shareSrc: ImageMetadata | undefined;
 let shareAlt = '';
-if (data.hero) {
+if (data.card) {
+  shareSrc = data.card.src;
+  shareAlt = data.card.alt;
+} else if (data.hero) {
   shareSrc = data.hero.src;
   shareAlt = data.hero.alt;
 } else if (body) {
