@@ -12,7 +12,7 @@ tags: []
 
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/6xbQZLp_fvg" title="The Missing Middle: Understanding and Shaping Community Resilience" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-[Slides (PDF)](/files/heino-eph2026-missing-middle-slides.pdf) from my talk at the 19th European Public Health Conference, Bilbao, 12 November 2026.
+[Slides (PDF)](/files/heino-eph2026-missing-middle-slides.pdf).
 
 ## Abstract
 
