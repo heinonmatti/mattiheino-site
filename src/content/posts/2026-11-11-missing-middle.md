@@ -1,11 +1,12 @@
 ---
 title: "The Missing Middle: Understanding and Shaping Community Resilience"
 description: "Video, slides and abstract of my talk at the 19th European Public Health Conference, Bilbao, 12 November 2026."
-published: 2026-11-10
+published: 2026-11-11
 lang: en
-vetting_status: pending
-draft: true
-tags: []
+vetting_status: done
+vetted_on: 2026-11-11
+draft: false
+tags: ['preparedness', 'complex-systems', 'networks', 'slides', 'video']
 ---
 
 *Extended version of a presentation given in the 2026 European Public Health Conference in a workshop titled "Multihazard preparedness: how should it be done? Integrating behavioural, community, and system levels".*
