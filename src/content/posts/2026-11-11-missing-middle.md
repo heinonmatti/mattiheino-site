@@ -7,6 +7,9 @@ vetting_status: done
 vetted_on: 2026-11-11
 draft: false
 tags: ['preparedness', 'complex-systems', 'networks', 'slides', 'video']
+card:
+  src: ./images/missing-middle/share-card-title-slide.png
+  alt: "Title slide of the talk ‘The Missing Middle: Understanding and Shaping Community Resilience’ by Matti T. J. Heino, EPH 2026, Bilbao."
 ---
 
 *Extended version of a presentation given in the 2026 European Public Health Conference in a workshop titled "Multihazard preparedness: how should it be done? Integrating behavioural, community, and system levels".*
